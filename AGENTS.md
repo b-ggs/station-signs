@@ -410,3 +410,26 @@ applies system-wide. Coordinates are in pt.
   placement for the number of digits.
 
 Still open: whether to include the physical frame and fasteners.
+
+### Prague tram (DPP / PID): direction sign
+
+First pass from the rectified photo of the Újezd tram direction panel. These measurements
+describe this style of printed panel, not newer PID stop signs. Coordinates are in pt.
+
+- **Face:** 594 × 742 after trimming the right and bottom edges. The title and grid have
+  matching 6 pt side margins. Neutral gray `#d4d4d4` backing shows around the pure white
+  `#ffffff` panels and in the grid gutters. Dark ink is `#23262a`.
+- **Stop name:** centered at x 305, Source Sans 3 Bold 83 at 92% horizontal scale,
+  baseline 121. Preserve the uppercase accents. Its rounded white panel is at (6, 6),
+  582 × 171 with a 6 pt corner radius.
+- **Grid:** three columns and five rows, including empty cells. Cell left edges are
+  x 6, 202, and 398; top edges start at y 181 and repeat every 108. Cells are 190 × 104
+  with 6 pt corner radii and no outlines. Night routes use solid dark cells and pure
+  white numerals. Traced direction arrows occupy the top row.
+- **Route numbers:** Source Sans 3 SemiBold 119 at 91% horizontal scale, with baselines
+  379, 487, and 595 in the three occupied number rows. Align to the appropriate column.
+- **Footer:** stop plate code at left on the gray backing. Czech and English information-line
+  labels, phone number, and website share one rounded white plate; the DPP and PID lockups
+  share a second. The cropped plates run from y 720 to the bottom edge. The contact plate
+  has two 5 pt top corners; the logo plate only retains its 5 pt upper-left corner.
+  Match the specific photo rather than replacing the historical contact details or branding.
