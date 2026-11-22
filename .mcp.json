@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vectorcraft": {
+      "command": "vectorcraft-cli",
+      "args": ["mcp", "--connect", "127.0.0.1:7979"]
+    }
+  }
+}
