@@ -9,6 +9,7 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 |---|---|---|---|
 | <a href="stations/ueno/"><img src="stations/ueno/ueno.png" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
 | <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.png" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
+| <a href="stations/akihabara/"><img src="stations/akihabara/akihabara.png" alt="Akihabara, station name sign" width="240"></a> | [Akihabara](stations/akihabara/) | Tokyo, Japan | Sep 2026 |
 
 ## Requirements
 

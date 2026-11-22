@@ -1,0 +1,3465 @@
+{
+  "format": "vectorcraft",
+  "version": 4,
+  "generator": "VectorCraft 0.24.1",
+  "pdfCompatible": true,
+  "pdf": {
+    "mime": "application/pdf",
+    "blob": [
+      0,
+      25806
+    ]
+  },
+  "document": {
+    "version": 3,
+    "title": "ueno",
+    "units": "Points",
+    "rulers": "artboard",
+    "color_mode": "Rgb",
+    "artboards": [
+      {
+        "id": 1,
+        "name": "Akihabara JB19",
+        "rect": {
+          "x0": 0.0,
+          "y0": 0.0,
+          "x1": 1600.0,
+          "y1": 425.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      }
+    ],
+    "layers": [
+      {
+        "id": 1,
+        "name": "Layer 1",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 0
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 2,
+              "name": "Face",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1600.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1600.0,
+                            425.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            425.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Route band",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.08235294,
+                        "g": 0.39215687,
+                        "b": 0.09803922
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            242.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1470.0,
+                            242.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1557.0,
+                            286.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1470.0,
+                            330.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            330.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 4,
+              "name": "Current station block",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.9607843,
+                        "g": 0.88235295,
+                        "b": 0.09803922
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            753.0,
+                            242.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            834.0,
+                            242.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            834.0,
+                            330.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            753.0,
+                            330.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 5,
+              "name": "Badge JB19 ¬∑ black",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            367.0,
+                            27.5
+                          ],
+                          "in": [
+                            358.16344400270737,
+                            27.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            490.0,
+                            27.5
+                          ],
+                          "out": [
+                            498.83655599729263,
+                            27.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            506.0,
+                            43.5
+                          ],
+                          "in": [
+                            506.0,
+                            34.6634440027073
+                          ]
+                        },
+                        {
+                          "p": [
+                            506.0,
+                            196.5
+                          ],
+                          "out": [
+                            506.0,
+                            205.3365559972927
+                          ]
+                        },
+                        {
+                          "p": [
+                            490.0,
+                            212.5
+                          ],
+                          "in": [
+                            498.83655599729263,
+                            212.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            367.0,
+                            212.5
+                          ],
+                          "out": [
+                            358.16344400270737,
+                            212.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            351.0,
+                            196.5
+                          ],
+                          "in": [
+                            351.0,
+                            205.3365559972927
+                          ]
+                        },
+                        {
+                          "p": [
+                            351.0,
+                            43.5
+                          ],
+                          "out": [
+                            351.0,
+                            34.6634440027073
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 155.0,
+                  "h": 185.0,
+                  "radii": [
+                    16.0,
+                    16.0,
+                    16.0,
+                    16.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    351.0,
+                    27.5
+                  ]
+                }
+              }
+            },
+            {
+              "id": 6,
+              "name": "Badge JB19 ¬∑ yellow",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.9607843,
+                        "g": 0.88235295,
+                        "b": 0.09803922
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            371.0,
+                            71.0
+                          ],
+                          "in": [
+                            366.5817220013537,
+                            71.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            486.0,
+                            71.0
+                          ],
+                          "out": [
+                            490.4182779986463,
+                            71.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            494.0,
+                            79.0
+                          ],
+                          "in": [
+                            494.0,
+                            74.58172200135365
+                          ]
+                        },
+                        {
+                          "p": [
+                            494.0,
+                            194.0
+                          ],
+                          "out": [
+                            494.0,
+                            198.41827799864635
+                          ]
+                        },
+                        {
+                          "p": [
+                            486.0,
+                            202.0
+                          ],
+                          "in": [
+                            490.4182779986463,
+                            202.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            371.0,
+                            202.0
+                          ],
+                          "out": [
+                            366.5817220013537,
+                            202.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            363.0,
+                            194.0
+                          ],
+                          "in": [
+                            363.0,
+                            198.41827799864635
+                          ]
+                        },
+                        {
+                          "p": [
+                            363.0,
+                            79.0
+                          ],
+                          "out": [
+                            363.0,
+                            74.58172200135365
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 131.0,
+                  "h": 131.0,
+                  "radii": [
+                    8.0,
+                    8.0,
+                    8.0,
+                    8.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    363.0,
+                    71.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 7,
+              "name": "Badge JB19 ¬∑ white",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            375.0,
+                            81.0
+                          ],
+                          "in": [
+                            373.8954305003384,
+                            81.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            482.0,
+                            81.0
+                          ],
+                          "out": [
+                            483.1045694996616,
+                            81.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            484.0,
+                            83.0
+                          ],
+                          "in": [
+                            484.0,
+                            81.8954305003384
+                          ]
+                        },
+                        {
+                          "p": [
+                            484.0,
+                            190.0
+                          ],
+                          "out": [
+                            484.0,
+                            191.10456949966158
+                          ]
+                        },
+                        {
+                          "p": [
+                            482.0,
+                            192.0
+                          ],
+                          "in": [
+                            483.1045694996616,
+                            192.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            375.0,
+                            192.0
+                          ],
+                          "out": [
+                            373.8954305003384,
+                            192.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            373.0,
+                            190.0
+                          ],
+                          "in": [
+                            373.0,
+                            191.10456949966158
+                          ]
+                        },
+                        {
+                          "p": [
+                            373.0,
+                            83.0
+                          ],
+                          "out": [
+                            373.0,
+                            81.8954305003384
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 111.0,
+                  "h": 111.0,
+                  "radii": [
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    373.0,
+                    81.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 8,
+              "name": "Yamanote zone box Â±±",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    },
+                    "width": 5.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1377.5,
+                            22.5
+                          ],
+                          "in": [
+                            1374.738576250846,
+                            22.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1433.5,
+                            22.5
+                          ],
+                          "out": [
+                            1436.261423749154,
+                            22.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1438.5,
+                            27.5
+                          ],
+                          "in": [
+                            1438.5,
+                            24.73857625084603
+                          ]
+                        },
+                        {
+                          "p": [
+                            1438.5,
+                            80.5
+                          ],
+                          "out": [
+                            1438.5,
+                            83.26142374915398
+                          ]
+                        },
+                        {
+                          "p": [
+                            1433.5,
+                            85.5
+                          ],
+                          "in": [
+                            1436.261423749154,
+                            85.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1377.5,
+                            85.5
+                          ],
+                          "out": [
+                            1374.738576250846,
+                            85.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1372.5,
+                            80.5
+                          ],
+                          "in": [
+                            1372.5,
+                            83.26142374915398
+                          ]
+                        },
+                        {
+                          "p": [
+                            1372.5,
+                            27.5
+                          ],
+                          "out": [
+                            1372.5,
+                            24.73857625084603
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 66.0,
+                  "h": 63.0,
+                  "radii": [
+                    5.0,
+                    5.0,
+                    5.0,
+                    5.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1372.5,
+                    22.5
+                  ]
+                }
+              }
+            },
+            {
+              "id": 9,
+              "name": "Ward zone box Âå∫",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1468.0,
+                            20.0
+                          ],
+                          "in": [
+                            1464.1340067511844,
+                            20.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1525.0,
+                            20.0
+                          ],
+                          "out": [
+                            1528.8659932488154,
+                            20.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1532.0,
+                            27.0
+                          ],
+                          "in": [
+                            1532.0,
+                            23.134006751184444
+                          ]
+                        },
+                        {
+                          "p": [
+                            1532.0,
+                            81.0
+                          ],
+                          "out": [
+                            1532.0,
+                            84.86599324881556
+                          ]
+                        },
+                        {
+                          "p": [
+                            1525.0,
+                            88.0
+                          ],
+                          "in": [
+                            1528.8659932488154,
+                            88.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1468.0,
+                            88.0
+                          ],
+                          "out": [
+                            1464.1340067511844,
+                            88.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1461.0,
+                            81.0
+                          ],
+                          "in": [
+                            1461.0,
+                            84.86599324881556
+                          ]
+                        },
+                        {
+                          "p": [
+                            1461.0,
+                            27.0
+                          ],
+                          "out": [
+                            1461.0,
+                            23.134006751184444
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 71.0,
+                  "h": 68.0,
+                  "radii": [
+                    7.0,
+                    7.0,
+                    7.0,
+                    7.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1461.0,
+                    20.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 10,
+              "name": "Badge JB18",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.9607843,
+                        "g": 0.88235295,
+                        "b": 0.09803922
+                      }
+                    },
+                    "width": 5.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1436.5,
+                            344.5
+                          ],
+                          "in": [
+                            1433.738576250846,
+                            344.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1493.5,
+                            344.5
+                          ],
+                          "out": [
+                            1496.261423749154,
+                            344.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1498.5,
+                            349.5
+                          ],
+                          "in": [
+                            1498.5,
+                            346.73857625084605
+                          ]
+                        },
+                        {
+                          "p": [
+                            1498.5,
+                            405.5
+                          ],
+                          "out": [
+                            1498.5,
+                            408.26142374915395
+                          ]
+                        },
+                        {
+                          "p": [
+                            1493.5,
+                            410.5
+                          ],
+                          "in": [
+                            1496.261423749154,
+                            410.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1436.5,
+                            410.5
+                          ],
+                          "out": [
+                            1433.738576250846,
+                            410.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1431.5,
+                            405.5
+                          ],
+                          "in": [
+                            1431.5,
+                            408.26142374915395
+                          ]
+                        },
+                        {
+                          "p": [
+                            1431.5,
+                            349.5
+                          ],
+                          "out": [
+                            1431.5,
+                            346.73857625084605
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 67.0,
+                  "h": 66.0,
+                  "radii": [
+                    5.0,
+                    5.0,
+                    5.0,
+                    5.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1431.5,
+                    344.5
+                  ]
+                }
+              }
+            },
+            {
+              "id": 11,
+              "name": "Station name Áßã",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  630.0,
+                  135.0
+                ],
+                "runs": [
+                  {
+                    "text": "Áßã",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W7",
+                      "size": 131.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 12,
+              "name": "Station name Ëëâ",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  795.0,
+                  135.0
+                ],
+                "runs": [
+                  {
+                    "text": "Ëëâ",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W7",
+                      "size": 131.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 652,
+              "name": "Station name Âéü",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  960.0,
+                  135.0
+                ],
+                "runs": [
+                  {
+                    "text": "Âéü",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W7",
+                      "size": 131.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 13,
+              "name": "Station name kana",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  795.0,
+                  210.5
+                ],
+                "runs": [
+                  {
+                    "text": "„ÅÇ„Åç„ÅØ„Å∞„Çâ",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W7",
+                      "size": 44.0,
+                      "tracking": 45.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 14,
+              "name": "Station name Chinese (small)",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1088.0,
+                  67.0
+                ],
+                "runs": [
+                  {
+                    "text": "ÁßãÂè∂Âéü",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W5",
+                      "size": 40.0,
+                      "tracking": 100.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 15,
+              "name": "Station name Korean",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1088.0,
+                  133.0
+                ],
+                "runs": [
+                  {
+                    "text": "ÏïÑÌÇ§ÌïòÎ∞îÎùº",
+                    "style": {
+                      "font_family": "Apple SD Gothic Neo",
+                      "font_style": "Regular",
+                      "size": 36.0,
+                      "tracking": 250.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 16,
+              "name": "Zone Â±±",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1405.5,
+                  74.0
+                ],
+                "runs": [
+                  {
+                    "text": "Â±±",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W7",
+                      "size": 52.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 17,
+              "name": "Zone Âå∫",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1496.5,
+                  74.0
+                ],
+                "runs": [
+                  {
+                    "text": "Âå∫",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W7",
+                      "size": 52.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 18,
+              "name": "Badge JB19 ¬∑ AKB",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  428.5,
+                  64.0
+                ],
+                "runs": [
+                  {
+                    "text": "AKB",
+                    "style": {
+                      "font_family": "Hind",
+                      "font_style": "Bold",
+                      "size": 45.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 19,
+              "name": "Badge JB19 ¬∑ JB",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  428.5,
+                  121.9
+                ],
+                "runs": [
+                  {
+                    "text": "JB",
+                    "style": {
+                      "font_family": "Hind",
+                      "font_style": "SemiBold",
+                      "size": 50.8,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 20,
+              "name": "Badge JB19 ¬∑ 19",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  428.5,
+                  185.0
+                ],
+                "runs": [
+                  {
+                    "text": "19",
+                    "style": {
+                      "font_family": "Hind",
+                      "font_style": "SemiBold",
+                      "size": 84.1,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 21,
+              "name": "Previous station ÊµÖËçâÊ©ã",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  66.0,
+                  310.0
+                ],
+                "runs": [
+                  {
+                    "text": "ÊµÖËçâÊ©ã",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W5",
+                      "size": 52.0,
+                      "tracking": 125.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 22,
+              "name": "Next station Âæ°Ëå∂„ÉéÊ∞¥",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1256.0,
+                  314.0
+                ],
+                "runs": [
+                  {
+                    "text": "Âæ°Ëå∂„ÉéÊ∞¥",
+                    "style": {
+                      "font_family": "Hiragino Sans",
+                      "font_style": "W5",
+                      "size": 72.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 23,
+              "name": "Previous station Asakusabashi",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  68.5,
+                  397.0
+                ],
+                "runs": [
+                  {
+                    "text": "Asakusabashi",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Regular",
+                      "size": 50.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 96.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 24,
+              "name": "Station name Akihabara",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  795.0,
+                  398.0
+                ],
+                "runs": [
+                  {
+                    "text": "Akihabara",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Bold",
+                      "size": 60.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 25,
+              "name": "Next station Ochanomizu",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1411.0,
+                  397.0
+                ],
+                "runs": [
+                  {
+                    "text": "Ochanomizu",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Regular",
+                      "size": 52.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 94.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Right",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 26,
+              "name": "Badge JB18 ¬∑ JB",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1465.0,
+                  369.45
+                ],
+                "runs": [
+                  {
+                    "text": "JB",
+                    "style": {
+                      "font_family": "Hind",
+                      "font_style": "SemiBold",
+                      "size": 27.9,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 27,
+              "name": "Badge JB18 ¬∑ 18",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1465.0,
+                  404.15
+                ],
+                "runs": [
+                  {
+                    "text": "18",
+                    "style": {
+                      "font_family": "Hind",
+                      "font_style": "SemiBold",
+                      "size": 46.2,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.101960786,
+                          "g": 0.101960786,
+                          "b": 0.101960786
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "swatches": [
+      {
+        "name": "[None]",
+        "paint": {
+          "type": "none"
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Black",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.10980392,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.94509804,
+            "g": 0.3529412,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.96862745,
+            "g": 0.5764706,
+            "b": 0.11764706
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Amber",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9843137,
+            "g": 0.6901961,
+            "b": 0.23137255
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9882353,
+            "g": 0.93333334,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.8509804,
+            "g": 0.8784314,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Lime",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.7764706,
+            "b": 0.24705882
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.22352941,
+            "g": 0.70980394,
+            "b": 0.2901961
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Emerald",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.57254905,
+            "b": 0.27058825
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Teal",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.40784314,
+            "b": 0.21568628
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Aqua",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.13333334,
+            "g": 0.70980394,
+            "b": 0.4509804
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.6627451,
+            "b": 0.6156863
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.16078432,
+            "g": 0.67058825,
+            "b": 0.8862745
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Azure",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.44313726,
+            "b": 0.7372549
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Blue",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.18039216,
+            "g": 0.19215687,
+            "b": 0.57254905
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Indigo",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.105882354,
+            "g": 0.078431375,
+            "b": 0.39215687
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Violet",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4,
+            "g": 0.1764706,
+            "b": 0.5686275
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Purple",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.5764706,
+            "g": 0.15294118,
+            "b": 0.56078434
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Magenta",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.61960787,
+            "g": 0.0,
+            "b": 0.3647059
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rose",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.83137256,
+            "g": 0.078431375,
+            "b": 0.3529412
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Pink",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.11764706,
+            "b": 0.4745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Brown",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.78039217,
+            "g": 0.69803923,
+            "b": 0.6
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Tan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6,
+            "g": 0.5254902,
+            "b": 0.45882353
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Coffee",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4509804,
+            "g": 0.3882353,
+            "b": 0.34117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Chocolate",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3254902,
+            "g": 0.2784314,
+            "b": 0.25490198
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sand",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.7764706,
+            "g": 0.6117647,
+            "b": 0.42745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Copper",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6509804,
+            "g": 0.4862745,
+            "b": 0.32156864
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rust",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.38431373,
+            "b": 0.22352941
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Walnut",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.45882353,
+            "g": 0.29803923,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Espresso",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3764706,
+            "g": 0.21960784,
+            "b": 0.07450981
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Radial White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Radial",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sunset",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.83137256,
+                  "g": 0.078431375,
+                  "b": 0.3529412
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Ocean",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.16078432,
+                  "g": 0.67058825,
+                  "b": 0.8862745
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.18039216,
+                  "g": 0.19215687,
+                  "b": 0.57254905
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      }
+    ],
+    "swatch_groups": [
+      {
+        "name": "Grays",
+        "swatches": [
+          {
+            "name": "K=90",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.9
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=80",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.8
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=70",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.7
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=60",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.6
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=50",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.5
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=40",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.4
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=30",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.3
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=20",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.2
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=10",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.1
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      },
+      {
+        "name": "Brights",
+        "swatches": [
+          {
+            "name": "Bright Red",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.11372549,
+                "b": 0.14509805
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Yellow",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.9019608,
+                "b": 0.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Green",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.0,
+                "g": 0.9019608,
+                "b": 0.4627451
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Blue",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.16078432,
+                "g": 0.4745098,
+                "b": 1.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Violet",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.8352941,
+                "g": 0.0,
+                "b": 0.9764706
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      }
+    ],
+    "graphic_styles": [
+      {
+        "name": "Default Graphic Style",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 1,
+        "unit_box": true
+      },
+      {
+        "name": "Black Outline",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "none"
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 2,
+        "unit_box": true
+      },
+      {
+        "name": "Heavy Ink",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.105882354,
+                  "g": 0.078431375,
+                  "b": 0.39215687
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 4.0
+            }
+          ]
+        },
+        "id": 3,
+        "unit_box": true
+      },
+      {
+        "name": "Sunshine",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.94509804,
+                  "g": 0.3529412,
+                  "b": 0.14117648
+                }
+              },
+              "width": 2.0
+            }
+          ]
+        },
+        "id": 4,
+        "unit_box": true
+      }
+    ],
+    "symbols": [],
+    "guides": [],
+    "grid": {
+      "spacing": 72.0,
+      "subdivisions": 8
+    },
+    "raster_effects_ppi": 72.0,
+    "images": {},
+    "next_id": 815,
+    "metadata": {
+      "author": "",
+      "authorTitle": "",
+      "description": "",
+      "keywords": [],
+      "rating": 0,
+      "copyrightStatus": "unknown",
+      "copyrightNotice": "",
+      "copyrightUrl": "",
+      "created": 1795384083,
+      "modified": 1795388472
+    },
+    "last_view": {
+      "name": "",
+      "center": {
+        "x": 599.3663374567276,
+        "y": 643.5720049184017
+      },
+      "zoom": 0.4894713158623875,
+      "rotation": 0.0
+    }
+  },
+  "images": {}
+}
+ VCBLOBS %PDF-1.7
+%ÄÄÄÄ
+
+1 0 obj
+<</Type/Pages/Count 1/Kids[24 0 R]>>
+endobj
+2 0 obj
+<</ProcSet[/PDF/Text/ImageC/ImageB]/Font<</f0 3 0 R/f1 6 0 R/f2 9 0 R/f3 12 0 R/f4 15 0 R/f5 18 0 R/f6 21 0 R>>>>
+endobj
+3 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/ZXBSYX+HiraginoSans-W7-Identity-H/Encoding/Identity-H/DescendantFonts[4 0 R]/ToUnicode 26 0 R>>
+endobj
+4 0 obj
+<</Type/Font/Subtype/CIDFontType0/BaseFont/ZXBSYX+HiraginoSans-W7/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 5 0 R/DW 0/W[0 10 1000]>>
+endobj
+5 0 obj
+<</Type/FontDescriptor/FontName/ZXBSYX+HiraginoSans-W7/Flags 131076/FontBBox[25 -100 997 860]/ItalicAngle 0/Ascent 880/Descent -120/CapHeight 792/StemV 168.6/CIDSet 25 0 R/FontFile3 27 0 R>>
+endobj
+6 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/LHSNJL+HiraginoSans-W5-Identity-H/Encoding/Identity-H/DescendantFonts[7 0 R]/ToUnicode 29 0 R>>
+endobj
+7 0 obj
+<</Type/Font/Subtype/CIDFontType0/BaseFont/LHSNJL+HiraginoSans-W5/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 8 0 R/DW 0/W[0 10 1000]>>
+endobj
+8 0 obj
+<</Type/FontDescriptor/FontName/LHSNJL+HiraginoSans-W5/Flags 131076/FontBBox[16 -100 981 860]/ItalicAngle 0/Ascent 880/Descent -120/CapHeight 777/StemV 119.8/CIDSet 28 0 R/FontFile3 30 0 R>>
+endobj
+9 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/YMGOMA+AppleSDGothicNeo-Regular-Identity-H/Encoding/Identity-H/DescendantFonts[10 0 R]/ToUnicode 32 0 R>>
+endobj
+10 0 obj
+<</Type/Font/Subtype/CIDFontType0/BaseFont/YMGOMA+AppleSDGothicNeo-Regular/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 11 0 R/DW 0/W[0 5 865]>>
+endobj
+11 0 obj
+<</Type/FontDescriptor/FontName/YMGOMA+AppleSDGothicNeo-Regular/Flags 131076/FontBBox[34 -70 853 804]/ItalicAngle 0/Ascent 900/Descent -300/CapHeight 700/StemV 95.4/CIDSet 31 0 R/FontFile3 33 0 R>>
+endobj
+12 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/LJQCOK+Hind-Bold-Identity-H/Encoding/Identity-H/DescendantFonts[13 0 R]/ToUnicode 35 0 R>>
+endobj
+13 0 obj
+<</Type/Font/Subtype/CIDFontType0/BaseFont/LJQCOK+Hind-Bold/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 14 0 R/DW 0/W[0 0 756 1 1 690 2 2 662 3 3 605]>>
+endobj
+14 0 obj
+<</Type/FontDescriptor/FontName/LJQCOK+Hind-Bold/Flags 131076/FontBBox[23 0 667 701]/ItalicAngle 0/Ascent 1050/Descent -350/CapHeight 678/StemV 168.6/CIDSet 34 0 R/FontFile3 36 0 R>>
+endobj
+15 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/UQEEYP+Hind-SemiBold-Identity-H/Encoding/Identity-H/DescendantFonts[16 0 R]/ToUnicode 38 0 R>>
+endobj
+16 0 obj
+<</Type/Font/Subtype/CIDFontType0/BaseFont/UQEEYP+Hind-SemiBold/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 17 0 R/DW 0/W[0 0 754 1 1 379 2 2 592 3 3 358 4 4 522 5 5 541]>>
+endobj
+17 0 obj
+<</Type/FontDescriptor/FontName/UQEEYP+Hind-SemiBold/Flags 131076/FontBBox[13 -9 588 701]/ItalicAngle 0/Ascent 1050/Descent -350/CapHeight 679/StemV 144.2/CIDSet 37 0 R/FontFile3 39 0 R>>
+endobj
+18 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/EBQAYH+HelveticaNeue/Encoding/Identity-H/DescendantFonts[19 0 R]/ToUnicode 41 0 R>>
+endobj
+19 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/EBQAYH+HelveticaNeue/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 20 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 500 1 1 648 2 2 500 3 3 537 4 4 519 5 5 556 6 6 593 7 7 556 8 8 222 9 9 760 10 10 537 11 11 556 12 12 574 13 13 853 14 14 480]>>
+endobj
+20 0 obj
+<</Type/FontDescriptor/FontName/EBQAYH+HelveticaNeue/Flags 131076/FontBBox[-6 -16 789 731]/ItalicAngle 0/Ascent 952/Descent -213/CapHeight 714/StemV 95.4/CIDSet 40 0 R/FontFile2 42 0 R>>
+endobj
+21 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/YQWXHB+HelveticaNeue-Bold/Encoding/Identity-H/DescendantFonts[22 0 R]/ToUnicode 44 0 R>>
+endobj
+22 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/YQWXHB+HelveticaNeue-Bold/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 23 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 500 1 1 685 2 2 574 3 3 258 4 4 593 5 5 574 6 6 611 7 7 389]>>
+endobj
+23 0 obj
+<</Type/FontDescriptor/FontName/YQWXHB+HelveticaNeue-Bold/Flags 131076/FontBBox[-6 -13 692 714]/ItalicAngle 0/Ascent 975/Descent -217/CapHeight 714/StemV 168.6/CIDSet 43 0 R/FontFile2 45 0 R>>
+endobj
+24 0 obj
+<</Type/Page/Resources 2 0 R/MediaBox[0 0 1600 425]/BleedBox[0 0 1600 425]/TrimBox[0 0 1600 425]/Parent 1 0 R/Contents 46 0 R>>
+endobj
+25 0 obj
+<</Length 10/Filter/FlateDecode>>
+stream
+xú˚ˇ  ‡‡
+endstream
+endobj
+26 0 obj
+<</Length 407/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmíMk„0ÜÔ˛”É =§ñ„¥˘¿Rg>ÙÉ¶Ïûiíƒíê‰C˛}—á”]Ë¡2œÃ+Õ;#ëª˜√|«’ÁÂÖ¥j4ÁÕKØ3BˆäçJ˜ä»ëOYªm≥Ë†Èˆù.#§ìÏ2rú4?IûÒ,‰∑¿◊Äf¥N!ü¬]p≥Ä‡	:é“	wzüÚçJn°»˘%y£oŒfy™˘ªQÏÄNBrì*¡—◊Õäp¡\¢∞≤°◊aÛ·jù<)(£äè:) Ú<ÎÃf¡ÿ=p<≈Ãõ·hÑ<√l2˚OÚ0j}Aohà¢‰·ü˚Ê_˚!Oﬂ¢©K(æCüWçÈÄ¸œã‚—"S≠Óö^û1´(•¥Ü™m€∂ˆŸˇ˘Ç∆m«˚€õ /j®VõÊπ¥®°Z/óõHe’cπi#-k®J∫\Dzå¥èÙË))WÅV4“:–:ùπÒg6´"“.T(w¡lrÂm˚€πÕâç∆†t·r¬P¸Ñƒ€-k•˝ÆÖÁ1Ω4OoÌsÉ„V
+endstream
+endobj
+27 0 obj
+<</Length 2753/Filter/FlateDecode/Subtype/CIDFontType0C>>
+stream
+xú›î˚SSg«êséQëh8GœâVº¥’≤ﬁ/ıVE±*"Jµ í ëê@∏)  "…π%$A¬En·*®oı“©V€n’:]k];•k€mk€}Ç/ÿ∫”ôn∑¡æ?ºÔÃgæÔ3Û˝>œ˚J%#FH§RÈ∏ ç!fSLb˙ˆ4Uú≈√,–Mπ'Û2⁄=EJèí0<ˇü]Ü£ñ¡√ìΩ¢'è(Úö"ëHWåù"ëxxçü"ë¸Úãl⁄0ÍëM>⁄e˛L*≈º≠MÁ>\£“ÔUoT©uiö¥kı…ö¯Ñ4Â¨ÿŸ ø,]:ŒºÄy ÌkCÉï1…	öXÂvΩ6=M£◊•*◊ÍÁæ¨‹ú¶ö´\£’*CáØ¶*C’©jCÜZ57hcËöÉ∑*5© eö!F•Nä1$*ıqøU“kU]¸Ô
+˝¡Òújù⁄†â˝#ﬁ£ã˘∂O#ëxH§íë»ÃOˆZœcÙ®ä_d#ªFuçÓí…∫dcŸ¯g9æÓÂî¿ËQ‡7FÀd‡˜õÏ4ƒ(7ô∆˝¶ëH<<<§√À√C‚)ï*^Y/º0‹í)â‰Ö·»_Ûq”≤ø«øvBÌ„f˛≥>n•lÜdÙ∞ì-“\œ¿q^«±z¸14“2ÚŸ®“ôæπ ˝Ó¬¿Êûﬂ|/æc‡‘≥¯¢p9∫58	›vOÚxqËä›rOÇ[ÓI^C≥á.À·ñ{"º?8—kË≈N˘@%∑˝ºº›±@H!∆C7åÛÑH˜=˘VLù.XÙÚ¡-ŒZ¡Euc)∂ΩÙ˙¶˙}’q’;{.v‹¨øKòXçäDJ|ß-ä£a
+V‰‚ﬂ#aﬁŒûbùt˝Œöƒ¶DÁUÎ±ÊÆ†k∫éÑ€ƒ	ÃUÀôÍè”ˆsj*p¨ª¥∂§·hMâ›b¨"œ[Ñ’ˇRÑƒ#/=ZúÂ≥Ê€s…Vin.&Há<ç…Xøwı[MM˙ﬁ'çwö¡ã|ı»ª;Ó€¿Iöx00v—ÓÕÚ‚DqW â”—òm»ÉéZ≤3bYDk¢3Ænw_[˜ôˆûKwÆ◊ˇÏúZ∑Ωo]c¨+Ó|¥ÎÊâ∆∂&Â'°w’‡Ehø*xA‰c·¢•ûˆﬂ⁄ü¥>hˇÁÉß>„A2‰	æ¿ÄÃ˜y˛Ñ!â˚®êã]Æ·L-ÃS‹§œ‰Ç©AfbûÁÉ,K„ˆ≥Ÿ¥‡™Z(H¡ZZ9Œ…∞\U3yæø‹ƒ[¿MââlïéUàÂ‚qz:∆:¯‚rdXØã3v0Ä·FÕ>6úB2V%îõ4R`Ê!7õ,Da6ºB∞õki‰áô˜ãπ»B‰ÖGÓ-Ò¬pKáKË•¿„r˘".õòÅô≥ÖBáÌI,:y‡ñ÷F·2Uâ∞X.À§•Wì–@¡
+r`j—¢˝µN[ßÿK¡b,÷†⁄s0"kefXAk\π°˙MXp˙˛[ﬂ?$&‰∑zÈqõaL¶Aâ’qéSd3Œ5∞NŸø¸…X{‚|yCc'ö^1´iı9÷aÁ:Yc€Ø&˜ÌewS®CÓ 9{ÇkI√∏L˛õI¸å	yºQ»$&<œGXçpT,ßë6aQæòŒsBÅdXï` h(@î4( Û^	£!¸˚æØ{xw¯åÜ	@ˆL¸x˚fÂª'xÀ˜Ë≥ÅµBÊ.©(Œ¿&”bªSË†`
+ƒr
+M:˝n≥%ÖnÎ≥W:Ø£ë›
+›ö»ıÎ∂æ≠+œ9’u“Ÿ⁄⁄[°∂Í-°€R∆◊S7;,ˆ∆Â8ÓºDB4P∏À≈±çå……’Ùê†¡œıÊF⁄dH·vRh>v¥∫¯¯Q'k±+mú©â‹òÀÜPÉaoƒäf5S#Ï}ôD˝Èà^ã‰ÙUejÎé∂+uóN|H¥Çg%¨átÚ‘·Ö©Ey˘bïøûÏBO∞óF¿ìHÙÉF¥L˛ˆ¸[ã?j>]ﬂ‘—∂Ól–«ö˜	Ôd ·2xIÔÈæ	˛ûÄª?ìãe%ºU¥Úv™äse¡^≤ÒU’<_B±1\Çû‹ö¢NU≈ØoJXæòD#>Xı√Áüw?˘˝…'Á>æ8ÒÆﬁøÉ‹∏'l•ñŒåà(XEµáÿéÌﬂîΩS÷WK qÈ∆WÄì˜uÔn=GÔsÍéÔ-µîº≠⁄^œÛf¢N*LÈ∆ÏCâÑò] ¢¬Ï°]LoJi±éÁÀ»G",(ˇ±º∆\,îÖ0E±ƒÄ|≤–ÚC≈∑Ã'J–õB8ƒs9§ûgπ,⁄«Û\±ü„YÍ’›{oéë´-!•Øô)È©T‚Å˙”7N^ø’ÕÄOü¸XS[qU…Û¨ùI⁄ê™^]tÅÌ‰Óﬁ[A3 óÇÊ{Ì˛@.TîÂ,€Ñßˆ‚<—t4”ñc>bÕ'rg/)öFÖg¥≈»∑R,·+?à∞~kÌ/≥º-œë"∞•Y•Y"k-$éÌå(ﬁB-⁄úoÿŒ&EmŸH™é´Ítt»Ÿoì`*’ﬂ¨Ê¶”.ÚŒ‚W$l@Su”(Mî•8ïâ:ñV’Dˆ›nÑÒ˝ÔÂio“0ÚÉır+#˙U[,Bœ—€Â]%eb¯*¬2C¢1ÈŸmúx∞µ’Ú∏F’Á¡x≈Ü4ˇåôSØn0:—ÏLE…As°›`À≤MˆTû7&äbÁ∑Q1¡¨eº√a,H¿÷ÅØæ?OxÊŒîfë®2ûÁåÈÃ¶™¶ÇöÛT1J–V}ñòL!≈ÇuHÇ$7>}Á±ïπ£Ã’∏^u≠˛2LW‰€Lbé=≤CÁX„:æ\˜∑ã÷N´´§æX‰KÖ"ò¨à9ñøÒ0R·îµçF≥0sûê±üÇx~…izjip±=öÅñ¡›rÅœ+à4§o€ôT›⁄Ó™πË¨0Ê71É9‰\∫)˝ﬁL$·ycëª»º9§“6ø˘—Ê˛àê/ÿ\%g∑ê˜ﬁÇq¢µg'HÛsù’§p’Úa…Õrê5√¥ß	Ô»ﬂÁÚ¯y>ÛX"œ>üÌJÈ^iP‘GWƒñÔ$`ÀyNœÅŒî3kRu{*Té]ƒ‡¥˚ˇ6¿
+ÓÿüXE
+◊˛;¿ù0¿DÈ@xB›¿9oÄ,^S˜≠@ÑÌæ∫∂ì@3—.9õ∆ÂöR3ë"˘¨asyéÕˇ"EuÌ—íö„ƒô€ü’=¢ææ¸Íú7êÚ’Eé÷YÃÒ`s≤∞âH˝˘∆·áèjŒ}ƒ‹>€u˜S(Ñ˝≠G≤Ö)¡È“/ka‚±N¬;|•ü—†=Pæ…ÓÂ@»Q¥;ÎÍÕM4Ú«,Z1>ë¥·€ŸxcSoπØ¡4¨®á=yñt€V±≈“N£ôò%I‘©…¡P§w#ºSl)v—h.fŸg÷®Ioåu˜√XÈ˝·¡IÚy¢N.ØÁJ«˘÷´Â¢ŸQá&^W‰DÏ^∏‰Zz9Ú¸Î+Ø(æ‹~)˛NË“Àv Iƒ…Ñ&mcåºqªØˇÀªõO´.$`Aö‹ò¢„Ç©!wø˚)vÕ…€ q£VÀSC£∞¡ú»ò˜	⁄=‰–Kx8õ4ÏÉy{¿ª‘∆Ôˆ∑”˛
+endstream
+endobj
+28 0 obj
+<</Length 10/Filter/FlateDecode>>
+stream
+xú˚ˇ  ‡‡
+endstream
+endobj
+29 0 obj
+<</Length 412/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmRMo€0Ω˚WpÈ!≥\;iRß|Ëöb;;ì	à%Aí˘˜É>úv¿í»GÚë˘Ò~XÓ∏:‚≤¸I·≠ö√e˚2ËåêΩb”à“Ω"r‰≥◊nA≈,:h˚}/ÖÀÈ%ªLgŒˇ(OxÚã‡k@;Yß∆åêO·.∏ÖE4@–=GÈÑªΩÀ˘Ö∆
+%∑PdÑ<Kﬁ™—ã≥Yûj@˛n;†Éìê‹§JpÙu≥‚∏`.°p≥q–!¯pµ«^ûîë≈'ùò  ˘ûÖuÊ
+ã Ï8û¢ÁÕp4Bûa1ã˝Ê<LZ_–ã¨(yxsﬂ¸Î0"‰©·õ5u	≈óÈÛ™1%»ø(>É"Jdä£’C3»3f5•î6Pw]◊5æ"˚◊_–v<±?É	Ù¢Å˙a”>5›7PØ nQ–¶ã®j†^Ô´UD´Í«≤⁄D¥ˆæ]ï≤<¯∏nWDÙòe πi†.i˚—Œ«µeƒ&U^∂ﬂŒmNl2•À	CÒo[÷J˚®p¬˜òöGo›_Æ2„∏
+endstream
+endobj
+30 0 obj
+<</Length 3319/Filter/FlateDecode/Subtype/CIDFontType0C>>
+stream
+xúmV{TSWæNTŒ9UJßÍ©pûD;≠÷˙Óÿ÷«[µæF| C$$‰Çä9ØúÑ∑<HÑ ®£qÉıUSÒ˝®Ußk⁄Â‹ﬁùÙƒ€ª“N◊∫∑s˜{Øı≠oˇˆ˙~øﬂ˛ˆ
+&LÖ¬ﬂ¨ì©%$9∫-jÂ¶yqKÇÿjÓãdB	ﬂt!1Q bòüÁP8@ÊFÜ ë~ô.ˇ¯∆tÅ`ú‡ÕÈ¡è?ÜŒBÉ°ø.ù°Ô °
+´Ï<~uE∫2U∫>]ö´ïiı´î*ΩZñô•œN{OºhÈ“Ê-^∏h©8fUÙÍ’õƒk’Uñ,M£îÎ¥2eÆFºJ9Æ8Jõ>_ºB.G∑jƒ—RçTù/Müøn}ÙäµÎ7mÀ4bâX´ñ§KuéXôÒKƒuJy∫,7Û˙ï‚yk•πRµ,Ì◊IÆ‰ˇ¡≤eAÕB¡k<«DÜ¨a bb»∂ÿC_ò80i 4t Ùu6ÙÕS}QËØ)'>üÙ04Ù˘/îB˛ç26Ò·§±––áøPÇqˇ¬qÇÒBa¯Ç5,√∞¡jLo≥Ωr≤è}˜ﬂ`ÈdüËˇ¬‚ LNˆâCﬂL
+äÿ(§«-ør¬›êÔë7^ÛL¸~“¸Iˇ5kÿˇÕ∞€a‘¯o˝ﬂ°ˇÎ¸!˛0Â/¶Òó}”B¸s^ç†¸%ﬂ4p…7-‰’{ØN°‡íÔ-p1V»´9˝®ﬂ
+ÉÀÅàê0_Òm!P<7üå
+ﬂtî©eÕ*—"òkwö<¯H9+ä~∫¬©l(h»πr¯∂˚k∫å "7"t1≥ª„7¿1î‹òM¸2vQûÏÄ…oÜ<ËY›";òbÌ≠Æw8wUªï«J⁄*jK;ë#Po+M∂â√§ÆêN«ì¿L»Qy÷f´nÆ™3Wq€nÜ«fÃPÚÙ÷‹™¢öÏ”5-\_‚KèÚ4+í?Ó64ñ∂Â{÷q√ $œ¢É/æ®ÿ“∆pö3¨I˚)æ(¥RŒ*˘q◊Ôã%JñÁöì2k‘˚—ˆÇ÷ºŸË‡@ﬂ‡Èë±Œ/⁄¡d;{˛xÓcOä7„TJ€AkkßIËQ:rz‚NKn‰›EîOÀÓÇMÿ]” ◊NÑÒmê¯¸˛é¡W }ˆºòz‹˚8t&$M7ô¢Y∞•øï=éøLÄ6Q9Y@=tÔ9Ã7Ñ√':)cüË;∏"'á⁄éÛ·@ù`€-=/Ä,2ì*ƒø˙˝†ü¬T+=xÛ)·Lg'»º`Í¯w!i>À©EúÇU§bN¶≤åôƒﬂ˝ìQÄ‚y
+[sîﬁº}˝∆ç«wÑ‡Ù}0Á)xˇÒ‘ﬂ;~Mï±úJƒ…YÕNåˇ,°sH¡y∫Ÿ>DÚr®hø1;S∆U'ô‹≥°˙lt'&µ7]Åb0ÓÔ¶I∑àt—é£àÜ≥Ìúã ’
+zŒØÑ∏j]uƒAß∫h£KÙ5l‘dR—x‡<¥]∆ö•"K&+õÉÒ/µ¸ÃÂ|8—ï◊PdœÏ≤µ\F<`\3XXÏKpﬁóS™⁄ùã
+‘π"	≠ú‡ã¸C £¸€Ëu:îx{ΩΩ≥’Ól]>ºÂØq˜ê¿BM_≤sÀ≤Ó¸fÉ]ı≈Ëgüü$lÂﬂÖæá˛e(Ìföö∞a∂∆‹EÃÇÃjf/∑)fIVCÃﬁBf“ExE√ñä,K⁄+]Ê^.‚€j.õ›Õ…"óÖêä"z∑±ú)≈-∂WZ9Ø9‚Yç%ì+≤®"¯ÈÜRÆ•
+Ò}L0@’Un–f76E7f8„#viR∑ÂˇI-›ª¨∏=ªjos*ò‰y>›Yd…Ö;1#∏€Ÿ‚m5¨Ò÷^W’k‰µ 3ÀJí‘∏&q‡§D4‘Ánªr~ÂPxAnfNTJ¡¡“ˆ=«@rk∏ŸÎ4µ‡CõE˚i+2 såº\WﬁM6WtFÄç÷ÛüÌ¶fŒÃòÒÚ˚™˝j„.cøYoÙ2’§7®l!‹Ü©¡MÕSÀYòJ|ˇı~Ö1ìå»%üIÙf€∂vD$m>°ÛÊœàxµ¸zeÁ·¨≥õFÆÖo<ì÷µ˙œ»,~Ω*Ãπ∏·‰ó·ÎFR;WB˛…{–¸€1|Hb¸Ì’·Uus†≠sàaÍÏÌ√éë˛`iÆﬂªy˝ ıK7ﬁÇUO>:ˇÙ¬£œûL|N˘ç(èBqŸ¡ã56˜∏ÿ„8à(át¥Å, ûCîç∂∂`ï@^—zJG<áH+›l«*¡l¯∏ã6ˆàû¡∆‹*ÁﬂnÖZÿ&s+12kÿíB,üó∑¬6∂—ÏB:∂∏≥á–O¯89+x‰\ÿ‹Â5∆AO,¥Î'√˚'T—Mπè`ß¿	¯h/etã^¿FEµÁO‹…–Äï¶∫DTmuc v≥6SA* ò<P%î2úRdR±5∆g¬jZK©SóïÌ«Õ†ı©÷T¡W≠	®†∞U∑ú£ÁFØúˇÀy◊≠§Îì¡˜ûﬂsç•_¯’î±æ{SK∆¶
+~;Âußè˜ˇ≠≥[jÎú7´û◊Æ±[8¶¡¥˝zxä!ΩlÈ§Ù˛ç≤Â¯æ|ñUâ’µZã∆ÕérèÕ{Û(„ﬁdîÆ>KaŒﬁ∆zÒ(yGbˆJÖ]S[“®tÿÍ;H<¨g
+È}Ωõaˆa¨Õ v· r€h⁄&¢;há;R5Ïøò€–Ugµ9Á∑mÍJ<Ü‹ÇzΩÈ›áçyÈîÁó≠Dõ
+ùÑOáÏ≠ı÷6D¬á¢ vMyÈåyË(ªàÂÙ¢%0gma›x?T.+â7ÏR,÷ÌLZÎîWÔ±fπf?›^Cå)‰÷åﬂ«QF9Ò2∫)Ô_0–
+§Ω‰U¢%¡ñ—ô⁄‚≠mhnŸv6˝R…i‰ do°)´ËLÍ¥/æ3uqNbd÷òT€±)/¡ùW£rZMÈâk«¿<»U…P≠"™Å©>à]Ä˚òzŒJP%:Áﬂá2¨©Dd*`îÿU
+Õ<Òø%€ËŒ3(}¿Á¡y∆
+MÆ TôL‘Âòã∏,Ñvˆ”5¯ãvÎ–¡}l7Á&HùÇJ¬ÔBiñ”äL
+∂0„•pïA*â∞”˜¿¥/4‡±¥;ì¡‰áOn]ºÊﬁqÍG'ßúÙm}âfïó—Z#p€¬9âﬂAú §U`º.†ä(m[n´tZ‹ï‡=Wù	,@n√1ÜBcb)ÊÖª¨4ifß üñ„… Ü˙l4i=ÇI}!-≈„ ‹˚”£Ó=Üç⁄|:Á	®ŒeÆo:Ú±#\7[ì∞eôGo€m’ª◊46w#ÁyxîöT¥|à™`häå ˜1πﬂ†§*ÙyíM;‚•VEuA}™ß≥∂ŒÂE®ÌL¡.åèá∑S
+£å¯2∫ËŒ!Ã∑ ∂:Îöl›ú≈ƒ±&§∫û´d0«0&Ú!Ã9€Ÿ~¸ƒó˘^Gï◊ÆX€¶®’◊Á¸m‰ƒ…ÛjÍM\U2≈|“'~E°;©lcN∞g:hÔÃøËE†÷ñW‰ïô8QõÀÈ≤0 QœXÒ±6«ò»ÁÄO1ÕúÉ u¥Áa([ÏSìé-L¿¬¿ﬁ[¿[é=∫¯’ﬂM}ÊÎ{Q∞:ﬁCªE_¡π˘tŒ'ûÄ˙ÿVããx2´L«ØÅcu¨E)Zõ=Ω¶£8XŒÀ†*´Bˆ≥ÌÙÙcº—/G˘7°¯ìY.Zõª∫ÿaº)ÖäËÇ_Ò@ÊÜ4XC(}–[i´Î”‡·.⁄Ë=Öçäü˛”!k3€â9W`“È0ohÜlÀœ&©eıZlw`’•È2d“¨,mT∂´–Zhó}waÙÏËSX)ÙÊ‹s€ˇ3™Õ{†©›πÆ'◊*s•ˆj€ïÉﬂ‰˚Mﬁ∂-y’Æ’í?‰,‘⁄ï5≈ít_ı\>rı»»±°ëSõGnÌºî~YÒ\ﬁx®∫¡·A¯-üÒ‚/ﬂ„ë0¶ø≠PñÎäwm·Á/·#gŒZ∞x¡V^›'≠+n€	f›¯Ê‚≥ØAˇÃº÷9/0L≠	ã˙ ó˜t≤/ıŸ¸ÁS¯?˜/Gs7n\=s°d¨phœÁ»Ux¿‰±x14ÂäEn N√^-ÇuÂÍÙTsM—(µËπ4ƒx¯8È≈8[Øã@|ònØxI¥ƒ‘j;í∫∑∫SìÜ∂\ä˛"©„PìÕ›…ˇÊ‚‚€Å–ªóœçúª“Í`ò˙H†ÀÄíZz>ä”›ıÿ‹÷c¿¡LHŒ≤◊n˘è‰≠âIõíΩö¶íél0L¸
+Ã8bÍ±\uˆ?™`Ö˛
+endstream
+endobj
+31 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xú˚  ˝ ˝
+endstream
+endobj
+32 0 obj
+<</Length 373/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmRAn¬0ºÁ€É%8–$@DÖ¢H)†‘ûÉΩPKƒ∂lÁ¿Ô+;TUq4ª≥û€‰Â„8Y1y∆…Ï5ÅŸiäìr€®àêç§]ã¬Ó≤°kñ†¥§-îı¶‹FÑ‘Çﬁ:ÜÁ? Ø\<	N ŒXŸFÑú∏Ω·F}º'®
+ÀÌíqD»'j√•XBÚ.X)[gŒDq–Ä¯CKzD.òJpv∫Q:∆©»Ø¥mî>ﬁç≈∂	≥û≈:ò  ÒØ‹X}áë76Üóæ≥◊5Wf5èùR7t&!ÒUÃˇc~◊¥q¸®Üîê>Kßª¬∞A¸µïl ioëJÜF5u#ÆÂIí$‰UUUÖS¸”œ˙©ÛÖ~7⁄≥”Ú2õœè¶‰õd–Ã°,{Î—ºÄ|]¶°ó9¥Xî^%ÏÁÙ‹±>“Nk÷ü™O„¨sÅèÎQRπ)ˇ˘{ûàC˚Í6"’ü
+endstream
+endobj
+33 0 obj
+<</Length 643/Filter/FlateDecode/Subtype/CIDFontType0C>>
+stream
+xúeè]HSq∆ˇ'∑súúNS˙ãíÁ>jBÈâ’úÜ¢líZFFÇ∫°Éµç9AÇƒ;´”Ñ†nÚ∂;)»õÑ>p2%2…!)¢å(ﬁˇÒ›ôq¨ªﬁãûÁÂ}¯Ω1«qﬁX,l?◊MÙáz[Ç—6=≠cáXâ" ¨îìÛHô¢¸UQ∏àù;Øw∆ç•Ñê∑J	· ÚK	Ÿ›≠∫…Ì˙&#:àÅ„x©#‰D{ÇMÅ`$J’GcCÒP_¬‚¨Ø∞TªO÷;Ó™Æ±¥wG—pÿRΩvm0ÍÌNÑ¢ëKS§∑“‚á-m˙ÕÄ%∆Øïˇ1ª\ÑÏ#1(
+{2M
+èD‰ºúIèhz¯T«≈˝I1_˝}êMSÚo8é+J*JRL«vË≤R¿dÒ0·ı:/πCRúÃ˘π1ı~íb4H√ÆQ+ü¶™¿c5#~ÇM
+i‘ˆúZ°öâá4dçLdT’6’Q^Rø∞"öB¸ÚhŸ÷%hŒä-h+X◊¡~ü3Z—ÍF3˙df∫M—÷zƒÂ:ø6∞ø˙æµı“âvYb˜‘.ö©Ú¡G~Ï“HÁU¸z£ËAÃM˚∞s+–Ó/ûmÖQ»Ö–zñäaL{L’¨GÀ
+í˙ô	4ÖVf‹#Ò8oËN4¨ùt>3ÂX o—üÓ(°‰>Ìplú	§ç’≤ß∞±£≥∂Ó¬Ï‚“‹ÛwÀ/Æ4»ze	]@+lÔUˆ8åcî≠ù≈8NB‹ìY`3Eqn¬$/©ó’g¥VÀæg]Pû¬rèbå¢i´F∞,ô}∞
+Ûß÷—á´∏µ,Äöß}+ì˛ 49C
+endstream
+endobj
+34 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xú˚   Ò Ò
+endstream
+endobj
+35 0 obj
+<</Length 354/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmR=o√ ›˝+ÆR2§∆qß(≤‘8µ‰!ä£vv‡Ï"≈Ä ˛˜ÿN™™†w˜Óﬁ;Äºú´’;W7\•Ø.hUoÆÚC≠#BˆäıJwD‰»Á¨›Ä6äYtêó˚R
+RJvÔ9Œúˇ(;lÖ|º‰Ωu™ãπ
+w«,∆ OPrîN∏Ë2"‰çJn â˘ê<Wù7g£x“Ä¯l´–A#$7ì‹ºnî¨ÅÊ&v÷’:WÉuÿï≤Qêé,ﬁÎâ	 _∞÷ô¡ÿ86cÊd8![XÃf%´^Î;zì@C%gÏá?÷B<¸àNSBÚ]çSÉ¯Î†¯í—"S≠ÆöZ∂m)•4ÉmQEÊˇ‰”±Í÷∞Ô⁄ví¡ñ“∑$h=¢›à“≠Cß©∆˜ÙW˜Çı∆†t·ÊÇcoOH|<ÅV⁄WÖﬁn˛ùäuæœ≠
+endstream
+endobj
+36 0 obj
+<</Length 343/Filter/FlateDecode/Subtype/CIDFontType0C>>
+stream
+xú%ç=HBQÜøcﬁc…ÂJ·ïÁ
+Qc‚êRAî—`Å˝AãP(&àrIÉö¢ı8)	µ⁄“Vî¥E4•C[íPÑàNA√wÌ∆≠ÂyyÜóáÄ—Ñs0ûååœß›öCs2QQÃ‡fÏü¢©´vOú˝ÌÔ[¡ 	ãŒ¬††◊Gt9Gı9«¿@ïë‘vt1M¶„È} 00FÒ“™5Â>   ukñ±¨û–Ô:‘!02 ‹°'lZ∞ÍÈÎ¨å•nôó®‘∆‰‹πPA5œÏ,øV·™í€^xA∆) 3ø¿7(œ¸¯Ù—+T<§Rı…Üûéü{(∂xCF_¢<…õ∏«?\ß“1¶–"£∑nz/∆∂6c©˜¥6'◊iıBá£;ìÓ =Xî¸xcBG≠ˆ’Z-/ü∫œÆûÌüo‹´Hø≥¯Ü™
+endstream
+endobj
+37 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xú˚  ˝ ˝
+endstream
+endobj
+38 0 obj
+<</Length 367/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmíÕn¬0ÑÔyäÌ¡h†RãP$
+çî?‘ûÉΩI-€≤ùo_ŸN†™zH¢owÏôµCûß…ä´NfœéhUgN÷€J'ÑlÎZîná»ë]ª m≥Ë`]nJ)\BH)Ÿµ„8h˛ìºc#‰C‡=`›Yß⁄Ñê≥pW\¿( dÇí£t¬›ÄéB>—X°‰≤Ñê…◊™ı·líˆêåb'tP…MÔÔõdS‡Çπû¬õµïãO7Î∞-e≠`Uº”Ω  =b#¨37Ö`c‡X«Œﬁp4B60¬˛jû:≠ØËCUî<|S?¸Æj“~‡{µü≤GÈ|”ÿoê~m ãô‚hu≈–T≤¡dI)•9,ã¢(rÔ¯ßˇW]jˆ]ô†ŒrXR:_ÂÅ¶ë¶ëfÅfY§y§∑H/ë^ÉKøü˜Û«zêu∆†t·T√4>∫êxø≠¥_ûpØ√/‚i_¸ ’	
+endstream
+endobj
+39 0 obj
+<</Length 517/Filter/FlateDecode/Subtype/CIDFontType0C>>
+stream
+xúcd`aa`dd‰Û»ÃK—NÕÕt œIâ8˛ê˛!”Õ#'«≈ ﬂ›!yÿˇƒ˛©ë·ÿ˛k´,C?àú'(À¿ˇ?èà”∆£¢ÍxTòŸ¯SÚìR=SRÛJ2K*òX∫ªŸæ/˘qYîôÅëÅÅÅÅdüHOww»
+êvNQ*ƒ¿R/¡`√–ƒ0ì·=c–w˜ÔVb?¨~˛±bª‚.˙}ÂüìøW≤Ò˝éX9_¥n…∂Êu“ﬂ/ù˙.&ˇ£Ù∑–üRˆ†¸¢®‹¸©3KÂ¯Ê|è¯$˙›Ô˚”ı)!˛…ŸVÚø~dàæaªΩ.#2<)^GﬁûÌ∑–˜¢Õæ/eˇ.}˝ÊÁ7˛ªΩg…üú≥„ËU©œ6∑~k Ò˝ŒùÒ√^Ùª…÷?æsˇTRdˇÌ®  ˆ}‚˜{¢>…€œ_‹ºıƒŸ≠ÅøY'»gfïáKˇˆˇ}Y¥aÂ÷Ê“ﬂ}øs|Áˇﬁ˛››Úª–o√ﬂÚ÷Íø˘ã=¥˛Œ|z€ú5+ÂsU¯ˇfïNKö6#_û/Û˚¬'¢ˆ9€vÏ^µÁzè¸µuÒë±Y±vÚ]?
+EØ/äèÒçœ	ã[yjÁägÂøã˝Æ=ºbÌû”Rﬂ%’é˛Ê˛Õ©Ó˘[–s}‰ë<9ﬂÇ§;©ﬂ¨/‹æK}óz{Â;€ù§›~ãÂ¯ ük—M
+endstream
+endobj
+40 0 obj
+<</Length 10/Filter/FlateDecode>>
+stream
+xú˚ˇ ˛˛
+endstream
+endobj
+41 0 obj
+<</Length 408/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmíÀé‚0E˜˘äöÖ%z¡ƒ˙Ö"e—5≠ôu∞∆±-€Y˜#ª∫5öEù∫◊πU∂Ÿè˜√t#ÕßÛü>–õ¡	ú÷/ù-€1Ù®√+¢D9™~	÷·1@›ÓZ≠B¡X´≈eê8z˛gŸ‚YÈ/CÃÄz¡Ùcü*\p	*@Í	Zâ:®p~W0ˆùWF/°*€kYõ>6Áã2g@˘Óå8`Äì““Â$8∆‹¢öÅT"dJo—w6->\}¿æ’'sr…¡f' @˘ÅgÂÉª¬$5vO§º9âNÈ3L∆føâá¡⁄∆&Åß*jôæe˛µÎ <≠ößÑÍ´ÙyµòP˛~1rÑäZF¢∑ù@◊È3+Œ9_√™iöfˇ—´-;ûƒüŒ%{µÜÁãjùhñËqN4OÙêµ—ñËûú˜D§Õàâûàûàûâû)Ø!⁄êñÛ∂D{¢ö(;wD;¢=•o“êyö8n<’€˛ä¡9‘!j⁄Ã∏sJ„ÌvXc„™Ù§k5ﬁ–HoÕ_ ®Ì˘
+endstream
+endobj
+42 0 obj
+<</Length 3450/Filter/FlateDecode>>
+stream
+xúÂômL\Wz«˜ÃÓÃ0c∏√ √À0/LÄ¡1ÿûê8écºLÏ`)6;®ieUõd√V›j•µ‰t•Vçîm¥IE¥´Ù2iSÌj≥qw+TmªUãVU€TŸ(⁄ Æ™l’9sáLº÷6Ú≠ Ê˛Á9Á>Áy˛œˇ9gÓÄTp…ÛWWˇ)æº¯Áñ/^∫˚Ò{Ø?{˚≈≈µπ/W~¸:ÿ?Å}ÃœŒ\‡ÃkÕ‡˘7†o~~v∆ıØŒEÜÄñ˘K´œ?ﬁ`pqÈ¸åˇÂ‡xüåK3œ.ãaGxø)ﬂ_ûπ4˚üˇUxﬂ«,/]Y’æ*ûˇ1`dyev˘FµëˇWÄGj°ñ	û <ª®ˆâ[xLàMòîüòzS”˛0gjªœõcÏﬂ§€Ÿ3›&ZÃ0∆∆6¥ß∫MDÃDÎwõÿb∆ë[ÎëìSëú±n¨g/¨Gå˘ôˆVu=9ô]œ%åüZ0685ﬁ…˜‡l.w†€ƒ.˝ÿïüıúqƒx⁄Ú¥Ú∞ûK‹Ì6qƒ&å[€â©«¶6Æè7F∆r¡pÿﬂxÁƒ‘∆;c¡p.◊m‚‹ã‘0∆w¡o≈Ïäô8;ªM 
+^ü⁄∏‹…≠Ø[ÔD[x„ùıı‡z$W∞D¬¶Üe0Qsl≠„¶6rBçD¬AiàÑ#·\0úÎ6)èM<>5>áe$Ó_£î±J+J)›3©PîV~AîV}J´?•˙˝)ıƒLtI©˜˛îF~°{Üë˚0|Ω¿ı˚0\ÛÜk3√æRÜÎb&>≈p˝ƒ∞ˇÛ0¯\7‹ü·`Ã§A2⁄cx$∏A)√◊Ô!î/úÚ˝%î#H£i??∆ÜãYì⁄.ì≤Ñ		ì2›ƒπe‚Ll"∞›6AﬂƒÆP˘6&⁄¯îâ=îF˜pŒ28§¡Å]Ï˙& nõ8tÈD‹N¶¥∞'\„	{¥õ;?’“Èùã‚Âªﬂ7ÔàwªÉ¯#q¥"›Kè&Ââ<‡¬÷%√»#‰Ô@2‘“56-›ÆOkÔ≠âkﬂﬁ˘pÊÑ?æ∞ÛK-™=≤ÛÌïª}?ˇπ∏h4Ìﬁ—˛^x8¿∑•C[WÉ&Âÿ–Û§h¬xLRâQˇHäI!¶GÉîì"@äRê"Kä)H±FäóHqìØëbìÔë¢r⁄§b[m“πm‚€6©–M∑…”áS-‹ßÁi•A·VIªn¬v7m'S˝ëF[∫gXÙ>—∏≠˜ÅaëÓiıÈ∏-“\%|µçv_mïà4«≈Í§h<ﬁ}ÙPtb»hL6’—_Gsùò¥5<kÔèÙLLMÙ¯[cµ©®ˇï‰·ou€p¢µ'\ÎrU÷ÏØ´T;Àk√Åƒ°÷jO$Ì…4y|ÕaìÓt◊G¥Ïﬁn·!…É⁄ìR7ﬂ#ÉçJ¸]ﬂ£ı¯ªLÍu«ñ,·®'Í»–FÜ>2!√i2Ãë·* ¶G<OÜoêALõdÙMl∑7e}nKoõ$-dí⁄í52È‘M∆ˆÙÿ*Â◊JŸûÖ4àÇï°L §!èA´™v´æIq{‘¡KÑ∏)ﬂLèz(#ÑüÌÑ»‚!¶1Oàg	Q6],ìâ–7âK\ƒ©'Nî8˝ƒ9Jú/Á"qÆ/‰˙qn»;¶Û$≠H§ã1m%S≠ŒHs[oï&k+Îﬁ?lì*à4;]ëaõTÅœS[óÓÈèV9|µçB…D∏Î¢·hd∫/r(lL
+G%CæpGmﬂ1õ‘«#±»x¶ŸU[QΩÆ?0p æﬂl©ÌlÛä ÷ŒŒVΩπ?ÀDºNó´2‡5{ù…;ºÓ¶L˜Œ7ÜÔÓ´pï◊∂æ˝ﬁ≤˙Há’J„ \‚§ÛTÄí≥‘∫ÿí’±:ôDû24P…∫-îL’x“Ω˝5i[ƒÂü<ÒÊ‚ˆOW>∑Óˆ˝°ùˇ“≤oˇãˆ-4FvÔh	~À≥èJµ∆>=è&˜®.MÆßõ‘mô‘%Ú‘#–õ“Íﬂ2Ò'¨hˆ©Hj‘mez2ˆD<™ã⁄z%í\ˆıß}⁄Gì5m—Tf“”9ñ8¬±≥9Ûgí⁄ôù◊;«{Ç›…ìí¡·›;¢[‹¬Oå7L‚â<~ã	øb¢pµo∂∂∏nRµ]∞"6©“M€jÔ	!Å‚ﬁPø @ñ 9,`ç /‡&^#¿&ﬁ#†ˆÈ9≤eëYKÓÂÅ⁄e“®Á©°]·Ω¿˙”mF	Ã£YªJq«9<)™:‚âöÉπÉ˚Ê˚û	Ì†ﬁr0éz=mÉ]C—YµÒ˙&oYgˆ\ˇπâX¥K´ÿj;ñi˜mk9“ﬂlÙç+ÕåÄˆë∏EÉ¨gÉ≈TÉûßä
+Ö%s•îGT±ä5îYy‰	î* £‚ÆÛI$s™Æàg§¥ûı©Ó∑êk-ÖöÓ¸ôv™sº'‰ˆÖ˝ö!uÕÀÍLrIÔUö¨•ƒN©ráöPHCì¨ˆFˆkû¥ÁÂ…Iqn~~˙ÓØÑCÍ§m˜?ƒﬂä¢Ü(m“û0ÈHò¥Î&µ[&µ≤Q∂GÉ8Å:†M>_ GÄ”¿px∏º
+º¸®î{ÀﬂÔKINõtË&ç€&ÓÇ™‹|àª®*7‹t‡f 7Y‹‰p≥Äõ5‹ºÑõõ∏y7õ∏y7ï”‰©&†r¨÷ÛDp(ë˘ZB)G—‚ñd—ˇ|hÃËËô¡PÒz∂ÎÙı……ÎßªäWm∂o·T:}j°ØxÕæ8?44ˇb6˚‚¸¸ãJ7-ªw¥èÖákyBñVB∫b,D!⁄—Gà#Ñ8Mà9B\%ƒÑ∏AàW	Ò!~D®»Xà˜’∂è‹6tÂ≤^œ„$¨pÒT÷eë∂ì)Ì”„WmëOwÈtOùˆ'Sé∂ÉèƒÜûjl˙≠ÉÁØT}©ÏË°ˆ-Ωu8ﬁ7¢ùçé˘∫&fò9“6ˇ‘‡ÉFÔXK4õiñÖﬁÎıåÁ±Y¢≤›”6›ƒ∑e‚K‰ïPlÔ ˜Îå˚ˆÉ+“˚ôn∏“+Ñ„ÓØÓmÖ3'±Œ¸·˘ßŸﬂƒÜ√cÅ‚ı	c‰Ã–ÙàaåLù14ë»ˆ44Ùdâl™°!ïMúÀvtdœúœvvfœÎiÛ	ù¸ei=M*∑Gmú•mz‘∆◊ä¿(ÇLtyR»π_√_9[Fl(`‹ñIV¢´≥OÆ“æ%kñß√RâIP7â©ONÚÿIòy⁄,≈¥ÈÖGÄö≠6∂J$?u§=ÙÌ°¬Å◊,IUá{[˜∑÷ïO;‘≠+õtä¶'Ù„…K
+
+{∞∫ª≥—”‘ÿyC{pò∑©”øÛÜˆ;Ì-ûxg≤}Í·B‘ÅvK8('Hª˙¿.ü+Ú∏¨8]z2’Ô˜Üµﬁ∞/\ß}wÁ-mpÁ≤÷2::°]?0Q£˛éˇÒw^9[=xGÛÿ>êÊ∑?%/ºˇ°„ÉO≤;MÆÿ{ÅrÑ2´{lÊn°≤7?…Ó\w˝@y*˝©÷nì_Ÿ˝XªMì–"\åã#‚1À+ø`\¸mjL⁄ái±M2¢˝≥Íëc<´ÖDõòn±}›ˆ∂˝I˚ﬂ8Ío9O8W’j’‹†úyÏVTç≤ÌÌÿ‘®ó_Hdó£≤Ô$v"®íOhvÇ}‘*\ˆ˘ÅZaAï}L·
+∫˝§¬˚JÊÎ ~Nay∫Ì+
+{ÂZˆÁÆQs~_·⁄í{ÎJp@≠ıuÖ˜j/S1€ˇT‚}ÚP-≥ø™∞ª0ÁÈ¿Â/ˇåGY·\ÊﬂY·8K¨pâ9ÃÀ¨±¬ôgÉvŒ”Å°–2§àÌ·ûú.¡Ãpôñe¿}X≠πƒ*k,3kYŒ±¬+¨apîKú„Üä…`ÅUÆ(osÃ±¿"Ã∞ ¨Ú}Øøné1À"ãúgâK,´8òÂ
+qF≠—OÛìﬁW‘¯,+\Uû„∏qsäy£dÍ¢äD2¥®‚úÂ≤Z·ÇâdÔ<Û*ûYÀ„ò·ã rÖ%ÊXÂö UZÊ¨óYQûû·º∫ˇ"´÷⁄ß¨ÃÊî•°8ê¯≤äYÆæ k,Òå‚LŒíº\+ÒTXE˙ZQ|IÜÁ0c*èEŒ©—ãÍ’`å”o´ÏÆî‰wY1y¥§ ≈:ï∆&≥ª¢Í^ú%˝»ï53‘zÆJ9ê9…ªû±ÚãY5∏¬2ã C—zI›≥†îÒŸôÁYdièüœ´Jg2≤9ï·ä5zME?Øÿ[-alñgU\íuô€5•öU•>…¿ÀV‹Wï2æF ˚øª0≥◊m$KpZ˘π¿í≈Ì„¨qEE|IÂêµtª¬≤z-ˆRioú¸Loú¸µﬁ8…,yF’¢t˜ê,X£K÷ËlÚ£‰_$ﬂO˛2˘…ªœΩÌˇ…wKÓñ5[±7⁄Sˆ	˚Q˚ê}¬>p&Û“}‹9‡å:Œáäg∆Ó7ÈπÁå∞N
+˘N3∆q¶gÇáÈ·èqíLÀÔP4˘Ωñ†ÆK˚>6ÜÈßã&jÄPﬂG–gMÚ@¥îèÖÔM‹Ú˚±.‡ú‹˙
+endstream
+endobj
+43 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xú˚   
+endstream
+endobj
+44 0 obj
+<</Length 376/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmíÕn¬0ÑÔyäÌ¡hhKãRÅF °•Ç™={ìZ"∂e;ﬁæÚO†™zH¢ow63ÎÑ‹º&œ\q2ª•∞G´z√p≤y≠uF»V±æCÈﬁ9Ú°k†çbl™m%ÖÀ©$;ıÕí5∂B^ﬁ6Ωu™À˘ÓÑ≈ÑLPqîN∏3–qF»'+î\@ëÚ"˘Fu>úÕÚ‰˘ªQÏÄ!πINpÙæY1.òKÓ¨´u>ú≠√ÆíçÇYTÒ^'% @æ«VXgŒ0
+¡∆¿±âùù·hÑla4Ñ˝’<ÙZü–á™(yxÊ~˘∑∫C»”¬ój⁄äkÈ„¨1Ω ˇzU|Ä"Fdä£’5CSÀ≥%•îÆ`YñeπÚé˙Û8ulÿwmÇ∫X¡í“ªbhËaiÈ)“]§«H˜ë“‹C§i§y†˘4$H^>ã?ÚÀÚ¨7•'6ık	âóOßïˆS·
+ﬂ|¯}<Ì #⁄p
+endstream
+endobj
+45 0 obj
+<</Length 2340/Filter/FlateDecode>>
+stream
+xú≠óml[’«˜‹k'qR«◊IÏ∂NìÎ∏i“ÿIú∏qöÆÑ4M˙"môb†7q^ ©£ƒ}ìò®6*X§E“@C0¶Mb/bÃlà›Z® ±MZ?Ï√6U˚Ä4ç±} m•I¶s|®X?‘í}ˇ~Œ9œ˘?øséÔ5P…Et‚cgs÷πgoª'Ê&gWÆøˇ*	≠ì3&Êÿep’ÉÒ‘T&=æ≤∂Ô5®¯êúö §]œÍﬂÜä?€ßfsÁ})Ì0T‹ ¨ôÏX⁄xV<ıÄ6}~NÙ∫:¿óÌß”≥ôﬂ}ˇ›4xF¿ı¬\v!«Ø4TˇËûõœÃ}˙eY¿gµÃrâÔÚ"‡„»öó≤,L®%«„<≈OÚ`Æfìp·Àò6ƒéÿTååæÆiK)[[ªd±Ì2Ëè|£›FãY÷ÅÈ°ºˆhªçàŸhm·v=fÃÎÕèçFR÷¢µxh|—:hM•«ÛF≥∫çdSùVû„£”Vû£·¸@*¥.3©‘ûvCÊ1Tû≈îu–zÃ…ò ∞òÍ\i∑q≈éXy}«»Ë˝£˘ãC°¸¿P*[ÚÔååÊﬂ
+ÖS©v˜∫SÀ:ÕÈÕéÁ≤òçª≠›¶ºòÂ¯h˛b(?êZ\tæâ·¸;ãã°≈H™âÑm'`£˙ËÕlm`D5D¬!àÑ#·T(új∑©à9>z`(K'û/!e®ie)“™òM•B∫È!ıﬁ“Í€BÍª5R3f„ìH˝∑F˘
+†ÎÅÅ[æX$|ÒÑk6Æ˝j¬u•Ñ1õ:E8xáoæ¬[nã÷[≈l∂J¬ıÎÑByJ	_¸PÓ8Úm%»òË⁄¢ÄNha3\cÜMÌÈ’µÕ≠väGV≠ø±vƒbùJö±1:m\ù6ù†=jÉØÄ¿Öa˙˚‚]!-Q£kâﬁp0°˝˜§x´ˇ˛·n≠2˘ì’OµZÕΩz]{s%˘ÚÀb–ÿbP,SI¢@%®Ñï>qÕôçŒÂh`˙˚
+xÔ™1=Ω¡Ñﬁ)3˜/ı.Ω˙Áwˆ±ºí¸uœﬂµ·+ÌIÏﬁS5î—[@C®Y49ãœ∆∏Z‘nÁZq9´ÏX¥£˘‚]5=ëmöô0ﬂ[Zú93≤ÚôpIˇI!±LÄ˚ú_Å*πá£6U>˘]÷Sº÷^µ©ÌD÷T¨œ”Y¿ƒ≠:õæu∏1oVgÓJ&∫uRtàHìª,b&óvÌI¥.ômá˙ZOÑtY≠V}ﬂÅªVØi˝Ò˚zw∂kõêu[kãÕ¢Ü(Dmj£ÒÆ}:qIÚ‰>ù^"7≈ ⁄IˆÈ$˘⁄…ö~=—› ÍÃ⁄@0“°µxµHSáËŸ’Ônq\ΩzôWØ´mâÓ~—◊cCD[F€ =ﬂ3\Z”√ÒÊÅx®±ÎÓÅ˛xΩVΩ%\”7
+°∆&”◊Ùz7[f[G¿•Mt∂öïV_ÁÍ«ë_’ñMëzˇé=≠±æ&”„Æ
+Ç°j◊ˆ∂ÈÚ
+∑°ÎskmÕ÷jw}Kkï™/πˆ±∏[,SCÔ⁄ƒ:Â÷®S =>õòœ∆∫f√µ}.˛»g qr_à
+`∞Ë)`∏ |¯s‡2>∞Èd1k™M∞≥¿fÍ∞L_1⁄z’¶U.¶œ¶Ì™Mõ\·⁄Œ.B êÀW†ôj•õ}rxó⁄Õ;©¶Y≠∑VÎi!@3=âM!^_~ÌuoCª’ÿ—‡ı6t4ZÌﬁ’KOã‡É}-GÔ⁄±„Æ£-Ò‘V°	koG(‘±◊
+Ø⁄OWíÉ—Ì÷‡‰‰†’‹™®ÛóÌ€¢Ü:∫‰÷+Óﬂ:gø
+YÖ÷Y¿Kπj˙
+‘Réw˝Ù)´Å`œéHìWîEzíKﬁp≤eSΩ«ÙÜ∫cM!\+ü˝#≤∑}´.ûr˘∂Ì‹¸®öWΩá≥á€©ﬁ˚©∂EˇP⁄ysˇé Îﬂ>r}x√Ω⁄Ëz…8ÉFBFãcÙ?¨µ∞ÕuÌÜ{ıúÎ%ï©ÙUÆ}Ç)~πv]Ù≥_Ï˜ì˝Xbå§vI÷KÄÉúÁ>—∆Ö[:~ yé
+f1úŸ‰3Z—U´üøJe»VâNj77Ü“e Ò(]∆v¸éîI•+å~•´T¸Ñ“>~„a•M?≠¥_Ê7Œ*]£ÙJ◊*˝-•º∆3JoAPe<ßÙ∂œ˚î+œ∆è•Æí?~Â∆+J{‘ÿ◊ûx˛Ö?rê„Í3Gé˝dô„ÛL3…9,Zc']Ù±õ.bÎ∫ªD'JtiN3ÓD˙ú÷£Lsö,9.0G∆âúbû4Û\¿bòYNqYÊ±ò&«Ç 6¡”Ã0MöúÚ¸Â|Ì‹CÜf∞#À,s «4Ë¿bü”˙y}2˚ºjœ0œYïπN0•<é´æ“IZçñ>3úV3å;NfI3∆îÚìq2¶'Õ)fTdÅ,‰8ßjïë	ß∆9ÊU¶3å©ÒìX‰úπO8ïM®¸“••H}Zyñ≥Á»bqÅ,g3ŸKr9Wí©8ãÃ5ØxI¬Xäÿ¥™cÜS™uR}Z1Ø<=Æ™[(©Ô¥"9\≤ 7◊©‘õ¨nA≠˚Õ^2èúπ∏fñöØ»™îÅ¨Ié:„‘s÷`Å9fTÜõ—Y5fZÌåç=«ò!ªŒß»9ßˆôt6°*úwZœ)˜Sä^ÆÑXÜÛ ó§.k;ßvç<%EiÊﬂg’Œ∏Dã;Ôˇü¬›Îß≠èxâN®<„d∂«π¿Çr<´j8‰Ï€yÊ‘ÁÕ≥Tz6ém8«æt6…2√8#úQ™x*ßH+√*Î¬˙UéïÃ≤ÒkÒÒ∆ﬂÎ∆◊~ˇ_WÒ‚ÔŒΩdòtËfçÄ±€0Ó2é}O<ﬂqwüªÀ}ÿù‹–+≠û‘kÌE∫øp/pÓÚ_;˜rî#qÄê∑Ê®V¿¿G ™ΩçIçl≈è|∞®èæçüÕ"5lﬂ–á∑Òßã‡zßjv›Ò—∂!Újä⁄l*˛O∞Ò»®¸aÆíÆÙ¢∏ÇN+[Sâ?zÉÌl#àâî+h$h#LØÍ h£â5T…Ú·√¿îË7g" ˇ Q o*
+endstream
+endobj
+46 0 obj
+<</Length 1024/Filter/FlateDecode>>
+stream
+xúÌXKè$5æ˜Øë9l∞„Gú+B‚ÙçÂBK≥’ ÌâøèúT∫“CuÔl{ç‘ÂØ*ˆÁgR5Å ·]\$+úûÄ⁄ﬂÛáˆ‡	»0Ñ•±fÅÌä∞~;<~8|‹1Ö	=≥Ê*Äâk&5/q∑:rÕπ≥d…¡#•ãêjÅÏb‹e˛Ì⁄V›§≠Ü≈ÖìwÙkQ^yùe•©Sƒ”M˙4!5Fª*? ∂π$Ö'êä]\@™'gSÌ7Xíãt$úNM§jM'‰åöòMm∂@9i7ﬁ§SÁlÚ¨û»X∆:Vö¨ÍˆOMn¥°Dì?ìâpˆ—Èm≈‡BP(Ú‚BdìêÁP™@ë§N%wP·‘™“á‰´¬¶ö17ãq=5íê`≥fåf„Iª#i©„ äÂº—o∫ÖÜﬂ∑¢?Ô1ÊÁD(Í≈úíWÓÄ#Fè»¢ªDM°L™T#∆‹Æ£6i.‹åı'\x“Ó€z¢∂|£ﬂtùÜﬂØäë∏D7‰ËÆhÊÅbêŸR6Zoê∞«CIÖ]K9ﬂhÌ4ê„–mà√@Ñt∂Â⁄mQìO√âÜñ@ùb] %_XZ1’@Îd¥πx∂’Cò¢=Ωq{¯Ò;P¯Î?û¿üﬁ∂øíòCnGñf)NíÏ…-ˆ  Âô± ññ:§6í]í‰¶µn Ó›§{À¨yHëUì∞÷ûã—§Ÿı’,m5ÕÙC9<[=›êEÌXdmí g,u≠løCq:∞Hºm∏Æm“†‡ZÏΩïw≤&^…:8W:l]∆Ωºc5”•µØ}÷aweŸ‡Ÿ”amD2≈˝ñgÃ⁄ˇy‹;µHpéÛ·µ£w¯Ê«ÁØà	éèsYéO_ΩGƒ˜àÙp¸˝ÌÒí±‰˙ÂÛ£◊/#Ô1öSBÅL≠{Ô!Ÿ·¸yê √;—t6É≤Å_~9~ˇ?	›„5Ô	o˘HÔq+Ãå¯∫79^m>ﬂõxW˚Ñ7Ygo&ƒH.êÓ{ %ö8^óÔ™ÆÊ´ıÁ^?≈w—∆7áWZ¸cœ"ª$±oıWl2àﬁÃË»ÂÕö
+r|Æ0r∫+[ä…_Â…Æ\)I5»r◊¸KúÛtãûœç≥GoDg˙<Bªeõ«úÚ<Á≤˝∆$ ÒsçØ‹‰+}´Ë}∏ˆŒƒGÌ∂√≈ñz◊∆∫ü’X##Wû€ú/£⁄Øéb€®À=ÅÿøàΩ¿eoÔ¡ˇVUfME„{¸ﬁ
+‹ËÉµÚ/úYùß~}løœSø ù√ÿÔLQJ¢b†öTjç◊Î{∆1óTÔﬂHDRÊ¯¿‰äàvübÈÊ,çboŸ¯=]˝—
+endstream
+endobj
+47 0 obj
+<</Title(ueno)/Creator(VectorCraft)/Producer(VectorCraft)/ModDate(D:20261122230112Z)/CreationDate(D:20261122214803Z)>>
+endobj
+48 0 obj
+<</Length 1054/Type/Metadata/Subtype/XML>>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><dc:title><rdf:Alt><rdf:li xml:lang="x-default">ueno</rdf:li></rdf:Alt></dc:title><xmp:CreatorTool>VectorCraft</xmp:CreatorTool><pdf:Producer>VectorCraft</pdf:Producer><xmp:ModifyDate>2026-11-22T23:01:12+00:00</xmp:ModifyDate><xmp:CreateDate>2026-11-22T21:48:03+00:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>zGzRosieetoAdKrVECuz7w==</xmpMM:InstanceID><xmpMM:DocumentID>zGzRosieetoAdKrVECuz7w==</xmpMM:DocumentID><xmpMM:RenditionClass>default</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+endstream
+endobj
+49 0 obj
+<</ViewerPreferences<</DisplayDocTitle true>>/Type/Catalog/Pages 1 0 R/Metadata 48 0 R>>
+endobj
+xref
+0 50
+0000000000 65535 f
+0000000016 00000 n
+0000000068 00000 n
+0000000197 00000 n
+0000000344 00000 n
+0000000532 00000 n
+0000000738 00000 n
+0000000885 00000 n
+0000001073 00000 n
+0000001279 00000 n
+0000001436 00000 n
+0000001633 00000 n
+0000001847 00000 n
+0000001990 00000 n
+0000002196 00000 n
+0000002395 00000 n
+0000002542 00000 n
+0000002768 00000 n
+0000002972 00000 n
+0000003108 00000 n
+0000003437 00000 n
+0000003640 00000 n
+0000003781 00000 n
+0000004049 00000 n
+0000004258 00000 n
+0000004402 00000 n
+0000004480 00000 n
+0000004974 00000 n
+0000007819 00000 n
+0000007897 00000 n
+0000008396 00000 n
+0000011807 00000 n
+0000011883 00000 n
+0000012343 00000 n
+0000013077 00000 n
+0000013153 00000 n
+0000013594 00000 n
+0000014028 00000 n
+0000014104 00000 n
+0000014558 00000 n
+0000015166 00000 n
+0000015244 00000 n
+0000015739 00000 n
+0000019259 00000 n
+0000019335 00000 n
+0000019798 00000 n
+0000022208 00000 n
+0000023302 00000 n
+0000023437 00000 n
+0000024568 00000 n
+trailer
+<</Size 50/Root 49 0 R/Info 47 0 R/ID[(zGzRosieetoAdKrVECuz7w==)(zGzRosieetoAdKrVECuz7w==)]>>
+startxref
+24673
+%%EOF

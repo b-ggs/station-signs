@@ -3,7 +3,7 @@
 - **City, country:** Tokyo, Japan
 - **Visited:** March 2026
 - **Rail system and spec:** JR East, the Yamanote Line. Its layout, sizes and colors are in the
-  root `AGENTS.md` under "JR East: station name sign (駅名標), Yamanote Line". This file covers
+  root `AGENTS.md` under "JR East: station name sign (駅名標)". This file covers
   only what's specific to Ueno.
 
 ## Station facts
@@ -34,11 +34,11 @@ This came as a chat attachment and isn't stored in the repo.
   the user should review it.
 - Fonts (decided 2026-11-23, after rounds of variants): Hiragino Sans W7 for Japanese, Helvetica
   Neue for English (Bold "Ueno", Regular neighbors, condensed to the photo's width), and Hind for
-  the badges (UEN Bold, JY SemiBold, numbers Bold). The full reasoning and rejected options are
+  the badges (UEN Bold, JY and numbers SemiBold). The full reasoning and rejected options are
   in the root spec.
 - The neighbor names on the band (御徒町, 鶯谷) are Hiragino W5, not W7 (decided).
-- In the badges, "05" sits 4 pt lower and "06" 2 pt higher than first measured (decided after
-  comparing 2/1, 4/2 and 6/3 pt).
+- Badges: the 40/60 layout from the shared spec, decided on the Akihabara sign and applied
+  here. It replaced the earlier 05/06 nudges.
 - Okachimachi's left ink edge is aligned with 御徒町's, both at x 67.25 (at the user's request).
   Re-measure at 4× if either font or weight changes.
 - A second reference: JR East's official mockup of the Shinjuku (JY17) sign from its station
