@@ -156,6 +156,7 @@ vectorcraft-cli info FILE
   - **Station:** the station name, linked to its folder.
   - **Visited:** a short month and year, for example "Apr 2026". Ask the user when they visited;
     don't guess.
+  - Keep the rows in order of visit, earliest first, and insert a new station where its date falls.
 - `AGENTS.md`: this file. It holds guidance shared by every station, plus one design spec per
   rail system.
 - `.mcp.json`: registers the `vectorcraft` MCP server (live mode)
@@ -276,3 +277,85 @@ text and station codes.
   - "Platform" at 57 pt, centered, baseline 395
 
 Still open for BTS signs: the metal frame and production format.
+
+### JR East: station name sign (駅名標), Yamanote Line
+
+These measurements come from a reference photo of the Ueno JY05 sign, taken from below. Its
+keystone was corrected using the sign's corners, and its height set so the square numbering
+badges (JY05 and JY06) come out square. That makes the sign **1600 × 425** (about 3.75:1). All
+values are in pt. Each station's `AGENTS.md` supplies the text and station codes.
+
+- **Overall:** a white face `#ffffff`, 1600 × 425, with no frame yet. The main axis, which the
+  kanji pair, kana, English name and current-station block center on, is x = 795 (measured, not
+  exactly the middle).
+- **Route band:** y 242–330 (88 tall; the photo measured 87). It runs from the left edge to
+  x 1470, then an arrowhead points at the next station, with its tip at (1557, 286). The current
+  station is a line-color block, x 753–834, the full band height. Mirror the band when the next
+  station is on the left. Keep the band's top and bottom on **even** y values. At 87 tall, the
+  bottom edge fell on a half pixel in the 0.5× preview PNG, which left a faint row and a visible
+  step where it met the arrowhead.
+- **Palette** (first pass, matched from the photo. The user hasn't reviewed it yet):
+
+  | Role | Color | Source |
+  |---|---|---|
+  | Route band, dark green | `#156419` | photo, white-balanced (the photo's white was 229) |
+  | Yamanote line color (current-station block, badge borders) | `#80c241` | between the photo's block and badge greens; close to the commonly cited Yamanote green |
+  | Ink | `#1a1a1a` | near-black |
+
+- **Typefaces** (stand-ins, chosen by the user after comparing variants). A type researcher's
+  survey of Kanto railway signage gives JR East's real fonts as **Shin Go B** for Japanese,
+  **Helvetica Bold** for English and **Frutiger Bold** for station numbers. A JR East post on X
+  backs up the Helvetica/Frutiger split. Shin Go and Frutiger are commercial fonts and aren't
+  installed.
+  - Japanese is **Hiragino Sans W7**, closer to Shin Go B than W6. Two exceptions use W5: the
+    small kanji next to the main name, and the previous and next station names on the band. W5
+    matches the photo's 4 pt stems on 御徒町; W7, W4 and W3 were compared.
+  - English is **Helvetica Neue**. The station name is Bold. The neighbor names are **Regular**:
+    the photo's stems measure about 4 pt on the neighbors against 8 pt on "Ueno". Long names are
+    condensed with horizontal scale (`text.setFormat {hScale}`) to the photo's width. Don't use
+    tracking for this, because tightening the spacing crowds the letters.
+  - Badge text is **Hind** (`brew install --cask font-hind`, then `text.rescanFonts`), standing in
+    for Frutiger. It uses three weights, as JR East's official numbering mockup does: the
+    three-letter code in **Bold**, the line letters "JY" in **SemiBold** and the number in
+    **Bold**. Rejected: Seravek (its J drops below the baseline), Source Sans 3 (shapes off, even
+    with an outline added), Istok Web, Avenir Next, PT Sans, Helvetica Neue, and Hind with "JY"
+    in Regular or Medium (too light).
+  - Korean is **Apple SD Gothic Neo Regular**.
+- **Station name block:**
+
+  | Element | Font, size | Position (baseline) |
+  |---|---|---|
+  | 上 / 野 (one object per kanji) | W7, 131 | centered at x 665.5 and 919, baseline 135 |
+  | Kana (うえの) | W7, 44, tracking 400 | centered on the axis, baseline 210.5 |
+  | Small kanji (上野) | W5, 40 | left 1042, baseline 67 |
+  | Korean (우에노) | Apple SD Gothic Neo, 36, tracking 250 | left 1042, baseline 133 |
+  | English name ("Ueno") | Helvetica Neue Bold, 60 | centered on the axis, baseline 398 |
+
+- **Numbering badge (JY05):** a black `#1a1a1a` rounded rectangle at x 388, y 27.5, 155 × 185,
+  radius 16. Inside it is a line-color square at (400, 71), 131 × 131, radius 8, with a white
+  square inset 10 (radius 2). The three-letter code "UEN" is Hind Bold 45 in white, centered at
+  x 465.5, baseline 64. "JY" is Hind SemiBold 45 at baseline 123, and "05" is Hind Bold 67 at
+  baseline **178**, both centered at x 465.5. That leaves 11 pt between JY and 05 and 14 pt
+  below 05. It was nudged down 4 pt, chosen over 2 and 6.
+- **Fare-zone marks** (top right): 山 (Yamanote-line area) is an outlined box. It has a white fill
+  with a 5 pt black stroke, outer edge x 1370–1441 and y 20–88, radius 5, and a black W7 52 山
+  centered at x 1405.5, baseline 74. 区 (Tokyo wards area) is solid: a black box at x 1461–1532,
+  y 20–88, radius 7, with a white W7 52 区 centered at x 1496.5, baseline 74. Which marks appear
+  depends on the station.
+- **Neighbors:**
+
+  | Element | Font, size | Position (baseline) |
+  |---|---|---|
+  | Previous station, Japanese (white, on the band) | W5, 52, tracking 125 | left 66, baseline 310 |
+  | Next station, Japanese (white, on the band) | W5, 72, tracking 250 | centered at x 1313, baseline 314 |
+  | Previous station, English | Helvetica Neue Regular, 50, hScale fitted (96.5% for Okachimachi) | **left ink edge aligned with the Japanese name's left ink edge** (measure it at 4× and nudge), baseline 397 |
+  | Next station, English | Helvetica Neue Regular, 52, hScale fitted (96% for Uguisudani) | right-aligned at 1411, baseline 397 |
+
+  The next station's number badge sits after its English name. It's a white rounded square,
+  x 1431.5–1498.5 and y 344.5–410.5, with a 5 pt line-color stroke and radius 5. Inside it, "JY"
+  is Hind SemiBold 24 at baseline 370 and "06" is Hind Bold 36 at baseline **400**, both centered
+  at x 1465. "06" was nudged up 2 pt (half the big badge's nudge, since the badge is about half
+  the size), leaving 8 pt below it. The previous station has no badge on this sign.
+
+Still open for JR East signs: the palette review, the frame, and whether other line colors only
+change the line-color elements (the band stays dark green on the Yamanote sign).

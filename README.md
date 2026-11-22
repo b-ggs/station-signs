@@ -7,6 +7,7 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 
 | Sign | Station | City, Country | Visited |
 |---|---|---|---|
+| <a href="stations/ueno/"><img src="stations/ueno/ueno.png" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
 | <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.png" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
 
 ## Requirements
@@ -15,7 +16,8 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 - [uv](https://docs.astral.sh/uv/) for the occasional Python helper (image measuring and color
   sampling)
 - Whatever fonts a sign's design spec calls for. The Bangkok BTS signs use Thonburi and Helvetica
-  Neue, which come with macOS.
+  Neue, which come with macOS. The JR East signs use Hiragino Sans, Helvetica Neue and Apple SD Gothic
+  Neo (also built in), plus Hind (`brew install --cask font-hind`).
 
 ## Working on a sign
 
