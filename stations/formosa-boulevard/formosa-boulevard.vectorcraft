@@ -1,0 +1,2364 @@
+{
+  "format": "vectorcraft",
+  "version": 4,
+  "generator": "VectorCraft 0.24.1",
+  "pdfCompatible": true,
+  "pdf": {
+    "mime": "application/pdf",
+    "blob": [
+      0,
+      33903
+    ]
+  },
+  "document": {
+    "version": 3,
+    "title": "Formosa Boulevard â€“ Entrance 1",
+    "units": "Points",
+    "rulers": "artboard",
+    "color_mode": "Rgb",
+    "artboards": [
+      {
+        "id": 1,
+        "name": "Formosa Boulevard â€“ Entrance 1",
+        "rect": {
+          "x0": 0.0,
+          "y0": 0.0,
+          "x1": 1600.0,
+          "y1": 380.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      }
+    ],
+    "layers": [
+      {
+        "id": 1,
+        "name": "Sign face",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 0
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 2,
+              "name": "Light neutral gray face",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.7137255,
+                        "g": 0.7137255,
+                        "b": 0.7137255
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1600.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1600.0,
+                            380.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            380.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 1600.0,
+                  "h": 380.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Photo-sampled blue band",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.039215688,
+                        "g": 0.09019608,
+                        "b": 0.21176471
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            234.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1600.0,
+                            234.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1600.0,
+                            380.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            380.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 1600.0,
+                  "h": 146.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    234.0
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "Route badges",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 1
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 5,
+              "name": "R10 route disc",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.69411767,
+                        "g": 0.20392157,
+                        "b": 0.25882354
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            106.0,
+                            119.0
+                          ],
+                          "in": [
+                            106.0,
+                            154.3462239891708
+                          ],
+                          "out": [
+                            106.0,
+                            83.6537760108292
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            170.0,
+                            55.0
+                          ],
+                          "in": [
+                            134.6537760108292,
+                            55.0
+                          ],
+                          "out": [
+                            205.3462239891708,
+                            55.0
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            234.0,
+                            119.0
+                          ],
+                          "in": [
+                            234.0,
+                            83.6537760108292
+                          ],
+                          "out": [
+                            234.0,
+                            154.3462239891708
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            170.0,
+                            183.0
+                          ],
+                          "in": [
+                            205.3462239891708,
+                            183.0
+                          ],
+                          "out": [
+                            134.6537760108292,
+                            183.0
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 128.0,
+                  "h": 128.0,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    106.0,
+                    55.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 6,
+              "name": "R10 route code",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  170.0,
+                  142.0
+                ],
+                "runs": [
+                  {
+                    "text": "R10",
+                    "style": {
+                      "font_family": "Arial",
+                      "font_style": "Bold",
+                      "size": 64.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 95.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.9529412,
+                          "g": 0.9411765,
+                          "b": 0.9137255
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 7,
+              "name": "O5 route disc",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.76862746,
+                        "g": 0.48235294,
+                        "b": 0.21960784
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            276.0,
+                            119.0
+                          ],
+                          "in": [
+                            276.0,
+                            154.3462239891708
+                          ],
+                          "out": [
+                            276.0,
+                            83.6537760108292
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            340.0,
+                            55.0
+                          ],
+                          "in": [
+                            304.65377601082923,
+                            55.0
+                          ],
+                          "out": [
+                            375.34622398917077,
+                            55.0
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            404.0,
+                            119.0
+                          ],
+                          "in": [
+                            404.0,
+                            83.6537760108292
+                          ],
+                          "out": [
+                            404.0,
+                            154.3462239891708
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            340.0,
+                            183.0
+                          ],
+                          "in": [
+                            375.34622398917077,
+                            183.0
+                          ],
+                          "out": [
+                            304.65377601082923,
+                            183.0
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 128.0,
+                  "h": 128.0,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    276.0,
+                    55.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 8,
+              "name": "O5 route code",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  340.0,
+                  142.0
+                ],
+                "runs": [
+                  {
+                    "text": "O5",
+                    "style": {
+                      "font_family": "Arial",
+                      "font_style": "Bold",
+                      "size": 64.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.9529412,
+                          "g": 0.9411765,
+                          "b": 0.9137255
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "name": "Station name",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 2
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 10,
+              "name": "ç¾",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  532.0,
+                  159.0
+                ],
+                "runs": [
+                  {
+                    "text": "ç¾",
+                    "style": {
+                      "font_family": "Songti TC",
+                      "font_style": "Bold",
+                      "size": 140.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 95.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke_width": 2.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 11,
+              "name": "éº—",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  725.0,
+                  159.0
+                ],
+                "runs": [
+                  {
+                    "text": "éº—",
+                    "style": {
+                      "font_family": "Songti TC",
+                      "font_style": "Bold",
+                      "size": 140.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 94.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke_width": 2.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 12,
+              "name": "å³¶",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  918.0,
+                  159.0
+                ],
+                "runs": [
+                  {
+                    "text": "å³¶",
+                    "style": {
+                      "font_family": "Songti TC",
+                      "font_style": "Bold",
+                      "size": 140.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke_width": 2.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 13,
+              "name": "ç«™",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1117.0,
+                  159.0
+                ],
+                "runs": [
+                  {
+                    "text": "ç«™",
+                    "style": {
+                      "font_family": "Songti TC",
+                      "font_style": "Bold",
+                      "size": 140.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 96.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.09803922,
+                          "g": 0.09803922,
+                          "b": 0.105882354
+                        }
+                      },
+                      "stroke_width": 2.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 14,
+              "name": "English station name",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  152.0,
+                  330.0
+                ],
+                "runs": [
+                  {
+                    "text": "Formosa Boulevard Station",
+                    "style": {
+                      "font_family": "Arial",
+                      "font_style": "Bold",
+                      "size": 73.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 103.6,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.9529412,
+                          "g": 0.9411765,
+                          "b": 0.9137255
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 15,
+        "name": "Entrance designation",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 3
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 16,
+              "name": "Entrance label â€“ å‡ºå…¥å£",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1267.25,
+                  306.0
+                ],
+                "runs": [
+                  {
+                    "text": "å‡ºå…¥å£",
+                    "style": {
+                      "font_family": "Hiragino Sans GB",
+                      "font_style": "W6",
+                      "size": 35.0,
+                      "tracking": 142.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.9529412,
+                          "g": 0.9411765,
+                          "b": 0.9137255
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 17,
+              "name": "Entrance label â€“ Entrance",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1266.5,
+                  330.75
+                ],
+                "runs": [
+                  {
+                    "text": "Entrance",
+                    "style": {
+                      "font_family": "Arial",
+                      "font_style": "Bold",
+                      "size": 26.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.9529412,
+                          "g": 0.9411765,
+                          "b": 0.9137255
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 18,
+              "name": "Entrance 1 â€“ traced numeral",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.84313726,
+                        "g": 0.7372549,
+                        "b": 0.32941177
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.1254902,
+                        "g": 0.1254902,
+                        "b": 0.13725491
+                      }
+                    },
+                    "width": 3.0,
+                    "join": "Round"
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            1496.0,
+                            64.0
+                          ],
+                          "in": [
+                            1470.0,
+                            100.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1522.0,
+                            64.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1522.0,
+                            329.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1485.0,
+                            329.5
+                          ]
+                        },
+                        {
+                          "p": [
+                            1485.0,
+                            135.0
+                          ],
+                          "out": [
+                            1458.0,
+                            150.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1407.0,
+                            159.0
+                          ],
+                          "in": [
+                            1429.0,
+                            155.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1407.0,
+                            131.0
+                          ],
+                          "out": [
+                            1436.0,
+                            111.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "swatches": [
+      {
+        "name": "[None]",
+        "paint": {
+          "type": "none"
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Black",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.10980392,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.94509804,
+            "g": 0.3529412,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.96862745,
+            "g": 0.5764706,
+            "b": 0.11764706
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Amber",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9843137,
+            "g": 0.6901961,
+            "b": 0.23137255
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9882353,
+            "g": 0.93333334,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.8509804,
+            "g": 0.8784314,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Lime",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.7764706,
+            "b": 0.24705882
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.22352941,
+            "g": 0.70980394,
+            "b": 0.2901961
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Emerald",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.57254905,
+            "b": 0.27058825
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Teal",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.40784314,
+            "b": 0.21568628
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Aqua",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.13333334,
+            "g": 0.70980394,
+            "b": 0.4509804
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.6627451,
+            "b": 0.6156863
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.16078432,
+            "g": 0.67058825,
+            "b": 0.8862745
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Azure",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.44313726,
+            "b": 0.7372549
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Blue",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.18039216,
+            "g": 0.19215687,
+            "b": 0.57254905
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Indigo",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.105882354,
+            "g": 0.078431375,
+            "b": 0.39215687
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Violet",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4,
+            "g": 0.1764706,
+            "b": 0.5686275
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Purple",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.5764706,
+            "g": 0.15294118,
+            "b": 0.56078434
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Magenta",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.61960787,
+            "g": 0.0,
+            "b": 0.3647059
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rose",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.83137256,
+            "g": 0.078431375,
+            "b": 0.3529412
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Pink",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.11764706,
+            "b": 0.4745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Brown",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.78039217,
+            "g": 0.69803923,
+            "b": 0.6
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Tan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6,
+            "g": 0.5254902,
+            "b": 0.45882353
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Coffee",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4509804,
+            "g": 0.3882353,
+            "b": 0.34117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Chocolate",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3254902,
+            "g": 0.2784314,
+            "b": 0.25490198
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sand",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.7764706,
+            "g": 0.6117647,
+            "b": 0.42745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Copper",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6509804,
+            "g": 0.4862745,
+            "b": 0.32156864
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rust",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.38431373,
+            "b": 0.22352941
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Walnut",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.45882353,
+            "g": 0.29803923,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Espresso",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3764706,
+            "g": 0.21960784,
+            "b": 0.07450981
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Radial White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Radial",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sunset",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.83137256,
+                  "g": 0.078431375,
+                  "b": 0.3529412
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Ocean",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.16078432,
+                  "g": 0.67058825,
+                  "b": 0.8862745
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.18039216,
+                  "g": 0.19215687,
+                  "b": 0.57254905
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      }
+    ],
+    "swatch_groups": [
+      {
+        "name": "Grays",
+        "swatches": [
+          {
+            "name": "K=90",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.9
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=80",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.8
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=70",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.7
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=60",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.6
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=50",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.5
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=40",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.4
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=30",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.3
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=20",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.2
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=10",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.1
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      },
+      {
+        "name": "Brights",
+        "swatches": [
+          {
+            "name": "Bright Red",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.11372549,
+                "b": 0.14509805
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Yellow",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.9019608,
+                "b": 0.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Green",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.0,
+                "g": 0.9019608,
+                "b": 0.4627451
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Blue",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.16078432,
+                "g": 0.4745098,
+                "b": 1.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Violet",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.8352941,
+                "g": 0.0,
+                "b": 0.9764706
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      }
+    ],
+    "graphic_styles": [
+      {
+        "name": "Default Graphic Style",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 1,
+        "unit_box": true
+      },
+      {
+        "name": "Black Outline",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "none"
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 2,
+        "unit_box": true
+      },
+      {
+        "name": "Heavy Ink",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.105882354,
+                  "g": 0.078431375,
+                  "b": 0.39215687
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 4.0
+            }
+          ]
+        },
+        "id": 3,
+        "unit_box": true
+      },
+      {
+        "name": "Sunshine",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.94509804,
+                  "g": 0.3529412,
+                  "b": 0.14117648
+                }
+              },
+              "width": 2.0
+            }
+          ]
+        },
+        "id": 4,
+        "unit_box": true
+      }
+    ],
+    "symbols": [],
+    "guides": [],
+    "grid": {
+      "spacing": 72.0,
+      "subdivisions": 8
+    },
+    "raster_effects_ppi": 72.0,
+    "images": {},
+    "next_id": 187,
+    "metadata": {
+      "author": "",
+      "authorTitle": "",
+      "description": "",
+      "keywords": [],
+      "rating": 0,
+      "copyrightStatus": "unknown",
+      "copyrightNotice": "",
+      "copyrightUrl": "",
+      "created": 1795389178,
+      "modified": 1795390466
+    },
+    "last_view": {
+      "name": "",
+      "center": {
+        "x": 800.0,
+        "y": 190.0
+      },
+      "zoom": 0.891875,
+      "rotation": 0.0
+    },
+    "layers_open": [
+      1
+    ]
+  },
+  "images": {}
+}
+ VCBLOBS %PDF-1.7
+%€€€€
+
+1 0 obj
+<</Type/Pages/Count 1/Kids[12 0 R]>>
+endobj
+2 0 obj
+<</ProcSet[/PDF/Text/ImageC/ImageB]/Font<</f0 3 0 R/f1 6 0 R/f2 9 0 R>>>>
+endobj
+3 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/VWDWSD+Arial-BoldMT/Encoding/Identity-H/DescendantFonts[4 0 R]/ToUnicode 14 0 R>>
+endobj
+4 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/VWDWSD+Arial-BoldMT/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 5 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 750 1 1 722.16797 2 3 556.15234 4 4 777.83203 5 5 556.15234 6 7 610.83984 8 8 389.16016 9 9 889.16016 10 11 556.15234 12 12 277.83203 13 13 722.16797 14 14 610.83984 15 15 277.83203 16 17 556.15234 18 18 610.83984 19 19 666.9922 20 20 333.0078 21 21 277.83203 22 22 610.83984 23 23 666.9922 24 24 556.15234]>>
+endobj
+5 0 obj
+<</Type/FontDescriptor/FontName/VWDWSD+Arial-BoldMT/Flags 131076/FontBBox[5.3710938 -12.6953125 824.21875 728.02734]/ItalicAngle 0/Ascent 728.02734/Descent -210.44922/CapHeight 715.8203/StemV 168.6/CIDSet 13 0 R/FontFile2 15 0 R>>
+endobj
+6 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/UPYOCJ+STSongti-TC-Bold/Encoding/Identity-H/DescendantFonts[7 0 R]/ToUnicode 17 0 R>>
+endobj
+7 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/UPYOCJ+STSongti-TC-Bold/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 8 0 R/DW 0/CIDToGIDMap/Identity/W[0 4 1000]>>
+endobj
+8 0 obj
+<</Type/FontDescriptor/FontName/UPYOCJ+STSongti-TC-Bold/Flags 131076/FontBBox[24 -175 985 777]/ItalicAngle 0/Ascent 860/Descent -140/CapHeight 695/StemV 168.6/CIDSet 16 0 R/FontFile2 18 0 R>>
+endobj
+9 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/COAJCS+HiraginoSansGB-W6-Identity-H/Encoding/Identity-H/DescendantFonts[10 0 R]/ToUnicode 20 0 R>>
+endobj
+10 0 obj
+<</Type/Font/Subtype/CIDFontType0/BaseFont/COAJCS+HiraginoSansGB-W6/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 11 0 R/DW 0/W[0 3 1000]>>
+endobj
+11 0 obj
+<</Type/FontDescriptor/FontName/COAJCS+HiraginoSansGB-W6/Flags 131076/FontBBox[30 -100 969 860]/ItalicAngle 0/Ascent 880/Descent -120/CapHeight 784/StemV 144.2/CIDSet 19 0 R/FontFile3 21 0 R>>
+endobj
+12 0 obj
+<</Type/Page/Resources 2 0 R/MediaBox[0 0 1600 380]/BleedBox[0 0 1600 380]/TrimBox[0 0 1600 380]/Parent 1 0 R/Contents 22 0 R>>
+endobj
+13 0 obj
+<</Length 12/Filter/FlateDecode>>
+stream
+xœûÿÿ 	{~
+endstream
+endobj
+14 0 obj
+<</Length 460/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xœm“O›0Åï|ŠéÁRöb!İ(Š´K‚Äaÿh³jÏÄ¤HÁFÆòí+{L¶ªz èç7Ã›g;ìÛûqù¤Ì	—ùw8šÉJ\V/í0¶7rêQ»WD…jVÇÖÈTÍ¾ÑKk´¼N
+çšÿ•<ã¥Ó_Şªit¦OûìÜ7° 3A£P»Îİ€?$ŒıD;vFo@$Œ´ªLï‡“4z@ún<¢ƒs§•Npò¾‰È@uÒE
+¿²o‡Ğ|¼ûFŸäT¥¦!V ¤xéFgo°ƒ=€Â3)oV¡íôó°‰Çi®è‡VQ«ğN}ø×¶GHcàûjL	âkéó6`ü@úëÅ¨(Âqh%ÚV_0ÙrÎù¶u]×;ïøÔv:Ëß­åb[ÎWÙ.P(D9'*5ÑŠ´QIZI´TÆÊÖÑá‘´=Ñi9Ñ3iÑ½
+”E÷=9Ä¯¨/º×ÔW~8/I”oM“	ÊWD”oEî‚ò­£FùÊG"ÊWˆ(_(_™‡;ë·Şß°ûYËÉZÔ.\°p°ş;÷›:˜Áw…'\ñùßâé­şŸ*µ
+endstream
+endobj
+15 0 obj
+<</Length 12943/Filter/FlateDecode>>
+stream
+xœ¥{	|TÕ½ÿ÷œ»Ì’Ù3{–{'“L–IHH&	Hn ‰@ÂÚš’ A"J’È¢B´*¬­¸ÔJÜŠ-ÃuÂR£v±Û“Ö¥hÛ'¯bQ+OÚGÕª™ùÎa{õõóyÿw“¹¿ß9ç÷;ç·s~÷Ì i‡²•7öË_Nâ GÍ²Õ=×Ş0¦Yó2 uÂÚk¯ß´Z÷åÖ[ ãí@Ö²5«NØş1(:	 jÍšÎÛíŸ€ @îšú7®×éo‚µ V]ß½²#¼¡ı: 8 tCÇÆÍ8ÏÚß  ¯ë¸¡óZİô<¤=ÜÓİ×OÜÏêa ‹{ÖwöüuÎûN ú`ı­p™êçidòd‰Sç?ñ®Ä)ÖÆ ı YÉOêŠâYü£ä¸ğ9ñÉ˜ŸÃLà~Ø±»‰¹pb	fxHw‘ï&nL|ˆ+p/O¼@nK<'îÁOñ92ñï<A5æa	– rï#œxZlC¦a!q¢oá-üÀ}ø~DnN|vÜ†{Q‹zÔ'^J|…"ÜÅ'tÏa1±2Ñ…lä`ˆo%ŞE a<g	O‚dœŸÖâ<H<ÜO±÷ãIÄ‰¶q3…ÌÆR¬Ãáü‚ØH‹pB8›¸)q"ÒQ€táCRIæÒ§xCbzâ\1¼J<êß85ÿ´pu¼.ñ½ÄËpà¢'GÉKB¹p÷Ä­‰Ç?„LÆ˜‡¥Xoá%üÅßèÖÄVÌÂ"lÀOH‘I€·¨‡n¡[¸×1	õhÃZ`"ˆâ0àŞÂïqï;É sÈ
+²‹üè*ú÷]î÷OøïÃ	?òP„~<…çñ+ü¯È¤Œ´ëH7y€|œ¤ú1ıŒ×òßâ¿ä'„@üdüËÄ¼Äßá†Wa3¶bÀ(áßğ&ş†ÿÂ§ÄB¦5ä1!'ÉÇTGsè|ÚCwÓ§è¸yÜ.î%¾’ŸÁ¯åÍ¿#Ü)ìÔthâ_íßÿAü7‰¿Ü 	]¸÷à)¼ˆ×ñ&ŞÆñ'?d
+™F–‘o’5¤l'ß!? ?!¿!‘¿Q¨9tm ói7]O·ĞÛè}ô;ô)ú}§ïĞ?Ò¿Ğ¿s—ÃUq½Üc\„‹qÇ¹?ó>ÀOâ'óóùe|B(Ê…+…EÂ>a¿ğ²pV¬W‰=âšÛ4·k5Q4ñïqÄ×Ä#ñÑÄ3Ğ"ŒÍØ…Gñ8ààøşoã$Î;ñÉ'ARCšH3™K¾A®!ä6²ÜK$ß%“’Ÿ0¨†æĞ ­§‹hí¤·ÓmôÛô=DÓŸÓ·è	z†şsq~.ÈMæfsË¸«¹u\/×Ïmánçvq»¸g¸×¸×¹ÓÜÜ^Ë»øl~€ßÌ?Ä?Íâ#\%Ü Ü <.¼(Œ¿¾¾©è3ÅRñ:qŸø'¨©Ò´hvhŞĞü—¶‡d’"â%ò…ù€z†lúµó[É Y„‡»$ÛÉ"b#ÿ…:.NÖkçÖqêáÓ§¨ğ€ö“#¨$?ÁV‘ràO"Jş@Oò¯Ğ+ğ&i'şinğêÃ~>€az”!3pˆÖÒ¥ôä}²ïc-6â;d-éÃ~r†L%·j²oP'·ˆÜÚÄã”':2›œÅ:Î[ùUø&şåEjğ|”7ò7“ bØ0Å»äûø‚‰á‡%è »ğî [õÚğ¶’ ñ\/¾†CD4Õât~3ÎâøP8Ìø@ât¼‹”/Q(!2›eØ‡~¬Á•øŞÇÛ8†}jéÌ‚(G=Z°«p¶aW"’x$ñ­Ä¦D7~Id|AŠÉdo"†kP‹Wñ*îÁÛd'Fq%ş¿®ø*Œã#â&y¤œ‹pg„…aááğ#á×âdlÄíø.~…?áÑ™¬Äoğ>#Z2#„zLÁ,´âzæa&ñ¢¯£ Õ˜‘Ò¤qîÂ#x
+Çğo8K,äü'%.RLVâ#¢E=š±ËÑ‡½DG¾EFQUÈFş‚/ˆ‰L¡ı(†‚Û°Ïc¿ÂğgœEB•«˜L#d)Y‰Ïğ¬"R…rH<ÌC÷+¼\bÁ’CÄY´ã$LÈBğ¡(ÏKL¡]Ü1âD&Œ`12péE=ÌhÁd>*ãQŒ×	ÇGÈoU)¢‰mÜ†øõø%¾k ğ7j ¥~±R7ıŠÚiSk¦TW†*Ê'—•N*)äòrı9>YÊÎÊÌğzÜ.§Ãn³ZÌ&£!M¯ÓjDç(Aq£¿©]Ú#|À?kV	+û;äH ã’ŠöˆÜ!Gš.§‰ÈŒ¯#"_N©tÈ‘ÕÿRIR*(‰E®EmI±Üè—#¿nğË1²lA«_|»Á–#gT|®Š«¸±ÁöùJŠe¹Ñ½¦Av¹1Òtãš¡Æö†’br0M?Ó?³S_RŒƒú´™ş™i%Åˆ¸ü=‰k:QêjœzBk,)nŒxı¿Iáò;VEZ´66dø|á’â™¹Ò¿"ÿŒˆ9¨’`¦:LDœÑ¨ÃÈ]Lì”İ³`E{Ğ°Ê¿ªãšÖ×fcXƒ—¿!âÚ|Ê}±XR±Ílİvik7Ôèî’Yqhh›_Ğzi«İÃawIqIq„æ5µ5E”»f•7/’¯iĞ;Â­rG¸¤Xfš0­’úuúYMûurDçŸá_3t]{‡ñE°p“/êõ*c‰“ğ6ÊC‹[ı¾H]†?ÜÑyĞ¡…›F=Šì¹¼¥¤ø Åš4ìA“9…Œ—"ÚTL%gXóÂ–%L"ÿìˆÒ‘WÊ,lõGhŞvëœ‚¡•S2|ì
+“’âæÈª­]İÌö!ËTVÏø#BÅ/ıÒî?óñå5©1Ïòw0”ÅÉ…P‹óx$Œ±ÑÌŒˆLƒéj¹²¤øÆ­ò÷Xä­j”#hiğÔRwI±ÏÇ¼3¦`EI±/2¸ 5Y–±"#
+¥4ĞvÖ2~¾Å±„µo¹ÀŞî÷•KêmàÂ¿ÙâLo\35Bœÿ¢¹3ÙŞ¼Èß¼`Y«Ü8Ô²móâËJÉö)ÚRX$}f+—ASÍàÔÖˆmæ5ˆY¡Õáó"|¨õª· 5YAä¦ˆ¥}VòÖû|ÿ#OL£½„)–8Ë¸Tp‘-%edjğòò´ËÊ—IgâšGø m^¼lhHY[“¿©}h¨É/7µuÄƒ+ü²Å?4FŸ¦Oõ4¶Ÿwh,qxgF¤é®pÄÒ¾†L-)>H1ã Ÿl_pP!Û-k³ òöÅ­QJèÌöáp	@™C f¢$.jb´NI‡ÀÇ9è5|œÀ£…8å’ t$BÜp-ŸÖNÔÎ³œ«;Q‹ºÚ‰ZËWµµ“Ë|VŸ5ÏgõğøJæÆ¿R|	™(vÂQá0ğáså¶óló74×¥]gxF÷´iÄÿ¼é„N/jE½KëÔW™šLMfÖ¢³ÚMv³İReª2_i0m²¼®OÛ¨Ûè¹1k»n»çÎ,Qç´ëfÓ"Ó€évÓwLO˜“l4ØFƒÙà0ºœyé;i·Ø©İÙ—G	5šLhM1rTÉ‡Ñb¤Æ72òGÄˆ8.yq[ŸÈş2?õû2‘QŠİ9š3y¥;8Ïr®©miëı´íÌ¹¶3¨«­µÔ2#ØjJÛzk'j‰ÕVS³mR°Ít‹åÇÄZ«­frÚHo[[…ÕWît:ì¢Æét¥û¸IÔï·Z+Ê«ª*Cü€ß¿›vÿåÍÁ—_j¿åºÑø£o­_üÍÕµ¿óºÚù³rÏÿÅmOı.sÊûã"uûÃ¾‰G¸y¹­3æ\m ‚Ç. ŒC‡¥Šn-½‰î¤åc¤pt¹@„ıæZ@`Ğái¡mŠQ /ñ2áyŞ£?L&#8¯'ó3êjëjÏµQuğù¬¢¦²*·º‚ÄO?ü›u„–âıÃ‰ÜŸßÉ¼¼4qš7	ã0AÆ}JóFıvıÓäóñºWuÚ¥Ö°3ì]*]k]ã\ã½VÒÖĞ±JWeœMg‹º&ãÓº_ÒŸ‹?ÖıØø6ı½ø†î£Õâ–İÔKŒ+y6gÈ½Wk”Ì¥fjVlÎy/„¬óyÂ{sì'Ò<¾×_V…Ÿ{fåÓŞ¹gPw&ØË>“ËHÚÚH¹ËiµhD¬–ê*W¨­§³¢¼ªºÊj	hù›ïŞğæ[ñ/†7¼YÑâÌ
+Í¯HaüÁCñåñöçw“Ùd/yôùİÖ/¾!Ç_Rê_O(¡/Õƒ"œ8-œ^‡x\Yò€ğ€öAÃƒ&^K4&­YãÎwoÔm°i6X7:îäwhwî4İaÛaßîØîÚî¾ÓkĞØ´v×aóÚ½n‡W“^bÔyJ4œ3ÿ€@oÑËzN£w)rY–’ÕÕ“5˜5’%ÊYg³h–%Ä	eà£wfny%éÍŞ¹gæªQ›´Jİf‘¶^´¥‡ª«ªª«*dX-ğÉ v[E9‹GYşƒkwŒ’rG|KüX|,¾…LşóÁƒïıñ…NÒ7N>ØN¯‹?ÿ^¼›ÜCÖü#H$¾úüKW'Nó•Â^d‹R¨5É†j[£m¶ç!ã£¦lï˜t6kºÍgõÛî°	à‰Qo0mVkŒ(N“Ñn2mz;{ºV×B†	%1²ô9/ó”%Æ_°9CüŞ£!F—)FI_ª§zú½v*ivgH¶—Ù;g‘ıŠİj•,¥Zj©³Ì·pFjac¥›Í&Şl9©9qÜEqy%SŒø›q9zDÁ OöëcäÊÔÔè{æÜ©yÕ˜çØ±LÛzk-Ÿ¶'‚½§êØ­­×j«Ù&L
+^²¨KémKÏSCN5²&?İgõiª*Êá°³ÈÌ½š¸7Îmİ¼©cSû©azzâ?‹¿¹âá»î‰ÿ2²)ky÷=ÃÛ¶­õÑ/ãÿøGiüìÛÏİıò; x àoC‡õJVàE!O#kË´/jßÕò¥Úa-ÕjÁñlÔA«©ç‹T\Èê•ÓÊÒh¯»tÉÓO^tqÉ›giû´­vî¹¶ä’pqÁãKmíä²
+«ÏáS?pg&¦ÑU‡??õùÄ.¶2,L|À?ÌO‡< Ìú€œÖ~–ş™ƒÿı@ 6àÑÑ°eiúRgØı }P|Pû€!¦{“ş^øƒîMÃiá´øÑò´ö—ôWâ+ÚŸ„íñv-gÑş¨>Í£ıŠ×Øk4ŞöŒšaòÁãm­¿°ô~z!ìÑÛFÚzg¶*º.ËjÛjg—›'ma´‘¶ô-éøsryö>M<òWŠÿüã{ãŸy÷ºu÷ß¿nİnšs‡â?ûä¯ñWnOì{tß¾‘GöícÑ¿àªùé°`ŸRğ€@t&²HX-\©­Õ´ÆÔcãõ:³A2Ğ{	­3Ì7PCŒnP
+5=GE}t]™®GÇë¼[m{lt¹m«í€í¸·Y \Œ*i”’B‰ÇZ7F2“ñÙ[;×rÆ¢º¬÷Ó6ÏÜSp3—Õië]_S\
+{Ñq-jT.XÖzP_>%¬®î>GUUE¹KÃt­d$~š3×6´‡¿qåÓ–òÖ6Tş}Rı3ñ¿‚` >ÈOG>™6†ÂÄ¸ÒfÕ×	¢hpˆNCˆiCî¿6jİ~ƒÌ•.Òµî)|R|Z³×ğœøœ!Rx¼ğd¡	…¥…-…{
+_,|·P,T¼™¡ºÂ–ÂAµQĞøx7Ë©úZãc¾Îæ5«5?#33¯'Í–€Íª,«l·’n+±Æh“böf²2•e•İ™¤=“dÆhÓ¡¼@ ŸÄHaÈ%ÆGÍº:•*«¾._YV™¯ÔWæ+µ•ùJn~(_™zE¨4ÿµüwó9s¾”?˜Ï!_Î/ËOäóù‚÷jSkÁú`òJıÓ¶Ş`íDí§½m¨s¥Ö¢ş±ğcÙA2# ëƒ½mh#ÁtŸ£ª¢Üéb–wºœ«ÏÊW ¢óèÂí_½»¬éñk/ÈŠŸÎÊ_0mÍ¤øéìºªú5%ñÓ|`×÷/Y²xù5N„éòG'ÕÎÚ¹;NiÓw—7İşĞÄW (K|À[øé(¢/+ã¢Uôkó]V—ÿAÛƒöòï/ÒiìMvj;b3ıÌ÷¾ÿsã§9b¡q‰±ÓxÚ¶§sÆšz¿’Û¸6gU`›m›ıÎœoåêªbSÚã|s“oF&'7?Pm¨ôUæTú+s5¢^°ê|nc¾!''Ç¯ÉÍQŠûí›7mwÜ^ô°ãş¢C9‡üÆArë.÷CEß/Š‹.ŸSñùCN%S
+INò®“8+´¾–¼{òhâÎ
+åy‹™ï\V}]K1)+&¥Å¤8ÛWf!–
+âCÊ¿*´êU¨ètÆ<Á1æº¯‚ÁàÜ3çzÏ°i²>øi-æÌ›gpP¤3·*•"!"q’@N•¯É·˜„]«H—ëS¢'.Ê{}9´ İh Şå<á›
+ÒZ¼ÄÛ”®©›h«›h³Ú\5ç?m½cÈIür´ (ä‹%aN,qr4;—•OJ¹É²Ç«–•7´ÖHªršr4~'çÇ9oäˆ¾ƒ‘ç½Lç<!T¦™«¤Ä‘Q~ºZÎÉ1¨dy3CP7ÏÂ·“Ar–p ÒBÚ	¯R¦;C$Fˆ2<YÎŸå)SÁ©x2BÎ
+—â*©s):ıt—RYr)ÁI!—’Wr±™ivI®å®nïZâUrrCf/iñ&¼4¥|oğ\[rFœ
+²â¹`jœ
+&‘l«;!z{{{ÛÚf^Ó:†ÜÄÏ]š­Î\f«óÅ?o¬1Ø5jrb‰¦Õ€1“`0ŒóûhuUe(?Ÿ›¨©sH`sF#:ì.'ÏÎ‰DN ŒxmëVŞPgwÌ?{õ–wŞç‚øgÖå­İerf€¼n=÷ÉÛ¤4¸pIAf©ì°[›§/}hèèİ;'OŸ!9ıÙÌÕsšï¼÷·PÌN|ÀOâ§ÃrÒ«¬Ñxµ™B–Ó;'cVæì¼ß[Şµêª<MoV{®Ü¸×sŸw¯w,ãgŞW3¢ht8E3_,t„=èt¯øœøSÑğbèmÍÊ-Ÿl-6æ2‹ç*9¡\Å“êÎı*—æ6e1Ï–™Ì¡+²²,Y‘¬dñYYÅ¤ŠÉbyÅŸ’i­ó)–:ŸâfEûŸã5£M—ÑLk
+3,Ièö†ŠÙŠªØÓ²'´…ºcX2ì1PÉ@bPLÎÁ;?DBí ¸»ŒRQè[î"ïºÈ|58—§¢+¹Ó¶õ®WgTK˜ÛYÄÁ3Á`°®¶n"dÁqJM‚ÉY-Í"½á3É‚ñ2²B‹sWåÒ¶`˜E’ÕVÃ™,µ,É`ÓÖKòÕµÒéàìN—/È™‹+C,‘­NîØDY¨áQ]UI:Áß¾v4ÖÌeäÅ?J³h¸YO¶=yléwïıÉU-İÍ‹É7«>Ê­nm¸ª±Â’Fÿ4éáï„w¼İuÇU™ÕmSStû²o7gæÉ™§Åk+wç×N[Z¨Îí§>Û®#2ŠqB©ÛPDÖ˜6ı™ÿ”çu>‡N,(öå9m’c¾ƒ–98¨Ãa÷çäÙÒµ²=€fä÷ˆƒ"›òˆùE—2°,ßW6I™Ô2©}RÏ¤ÁIÃ“F&iåIe“è${9½,¦³L­äÒLMÍóÕÕL}>P³5+3¹:Í‰ÁhV#–z<˜^ÃæcêÙ5µ;5GÒ5GÌjv O	³”!İWM“¯;3¯à#VfßÔÓ+gõ¥
+ÿn:ç‡û·-ë^~çpÛc7Î‰¿7’‚—PtÕ7šçÿæb	ÎX¤lú…p8ëš‡–_ûl0ÿèÖUÇzZÊÿ4şA÷+–è„‰±øF¡mŞŒkŠXNõíÄü"> 'Q\ß°^kİ-p:Ñ#ÖÒZk3m¶¦3‹e+Ÿæ„Şa·ëubº=àp€¥J&§"ç†8IÂIœ^õÒ™“v¸iû¬›~â&n}Z@§eMf974¢%gµDëqÕ%÷úŞõÁT&Ìö‹ŞõÁ¹gj-ê¯¨ÉeióUªá¨´ú¬v5Ñ¯b(7oê±®µÏ\E<ÒÂºYë‹ˆgÏ’ß|f7‰»OvN›?pŠŒùÓó>€<+‡EcãJ¡U_§-"Â¸p\øD$¡]Ø*ŒA ô”ä.çËÁÃ§„VEVÓuú¬VX}ÖûˆG8üE(êğùütØ‘Iƒ%ñ¹Ò”VóîaãnË>áiıİcÌ«ÕÚÉ,z¥Ø¤ŸŸ½Ïø¼ø¼÷gúWoéO>×|f4fš3JFVÈ¡˜¬!³ãEÇkØ¨9»N…&W#F¿­Ì&[‹©İDMnÛ…÷d„H…Mİ¤³ä
+s
+“0X’„îL*f“94ÂN- Xn³Åhÿ(Ÿfs3ç¦ià#¥ß|1yK³—gwgïÉæ³Í>­b4‡´¬Ô
+dmŸ¶Í=s=Ì¼¦U±»•{[É6×¹Ùªéfë§ºCÕM¨Æ–-°×Ù˜0Ùæ$Ì°¨0zô\j[SÚj˜ĞQêö¬ë}uA¶…Ù^XÃ¶=ÅnRÌÙu&6¨‰oRL®:u“—ÖNƒëƒÁZb­`Y{/Ú‚DE¿œ¨´ ¢œO¯ôä†ç¢_wÕ‡â¹£‹Ø_?Clâ„ÂİÖ1cY>·qé5µµ„,,}ø±çvı‘hI0ş³ø±[vÎ"×oŞ:sf‹»4€_ÆF2‡Pà-iØMd7-»q±Ä‰Qoiˆ=€+²wjèaˆ\šV«7¤9ˆƒÚ8¯Î«ÏAIÚÏÒˆ%Î*Î,9¤‡f‡'-Ei!LMÛ]rµ?¤'FƒÚWšÎâ	tD„uuµV[MP=HËPliĞóizR"¦A¯«12wfA(Í(ËŒŠ‘7º\^‹¾N?_=)SÒxZ“Æ×ñóy?LË@ƒŠÙP	"³Óâ1üxÄô°õ2è{¦íŒe¢Í3¯±³áÏjY,,a·Õ[Mš¨Û˜íUûˆ/İÅ6št!/Ä“üW§ºD“åÄ_Æ&şô\£³¤„f³¹L±8ñß!†™VJla1¬Û–:—ºÃ™jÒ}®ÓõdfÓ©\È0ÕòÌás‡t:;{àÒ¼,ÀMi“zW¡É`Ï0ŠÙï=Ù$ÛâÓz²Zk/yÔ­{f¢öÏª©G^vú8³U1v‰]ú.ÛjçjwW¦Øö%—*X-¶Šr—ÕGì®‹Ï¼|GüËúƒË^ˆ9zñLØJ6wl¿ıÚUÛ¹:Lò‰–˜ˆç;ÔòUÏ3W­{êÉÛ‚9‰?ó^G19®\1fe=_ğÓb^“®q¸Ò]w°Sè,è7ûŞ6¼å7„õKLKrÂş5†Õ¶k}]×oÈº3k·Ï`ó«	²bPéôxCrø_ÊyÉÏ÷æôúoÍ¹Õÿ9ÿáƒú"cnN®¿Æò7ë›93ı×;ı›Œ›sv‡röêŸ6îËI×éuF1Gô{ô£3G“ã×yâZêV<r¨ÛMºİ{ÜÔ}˜v"#1®¼5RÉ(±s˜¥fÓ³½r(™K·“a2B"dœhÉòŠ·ÆÂ¾¤Hçş$á".%İr5kòŞIRşˆ%b¡–fò‰5y¢â)ùmj“n^ÔzÊ”°ºCÏ³|:÷Ì¹àú3¨›PSçSI¸>xŠeËjî¬®*9‰“£YÓı±Äñ|/šÎ²â“Ñô,ñó¨•+f[Q¶ÕèÕ™Õ} ˜5FÙX£w³ºß_¼Â©ÇÇTıT#{fkÖÏ6ÎÌiòïÕ?G¶0 ^rÉ©U¾úÇò­
+™¿,İVSŞ/c‘½{¶İ³ëŠ«BcÿÙ¾më'ß'vâÒÄO¤ßrË­³K‹§Èkw%ğbü£ø[ä™»¶oZša›4mé¦ö¼²úo¿0ö®¬Ì©	å•®¾áØÎ-XK[£¤Ät—ğ=xğk¥P†LüúBóTÓSØ¬ñ8àæœ¸lévâ²Q;qs:^cp³3\#®ˆ‹kw¸Æ]œ+Fø¨ƒ°I6
+ûæ£_1Òt¥úR ”,Wy¥ÀÍ\¶%:ûû;×n´ÛÛÏÚØ-vvÄÈÛ=Ş#çóßæHõ¢æÈ´ËZÇ`OŒO	×Îeßœk«µœó°ƒ˜3ê7&çÚzO±Á
+³Ùlfk;qø“ÉBµKMò•VeEe•nOËÏÌŸã^qóU›kÒt·ŞJ¼|àd|ñmÁÌŒwŠ*4N¾Ÿ¼vòõ'ã;@/É4Ø0]b\©cÙƒ®EGuİ¸î¸î éÚu[u#ºˆNàD3³³Îã8	m”@D¯§š áÏç¼GûO9E]íD[oòP=T3Œt«ÏJ’YFü4ñğÏ>şÕ—søÀ—ì”rÀ‡ùépbâÖ¤»Ò—i×hùOBÚ¥AÛ`şĞ"ˆÌYVÉ(ÒÒô”œPó7şEşf0±£Ñp!3³b¸<»p@–ÌäR
+]šÇõ²±‹Ç/ìl¬‚%À|8~:wAÍìş ;ÛùzÛÃó%šılç”–Û£q‰<rhæšÛob±z?ÀŸ#ÃÊZ×hóD›$2á€@A—<ŠÕëòÒ ÕˆÍ¥GIóÊê®Æ/?5|İil­züüßS|!1Íªb‰Á¨WSü:­õ9îçë¾úœ¹
+vb{ä³xïg X’ø€¯ã§ÃƒÿP´šÃ¶°s¹ËÖå¼Å½Éó }ÀğSËOİ¿³¼åşPüPûaú‡ÏÅô)éSslsœMî°¡Ë ™j«vV»¹Âó6áNóÏ>ÛÓÎ1ÛóNIÍì2B>g³‡LlWõd‡Th¶†Œ‡	=íWlÖ4(îŒ›=„ŠaBÈaBÀÓ~Evi«%>”bL&€Ÿı²ã_–ğÏ	¢nâ\Û©`°nâ;&W¶Ş6¢®aÉçÅªj!µ)¢¢ÜÉOÿÅ´r~×-[×¶¬v{ğÜ¯?Œÿ…8Ï¼ü>ı¸|Ñâ]Ï{äêîÒ½L„'’÷´úzûj•ŞÓ[önÚrsíßµ­úÖĞãïÕªoƒ¾Â÷ÜûÅ_MX u€@§Ò§ø4Óãó0Ó‚/¾øb³%ÙÓ¥—Gğ3ìæûğ8ß‡¥bÂ|®æßÃü{XÈea›&[ø>”ñ}˜Mk¤ß¦5¸ïC=ß‡4ş=,–b}’Zÿv	Kq?ß‡%ì½Z|@
+É~ZJ?àª¸ò2ÿ…ø=Í“š'µ­Ú_é¨^«¦–>2N3FLfÓTI=øjqDPXPÊz¿ /C 0‹[öm3»®Sï'Ğ«%†ShÑŸÂ9´âæÎŞU}#…ÈÆ)\„›½C¦â&Ù)\‹2r"…ë0Dµ)ÜHŸ¡÷‚á9P˜„ÚÎÃ+ÌQq&©^X•Ây8…u*Î4…ÛS8›0¤â&³ğH
+çaTq-(B,…óp?Vq]J÷$Ô=‰'uOâIİ“xR÷$Ô=‰'uOâIİ“xR÷$Ô=‰_Ô]¯êş‡ÎtÿHÅÓ@aùÎ#[tª¸É&†R8»˜´›‰yYlIá<2Åvgh61)¿EíçnOg6ŸMá<lbTÅíL1i;“Gü­Š;@a?Ná<dMÒnNF¯‘S8¯f’Š{½fV
+gô×¨xó©&)Oó©æNÏbòh’¾ËbòhWqvŒ¦×JáŒşG*Ë|ªIú"—ùTÃvKÂ1ûh>Oá<ìÚ¤œ%¬­=…ópjUi/±¿öûk/ÑK{‰^†Kè—Ğ.ñ‹á¼_¾å(Cª c1Ö 2æ¢ëĞ~lBZ3İXõŞ~t©“ £×ãzÈXˆ.\‹5èGŸZêD:±7¢«Ô÷¨×£¸3Ğë±êŸF™z	|j*–ªıô¥Æ”Q‰I(ÃdÈ(À\ta%Ö£}èÆjô£ğk{ùŸú˜„rl¼„£äé_ÖS—ªWdô«6X…NÜ€¬ÇZÈêØÿ{û±^Ù½«Ê¨–`ºĞ¯ZLÆ"ô«´©‘×aJÕØxI†¯D7°N•«K¥ô¿–äŸé_ÀTÊª¬×BÆ|¬ÆjÕî¬µDõv7V¤t™§¶¬Q­Ø>CF‹:“n¥jO¦[‡*óª”_dLF¦ aUYµí&ÈPã(i£¤V«²ö«uİ±J­ïQÇÛtÁR2zÔ“”ÌFëL•™dŒ‚~ƒjóóV_¡öqŞ#×§ô\wAŠ$Çy9Ö_BËÆëÆ*`¥:FÒT¹™E¾^‡d™Ñ®ÄõP-Âæ‹üO–`×«XºPYÀ)¹¿¾ïuÿİ/ö¾ê‚ï×«ñuŞ—ç£çë4¸4¶/—kÚ%>bš$ua2Üp!.YÿI]W¡TÍ»ÕY÷¯"¡ã2¯'gÇ?ÏfÕ~ô¨wÖ'n¼ÍÉ~åõèù—14	óĞ‰kU‹°yzéZqyK?ˆëğáe4kW«öº´-YÓ¤ò÷_Ö’ªã¶sÇ¸s/rÇ¸ƒ—¶_V^Š®ÿQ¾dËUèÂtàFt«5—Ñşsë•ª‡ú.£:_×„q=ÖâSÜˆ±ş¿É~yÛy¾”İ_ÛãÅV¶†_ndÍ,µt£jµËÛ/oiA·ªõ€ºV1_nºŒúëÚ/µÔåò]ÖÂKüt~?“¯â§ğ
+ßÌ×\Jıµí‹¿6..Ö&}ıÏŞof%2ë.k»XÛ¬F^Öş7‰/©'Vü‰óã†KÛ/Ô]¥®b¬öò88_ËònõJäãw_ûs€JØ‘r¸Qˆ…X‚,E8ä¡ó1a\‰*|Wa
+Ğtpñ`½‘{¸gYšÈ=™{#KÿîÙQ±\‰qÏÚì*Œ:ƒåc‰qîÙèÔ
+µ¾ä;åƒG¹ıXŠÄ8·?º„UïUùşÑŠiIX:Y…Qm²Yc/—ê½Ü~”rûAaNaó¹ı¸‡Û=Ü~¼Èí‡·ïrû‘àöƒãöqG›$%Æ=ÕV˜ëíÜS P¸§ğ÷ÜSà sOá ÷>IÕğ‰qî‰Qÿ„Ê•Á=3÷,ÜäÀî	¼Æ=İÜØÃ=÷8ìáÇîqPîqî±¨E²Ôë¹G±•{”{fÂ¹Æ¹G-ªm5§—+õî~´p÷ƒ"ÂÍÅ87İÜ.låv&Æ¹æhÉdÕ„Í£zS¹¥ŞÂí„ÌíÄ ·F¸ jYávªô;GÓ¬ûoEÍV•ï¦hY(‰ŒZÜå-õvn#×É­ƒ·…[‡lHÜJn² q+¸U0ªr*£fKù`½…«áê8
+!qõœå¸Î‹•l jJ3-(*¯×s39·JbæŒAâ´œ&Z.ÉG8E5şöQ]“o{Ôâ(?ÆİÁi`‡Ärš¨K2ãô(åôª&‹GuÆòáz·#ÜbPHÜ:ìQï
+·.ªK+¯·r\&œ¸µ\¸&.[…Os¡	÷½Ñ@¦4~„»Oåº—uªÄ¸éÉĞš>j4•×ë¸é ˆpwcœ»[|x40¥õ® e\(dn+Ê¸­jĞ¡ŒB7„nn[¹!ìá† Ü”qì¼®”ÛŒn†¹ØÃmVÃÊ5[TK9¢¹åcœ‡sGË%ËÎ’ç¼£:“Ìµ¥«dîQƒ©¼î×‡ù\(®Ôå.ï>Â©ªº3COTg(?Æ¹’®IŒsNæ’c\&—­&‹Ë:¤H½Äe«,Ğ_ĞãÌHôuú&s7ûE 
+™‚¿NÁKÂÄ8=œô·¬Ï¤ïƒ`9ı#öĞ÷Aéú
+Ê ÑwhŒIAß¦c¨ƒDOĞVA¢c4†
+HôpÔ÷ª£±Qß«lb~7jt2eé+Ñ`i
+‘òRˆ+#…Øœåõyôeú2!ÑßÑ—‰¾DÇ‘‰¾HÇá†DÇi?^…DŸ£•˜‰JÁÓ£,ÄéôyLDG£&&B$ªaà@Tdà‡Q$K-¥ÒQúCº^HôÑ€WŠÑ}£\É|„V‚Ğ§h4K²Õëéc¤•œƒDGp‚AØèãÑjÖÉpô¨,Ña:¬¸«•<¥DÙË•å••”íåä<¹D®–÷Êõz7ì¡;AèNºÕé”ÑPèÓQ¾:R?AûÁô¢¤ıQ±vÚí‡åBëY«£w`>½Ãt†éVÓAÓ[Ác˜nÆ0½	ÃôfÓ[Ôš~ÓÓàĞC· ‡nEDÊÑC7£‡Ş„z3zT6r@ÊÑN· nE;D»ÊÑN7£Ş„vz3ÚU&o;@»ÊÑB· …nED‹ÊÑB7£…Ş„z3ZTÚ:€•C¡[ Ğ­Pè •C¡›¡Ğ› Ğ›¡¨
+í‡B ¨etÊèV”ÑA”©et3ÊèM(£7£Lå(£ı(£(S9dº2İ
+™BV9dº2½	2½²Ê!Ó~Èt ²Êa¡[`¡[a¡ƒ°¨ºz,ôfXTæ€Eå8I·à$İŠ“t'U“t3NÒ›p’ŞŒ“*ÇIÚ“t 'é†ƒÜñúŸĞ-8N·â8Äq•å8İŒãô&§7ã¸Êrœöã8Àñ”êÌ,ÆéŒÓ­§ƒWyÇéfŒÓ›0NoÆ¸ÊËBkœ`\åĞ-ˆĞ­ˆĞADTİŒ½	z3"*G„ö#BQ9FèŒĞ­¡ƒQ9FèfŒĞ›0BoÆˆÊÁ‚v„`DåøßåÿÚ5ôVÒª%è )TáV|¬Â-8¡Â[pP…7c¯
+oÂm*ÜŒjn@@…UØIK¢Rµ¹ŞI+1ŸVb9­D7­ÄZ‰´/ÒJhTì5Z‰wi%´RÉáÍšùš=šš5ÂÍI5‹óÅ=âñEQ8 ©\ŸAê:Z	‚{ÔûVZ‰Oh%ÛDh%êT¬†0Ÿ†@i%­¤!R¬gäOŠÈkEäÅ"r ˆÜSDêuôJÂ«+ŒjJ ‘VÅ˜.L—ªùÓ¥½ûù]R4P%ÅÈÑ$(T‚*éã@•t0P%íTI·ª¤ê@•T¨’JUR^ J’Ôº")FZ•œT—GÓ¥üÀtÉ˜.Él8 lV­2FdïèOŒĞ±qò¤9Í/“b$ÍŸ/ÅÈÑüR½<|–‘ç ÓıÈ¨tJŠ‘$Á³Qéˆ#û¢RHŠ‘¶hş$)F®æÿZª7’%xÆº8ARu^•–J1² *J1ŒæuòI$RHZq
+ÃU®ÜäHş¨4MŠ‘œ¨TÃ¨µÈg'"JTñH*äF¥#Ò'c¤•'JštFºOúX:%ıEŠQ•Ş–c<‰J¯åÅÈRE/-yT:"ÕKÑz=£‡„ƒ)ağ9ioŞé»c¤•ä=/=$M’î.‰iÉsÒ·¥Bi‡:DTºMÑıJº4(•Iı%§¤>iÔ!-”ÚòbtTºF:ÊÄD˜´ÒıÏK-y;¤ÙRŒäE¥+óbªˆMÒ&I‘ò¥ù(³/¦$û­.9Ê,€òäèÅRH*Ê‹±_R#V¥HsV3¬¹Z3C3Mã×äh²5Y»Ö¦µhMZƒV¯ÕjE-¯¥Zhíìkü ;í·‹ê×"Ïî¼Š[(»³‡Â~—¦¥˜ƒH:×L›Í Í‘ñ•h^!G>]äı‚eÁ?ƒDlÍh^<#2%ØÓ$FªƒÍMËÕ­	¹;™ŒĞí1‚Å­1’`Uwd°ß©$¸ãÛc ÄsÇ·Ãa¸7Ö¹ëlÓ­5M_skOİ/ù®Ü})šÙİ¼¨5òLV8RÎDV¸9r+ûë5SccÃ51nã{¨¹q!«ç{ÂáæÈ)•2556Œ!Ÿpë˜vdFY;ƒ‘ÅH^’.@ÍŒÎÇ@¸uLoD@¥è*OİÁrcÃAYViò€*Í‰<\B3FZhl8¨T~™´2*Òê—UÁ
+Õ$©±á`‰¤’#$µ#‰¨ƒEJ/’ä¥H*/Tªcqä"»…[ÇìçiìápğÿxuÎ’ÑÉ[^a?n÷7v¶ûÛ#;o\ã®åƒ[R¿´¯X¹†ÁÎÈ€¿³!²Åß œüÊ×4¿Âš'ûâ•ÆÅ­_Q:¢“•Éş†ğh]mkıecí¸0Vkí×tVË:kecÕÕMs=k®ccÕ³±êÙXuJ:Vc‹û–ÖƒZÌÏ¼&	GišŞ6³µ=Ãá´ôLg=6ÍçŞ’q˜Ù‡´`8bğÏˆı3Ô¦’ú’zÖÄCm2±_§šÜ[¦ù2“}©&‹FÄêŸ¡¾tÆ.0"öÓæˆoÑ²V*¥ãë}ÖÇ.µÙÆ®†Æ®†¾¾¾~õÓß×)%ú¾öêÿºk`` İ‚}@s¤hQs¤Š½ŠªÑ4F”ö†0š#“Î×qœZwP§kŒ%ÆÛÂÁÆ®ÒÏ†cX°×g=Dhèˆ8¢¡ìQ¡Ô›UŞ}ŒnÀVº=ÇÑÑRõñ™nÍÉcÏ/ı£¥•IXP¤Â¨×WÎ¾œ®öf©0/	k‰7«|8o¸d¸z$o¤d¤Zdo6îõf•K{ÙV-İË¡?ØwŞıÁ¾ş0’oõ$ÆécÑÌ,uà†ƒá`Ÿú¢Ùw\¼’/ ƒÛ—êµOíU«FMÖ÷¥:éëO6Î³%µ®¯@eJv’,]¸]¼ú‚Àÿy!ód
+endstream
+endobj
+16 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xœû  ù ù
+endstream
+endobj
+17 0 obj
+<</Length 371/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xœmRËnÂ0¼ç+¶Kp I€–‚¢H4)"ˆƒ½PKÄ¶lçÀßWv¨ªlkvgwfm“—}9Z2yÆÑä5‚ÙhŠ£lS©€•¤MÂn²>k ´¤-dÅªÜ„‚Ş†=ç?Ê'^¹xœd±²9r{ÃÚ xOP0–Û;DÃ€jÃ¥X@²,“µ3g‚°Ó€p¯%-ÑÂ…¦;%8;İ ãÔvÈï´®”/.ïÆb]ˆ‹„IËbê˜  á¯ÜX}‡76†—6³Ó5Wôf%ËF©:“ù(
+æÏĞ¿­j„°ø=µSBüï
+»á×F²Ä­E*UQÔ•¸bDQ¥äy§NñO~ÚV/ô»Ò§ÌòuêÑ8…d¾ÏZ4I!yËò÷Ms¹šû¾]§à.ò1m´Faı=zÿÎ,øx%•«òË¿dÿ)Úå?kMÓ 
+endstream
+endobj
+18 0 obj
+<</Length 2409/Filter/FlateDecode>>
+stream
+xœÍW[lÕşÏefÎÜï3»kïzöb¯ØÛëİMbÇ1‰!ÆK‚ pìÅ¹Ø	m"‘BÛT€ÒŠ¶¨UA­DŸ*¡>T@+š–J¥iK¥´<´UªDW3^;	¤}êCÏjf¿óŸÿÿÎ™s¾ÿßY@ ÀàA  ÓŞyú½k¿ §D6Ó˜˜rÃY ñ« P™iL?Áwˆç  0shá}^? åàìä=/, ˆŸDıCGæ`ÉH ‚Ã‡ƒÏqç ¤N :47{ÏÂâqp ´©h0 ğ@@ (›Y³=kfá.ìÀóÀ\°†ñ<`h_¼ƒ¼F(LÂ· Çç³9^(fP9[É¯ l.ƒ¨„Š%R¬eˆ !¡<Ljâ{1®#?ƒü(Ş]ê?ƒòY7»4bkHà£à¼F„â0W[™fÕ¢Àˆ%{	K†øäKö?ùHö™©º:e_°4GG,üY«¡·9ÉHÚÒÀp PjêßqÛ|sZ]KNå¬Ñõ?jgªì¶˜rÃ'_Ê2YSLMed‡çN
+ºì¹›×Z‚±á–Í%Óõ†¦Ÿ=Âíß:PH*ákÑÜš«¡1I¢A¯Í	2C«
+œ®Ø	Û¤nx"7~Çñ]h‡%SÒMğd|ŸàWB°beZÛ,ÃjmÉX¦Îµõu,^–%NS¸ÚzI¦ïæDŸ‚$QU5QÖ'»eÄL7Ü‚İŒ"$7\wselrKŸç%:‹}CEŠWœ­fUP5š*T‘Œ”i(ã•œ @bqy´Ã^xŞB6Z‹†Ğ&tG;.;ãA´´áÜM‚ÛEt0ü”w3HĞP>×Q,¡¢ë,ÙkÃhè(f_şTàÅ8â:üåq¹+Æ­H'ö"I%k†Ôªq@¶„–%˜­Uûcq‘X\1¥ç{‚Iù^±#òrÏ÷úkÃd#ÒP&âoâ£Zei$¸åZÕ÷|o5rkvŞ-óï–¹Eïeò„‰½ğ§J‚·4_#Í4ÙK†GLŞ	_ˆ®şaÀTÅK ÛœÀˆ0)¡k_¼º[à<™Ó9jøTĞ}MA#ÜV°P9&*éğˆ‡’É’£k§ƒNµ*<ã¨kq¼æšKŞ©¼yB¢LQ|ôÚáO©œ¬˜MãR˜ˆZÆ“/üÚ]WÈ…R‹Œ1Æ©œŞ2Y¡Ó&ñ2²L”5o`%w÷ÍA_ÎDhĞ-õ«zz=Í–y/™ßUlÏûÃ†kh,A0•D…„×­Û^ÍÊ¢Ä®¨8Â©¢a"{kR¶[¤Dö›ßm=qâÕGĞ£èk§OŸ?qâÕG:…lª”	.)X4ï²Ş­¢ªx-ÏSa¢</ë…”QR~—9Éó”ñ)Ngº=X¢®xSÎâE«x-Äs&Ê×™æØ®nµ	¯Ç~œñ˜çìÓ[’Å4ÉfˆãÔ¿›ÂF‡ay’$«iÙ`
+åÆF÷îúv©óÚm{Öm:Xâ¨jsMÕµ,I ´O’ÔÖ°S3e‹"­Lò!7g‚fol¿EÓÉCXÒl¾Ó±&HÎTĞªrZ£¼¼&İÕæK‹RÑ <w*‘÷(ã8Ql/šFBMï«¢Û7nôfÛèèèh:¥…“‹;É3D„Cp7Ü/Fùz±Š6Ó±©Ş¨£aT&µl3¯*ÕŠÙÌ«fğ‘û¥yå¬äæ
+/Éºñ§™’‘W¹2„ŠŞRVDğSI™‹¢/
+9Ú–¿ğ"ú³Á$Åî24!‰3Ò¥‚""%ºÛù‘ñ•rŒq8T)¯,†N—q§gl;¢ayê?3œ(Íò‰Z&ÍÂ“è·I¦ÊNşõğ$:]ŞC8èI)´õÛx0ã£Ö38İãi413ÓŞOx¥à²(onm½¶M$óeQ·æ¾èI×0‘%Ót4GyÇğF¶ŒšH™ˆ%§CFû“í¾è©^Ğ’2˜Ã˜ÉNvÌN	¢/+¾5ß’‘9Q¤Hv¶H˜i¯iŸJtA9W¼}.ßaHÓ”3{´‚*¨ï³1–PE*‰H2-AÀœÄaÙò x(.Îß€
+¬ƒQ¨Ã¸ ™Åv¸:õ{ÎjÔ‚é´!'*ÉQ•u4œ«Ôªs èù¶™7‘—İ.úµj¹ßs|ô3î•íjÍ‹ÜuÄ5_à>WBÅ*É ¦?¾¯ÙfôÏuÊşNããİ-‚~K'ÂşZ™—/æB¤kİùwÃÙ3Å¤"Z‰ÜÏ»˜ Õí°Ñ¢[nú¹õmw§4‘ëÈg¾Â¿º/'	4Ğ$‡‡º}I¤dôôV“yŒJşK½êVóWíâ7±®4Wº¹"ñÈò†…úV­VáCÂoß˜ì×nZ»æ¯5éz…	«¹ğ†ßœ-™<5yb÷hŞ½¥'!pWeMtlGcl³ë3] Ñ;†‡Şê×·ëCÿ ™¼mõ¹>û¯èûO]\ß İäùè=+ö …ğû tpqañ!Ú½2²ÜyA;$à$ÀOğÛä-ú…Ø“#-3}¦Yğ@”À+ MŒ€Á+MŒÂ¹&¦ Á/›X€‘f¬ Ï¢L#°ĞËMŒ¡_411t¾‰)´âe¼¾‰yğxpßavÉÚX¼6B›%JSĞˆÑÄŒ¼ ôC/ôA/ô4Q?t¯XËÀf˜	8Óğ ÌÀ,ÜÔa?†Y¸Â4 €¡“0[Â,LÃÑ8vJ1ßõ° SP‚ ¸
+ÂA`öÃ4ÌÀÜ÷p4`îƒÆ’ïŞµ·½SßÖx¬>wC­ñƒ}N¯™ŸÚ±ó`ı£^˜›Ş¼odZÜóøÙ7¡çøUŸúì›Ë‚¨÷éUÖ_øoÇöÜ´÷{w®‰˜£Ş2ó©ú2ó¶ëv]sW²÷ÂÿùîÔa6wöÇ3l†M1ûÔF‚•±A jP‚^˜‚~h@9¶EOÔ}Ğ½P…(Cïåé‡şK8ú 7^æßû÷ü‡5MÀa˜ºâNMÄOÀÌÃLAÅ¶ñ.ÌÂÿë=ßóøöú’~¶×—q¤ŸíõÏê'Òâ›öYÒÏ••égFˆõC–
+Èâç¢ÿzŸmÿüm0$
+endstream
+endobj
+19 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xœû   ñ ñ
+endstream
+endobj
+20 0 obj
+<</Length 358/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xœmR=oÃ İù×)RÛ±Ò!Š,¥N,yÈ‡’ª8»H1 Àƒÿ}¶“ªê èİ½»÷ /çëbËÕék´ª3ù¡Ò„Òb]‹Ò9ò)k× bäå®”ÂJKÉîÇ‰óå!Ÿ¯ygj	¥Âİq³! Á”¥®‡xN(ıDc…’kH¥{ÉsÕzs–D£Dg£ØÔBr3*ÁÍë’d	\07¢°³¶Ò¡øÚ[‡m)kéÀâ™  ÑaéaŒÍc=dN†£²ÙdöWòÚi}GoâEÉÃùáU‹?¢ã”<C½Æ±AôuP|É`‘)VWM%$›8ã6EQ™Wü“O‡ª[Í¾+ØI›URl³€–½­”z”îÓĞi¬ñ=ıÕ=†`1(]¸¹àØÛO •öUa…·›¾G§âšÏê
+endstream
+endobj
+21 0 obj
+<</Length 828/Filter/FlateDecode/Subtype/CIDFontType0C>>
+stream
+xœePahgş®éİÕöiÚ³îj/‡Ø¸ŠíJ„8„±¥Áµa®b[èÃÆµ›Ó4×^Ò©ÛÀn–$—ìÇ`ÌÎ…ÒÎ)Ñ+Š¥k 1L[ıá ¿úc
+úcğ^ú¥*Ç†ıó¾¼Ïó¾ÏÃû¨¶áè—Uq\*Cb4Ö×Û5â±PŸÙfîI1¼ÙNğõÈ™JıWw`i³´y™lGˆèÚiÕ…¦v„^¾döZÃ4³Ïj“L"	‚²wuÕ+)£!¿ŠÆåøyŸ2y^•ÇÃqáí±NÁİÓs¸Ëİã>$ùúTq2,	CJd:.+Ñ˜àSº
+ÇâR·àD„Aë4&†b!õ‹Ô-ôû½}şã‚D!®ŠRhBTÏÊ©×’ıJD’£ãÿSÚöqW_(Rå±íD¿ıRF¨¨gR{ÈS_OºŞgvõFƒÁ0Ó¨1M›_·¼A?©ßhxÂ0¯idÅŠjb÷;Z*¥YY¶#„œVZn‡É3®mğ	‡éd\¨Örÿ˜àˆ‹Ä_û‹•§EâY±r¬h{VyÎ¾®,nÓ¯U[ñºÙJVlıÎâ5³ÖÌVr«sk•…5s<¨î"·Üd+³4¬Wß"í
+ (ÿëØ ›l Nƒí=°µ<m~d.™?° ĞwÒ9}ÇM”>•VOrXÁğĞ×´\&Ëc†ÒUmrœÃ:<—˜æÓ¹Ÿµ¹6ø—©æğğP†–Õs<n¤2SéˆÄáıô§É³—¼n,¦oµ™åØAÍÌ%òKDh#½É[ËºªM…9|§ ßÓ¹\2‘u6ßOü˜Ìæ98I´+ú‚åŸ‰iÓ§9|˜¶ÃÕÊ¶\<ók0€?òaWOÇ	@rßgã?I÷nç³ËË¥ÒÍ¥¥•¿ówh¬[Åï<+Ü=ôÇq ½sËWr7®»îşòÙoëâãO sêÑ·—/Î-ªFØ¨½36ßkÔÙó@™ 	¨…³ -Ïá« û§Yè…&zæzbq…3ÒKÚ¼~Ÿ	O$ƒmÕœĞtÙ™	§#ŸsÕ‡ôpâÔ¥0ŠŸ5ÕLµ@Ù_ì¿ql
+endstream
+endobj
+22 0 obj
+<</Length 11276/Filter/FlateDecode>>
+stream
+xœÅË&IR…÷õ±d¿á÷Ë	!±zlHi²!ñúè;fñgM1Ğ#zÑ•îws»;æùïW¾Ò•®ÿÔ•®ïW²™ë,½ÿô§?ü«nø~å‘øáÓàŞÏëù7]Ÿß~÷í·ßşîÛ¿ÿô©î’ûX‹ŸwÊ{$~,9ÏÑfö×”ÚÎ‹øñ¿y•~õ'_6vã¹“ø‹õc_«ÔŞxWNãÊyó¶4®Umô:×•k‹Ÿz¿òLüóq•Ô­¶Q
+MŞ~_OƒÇ|øO½ÅuÏyU=ˆ?Ş¯~qßs†ôqZ²İÏ×åÜ¬Ô’êUêò¯Ü½ì–?ésYµ}¯Ú·¿úåJ×/øËß¦k´ë—ß¾ÏTº~ùşñO)¥J)Ç¿%ş­¿ùç_şöÛ_ÿòßNïk”ÙÆ•¬1£e7-åi.Mo™gzùé®šŞ¦·¶˜Ş:ß¦·¥·é¥áÓ«Ÿî©zî`yOïó|ÚÄ³$óÇé½?­ìi5—ş?µ-şíïSú¾¬mtëW)9vÉ^ÈkùúcNä>ïÎWné'/¿—õ7¿üşV±×ò¿ÛßÿÍU®ÿ¼z³¹ÇõjÓû³«»\¯Ö­«OË­Ñ®WkVF­Ş™ú¼^­Úd‰û°=V­\T­ÔÁõ½ÛN­ÖëÕŠíuõjkôÓú¸^m[m÷¯?¯WOVóªÏ-¯­æ¾¼c­1æõêÅjíş ÉszµÚ{æw­XÏµÖr½z“È¾¬XáaÍvÙ4u×´LcYzù°T§Ã´×o½hÚØUãêÍÒhÑ/ÏµzGOúpF˜RM‰IœÖFJ‰[“Y£‹[‡Íu·?ïöÈVí–¬3aOG¶Ş’ÆA_Ş[ëVŒ=á¥Œ¡I®Öûô›SÓl7ësæ±®×H¶º‹¼§>`$ŒxXÊ~Qõ—±W^cX×(¦åÉ—ª«ø-9im“xÌ¯F·}^Ï/X™Ñm5]°”®‰¢S_¸vÖ3Ej>34·Uµc¡î64Ší},E^I¯Û²ã›ËºÖ»Í2¯×jÖ]šµÕyÆj.7ÕZÉšÖÕ,¹v¦lUÛ(&ät´¥i\ÕæÖPzİ{ó˜j“YÚVòi}\¯¼QÑş¼^%Y)[MÍYúbä«YvÙ/h,–Õ‡öq½J¶<¶„5C€«:ëXƒµ^M© :ãz­a9n[9o~µ¦M®(–ÿ]¯µ­–”²:G¾^›±è¶j	Éé×kã|B©6ÊÖ wµc`Á÷õÚÇso·Äµëµ‡¥ø n»O³ôë2-6Ş^¶}¸Ëò¬‹_æ”¬v¿y[Ÿ¾rÊ¶KJi\¯šEşÊ©ú-ÛvQ’§¹îVs‹;›åî[©dµir*¦éà•İã/©zb–c®sÂuŸtû^6çõÊÅ†&kZ×‡äl%ûWîa>(«­§©:ß“¥–¹³Z×Ôo›5ûD=3¿mÆFŞÉúÜ{k†,'v¶•vcWH€1…>îl)£´](f¼7Ûœ‰»5i×\¬—vLUÑK{ïwÉÌÍSxÄc²éf!şaƒ×÷+'ëeç·¢UÌÙvÒtek=W+súÜT›Sß›µ›mw×dWîÖ6zyOÖsÓó÷¶®AæiµUÏVõyÚ>Ò"M™—õÙCOËÛršÑ3¬ÑÑ{¦µ,!Ül¸r<Y±RlÕìS“†m	~A}èšá³ûEÙ
+úÂ2¬%¾¦_†<0$éœ²¬ŒÒXúøÔÑ®²-—¡µáƒ¶”á#ÿÕMOe?ëÅöfd5ÛH["Bg×}µX_Ñ“t‹œÔKô‰Ho”jÍÖÑt{™L­¿^úd3Ùñ=ëŒ8.}¥Ùà³7¦Êgµóº"™oZÀ}R×:+_¬[Òp7mÔ7ÉÃ<"Ù·>&GÆ\"å·UÛ¹øŞªæLÃ
+ğñóİ:–Iê\'}«%éÙ-»‚sÔ†­Ì‹!NmÙ˜Sšv'[Ú|ÀEj|›«Ä­%äwamq©Š”cÇV^Ö+s7¶ÛêëÖPĞ‹7õa3mè"_dâ¨Õ”°™Õ¥×§ù•Á}ÓJ.Ùfl²rÚÇŒâecÉ¼õqu’Ûìz+l4:¹Œ»Y™Ú~½&Ú”v³ÁFáöŠa¨ø	eÕq½f;C¬İfF&‚Í¢Ë{i7Ó%õ_±E“?›%&v\uYMM×Æ¬K¨÷—vµdeY¶.IjÙRÕ»ˆX°lsµŒ<Ïd5I?×›cÛ[Ùª%üä±-)†©63jöz¥e­HQíh—1C\£ÂëÆ4ÄµuKW,4ÖPÇM“ˆNßıj¬W5ÛìDÜV¶á„èÑËfJY.cµ„êlÖ(VYm:Ö’)ÙxßÄy—÷v;•mXÁ	q×ó,øqD½uüÖº1šO×Ñéx¾ãútG¼7˜×ÉÄ”‚NêİäòkÇ­Å¦èİJì¸ŞãšâûmXEZJÎ¼Ü•6­6w×3KŸµ×qÄ;sÓØq³î§IL‘6¯MÆ¿±¾o:B“pLù
+40Şê²Â®B¦o¿»F¶M\J”â1ÔªíÄBøVeZ«“‰ú÷¶$“6ôÅ¯ÆÚän#ë$ËLu¦(•zá)ºÀ5ö{AQ6n1ùuY‚L¬¬‰M¶ÕÁ~`N;÷äåşÍÀ¬>°˜2rû³Æõ•¥)¶ˆ®“UVªbşêî©L	[•‡5¼.6[îæ1YŠKˆğ	]h«y›ëx×âã¶&Û7NïëÄ¯ú/ù—õªÖ7jv#“l†ŸÛäMgË±pM&ol}iI_ÛˆÇ†eâœĞ0/¶õ>Z<Ÿºår5Ëš6pXû5İC‘c]ä™ædDò}Q»[³\mDgmØzVvéÎÆn[òhğnİõîÉrËÄ‹,2{u’l®Ì:(b™¥UĞ§²…vcÛæ‰ÖCzÇìmw^–˜:CñäJÀËû	–zÛ¿«°MÊõª?)İ†Ö¨ÅvÖçJ@år§Ší¶˜şaÃ=”jìqíÍpıK„…˜ÉK¦õÔ%“YÂ*Óã^v[l3ËzU¶XaÔa<8wëÕu×B²´MÊ¿Õ=ójµ­é—Xş\@$®Wö8'gË„cGpP[QÇ­¯^ôIÙ¤ÁxåèÅRu4Ÿ›-{(9l·‘O yŸ¶rŠN-3Êjá$ÒÓ=Ğõ%Ö|j›ğ‘×”!mÛ—µ^;‚[>îgw©Ñ2"Ìïƒ}á×{ûÄõn_Ç;AAªå!Âİü¼Ã
+z–mv¾›¥åá[%HÀ.±BCmßD%¹V‡-b¬¨-„Î-ˆaZCaü¦¡êBH‹¥r±LğİPmúe’È.dêüNø/C³}%&t•o€§.Û¬3#m5Õi0:É‘‹:¬¹iêD×«v_Un„¼µùú¥("A¼m]U\«µÚ—ï*EßrÅm)ndj·•q>%ßƒŠ…hÃpªÜv5ñÖõÄfEv" èë^€:5V=qÙšS†¯*rhÛ&2-·İÕ+Š‹/öp¹k;ij°ãÎ§À;"ƒ¦¡ä}v'‰‰‚ó9&^âÖºoK’| ^~²Š ,4Æ´à$"ÅV¡#56PaÊtÓÂ	ó‰£³7O^±À¾mû´<tvz GgŸo›¯í1ŒÈkÈ€ï&G½ÑØgÛVği¥s>ıÉ¨_/¶•†B¨*±íRh
+qzÍ×+}Í… Á#nÂ]_ˆ’®—“	Ô>,É1¶5mèƒùnŒ§ÉbêátlAlß~÷íşÜ<ú¶òçÁŸËÏğç	Êşkñgâ‡L–ğgbŞÙTª¸´ËM‘*ñbV  b;iáÔ„ÎŠë"(¥1m+lÃË’¤TÔÏÇeE™HAŸòTJYR{ç®mX'bS¹éË–ìÈ&jà1Gcx8¼yØzIeAP/xÔ˜rà-É…ÜìîS§IPw&
+gÙa0© œ&ÎC–57¾Šµ%‡Y|+ªoyâñ
+äíOÑFh/à¨Ù
+~, ä€%¾fm©8ÃñâæÎ7Ó5ä{crWˆcj€˜ûÊ¬€£'xñ%Æ³õÇ³ĞBê=5ÆôÛ
+ùJwã—‚ğÁŠ=ÛF‡cÙSr"_îóË¬ÄŸyØ&=D*˜Û·õÆvhâ>-w1S®ÂçĞ“	:eŒzJÕ|<ryÈÖvv qW`çDê¤D›×ñİ£’=¬õ¶0Û~ƒÒ	ÓïÇDm°ê¬Ó–RôÊÈ9{–¡%­6Ş"Í]ˆRİİ©„GI:h¸ÃœûL¸±ç>ŒÓ²vt¥	¦¾§k(^“­-éHcL±IQ½mØÄÉö&F·üü?ıH'+ïşlNV
+X [\n}5Å¨È.[ÑRÓ¦Ë°g?Ğ‡³)÷cÔ2…ïJÀ¹D†½#¾ÅF#jèW:™ ì“Ö‰cccAPbº0*ğY5¾s[õÅ¿EÙ6ñ«È!ƒGVÇ¶|x”ú$Ü\ıÀ¼Š¬ë”Ûv¿"n¹(k)‘Q=¢æYy£I86WÓ÷ªÚ3#MŸw{hãáäœe™€ùé¶Ğ·w»[×oóÄ¹y 	õµ	%É.àjuHN‹HgnJ–`Ú1çoq˜B‰)İšû“šo©=	îHÿ”ñôßvÕŞŠåŞÑÜ}ÇúµvâN¸œ"ä¬lÑr|«âëâ¥ôå›o6í¤›ˆÑå<VdHÈ>˜×µ£©ÕUh×l…m8mà1¿w-¥¸îö*.ş¤–27Ô¡…û$,$Ì€+æ€Tóœà‘Ì(	“Ácçğp¯b„‹²V h$ëmpMÁÖ ©1|9n;6:\" Ì"Ïİ»Ë#caÏ35£ûvğüT÷¨ÆşÙ2sÉu•ıZPl#o~şİciò+šå&#‡‹…cêâ%Ôoº¥1Ëš™Å§¼e"Ét5½é¨r#.b¾’Ü«I°½Çò9D•:ÒÖl4÷/püŞ¡¦•dU%v/
+Y”R,Âï›[k|·=ú¶¤£³‚ /—ûà{™Ğ3šÛÕÜm¶%Í9	$ÍUÔPN·6 .Ÿ¼ŒÌì yò¤şs’"Å¢Rıû¶"Èhµ"d"¶->JÓì º£1=ß3²Ïê ŒP¿Våº®óã	H6ŠÔ£>ÀÁìa³ã[¹ly”t?v)6¶¬8\ë9~Ö,'4¹{@Çı.µ—¢ÜÏ§]Ü×èôô"û²@!µü@)+é01qÉ/MùÛˆAòÇåVe  †5ñ#º<gkmlì"ÆB(¬•Œ†HDdA¤Ú—åzÀµ‚]a|“¼zföç“Ï%•RûM4ä¤¬êÿ€ŠÌÙmöamkx`Mê“FÛ	³«dJŞkŸ£oxºr)"aCÙ;æ~'·¦ÄùY–‡DY`s6¡ JKz á[ZÂÁî‡â1ú¦^~°”ØN·ìç£¿ÍƒvEÚ»ÙìÈ¾[ÎJHG³òÒl5º[NÄDü.›«(Q­Ø/w>úXÏ»cVüÿÏ·ğå/÷2èoÍeU¨Ëİ1¼^ËÒÄi”ZÊ‰˜Ç6“üp0Å;˜±	+¤–¶Ø)TßŒ‚Ä•Nfİš*“!'É1;7»d+åş 01PÛ¶ƒCÅf9NàF°¯«¶P}90İŞQ§sĞn›ú²í
+Gê>Ovæ­=`œÅ}ŞsŒ pLšô“lŞÚ_ô®çø*ß•µ³'¯ûoÈ+±›ì¥0JÜ®âÆ}¸	Íí"šdkªn¶ÉÖ›øgAŠè™øE–¢àvrÑ„,DDH	‘‚rOÅêF¥v©AE8¹çÌÈïÄ Ë_õN—éc~.\ — 3`ÖI2=áfbLOùñH£IÁ&ÓŠÂu£g>ı\í#§çDnä™İ@Œ—íDÚÓ“Ş‚Ÿæ|œzfCeŒ2ğæ±4åYÏYÂkrJ×pİ=¡¨iE&9Ç¨kµ¥í0§ŞÏxoá™ä+uÓéÁ™Ô†¾{Óò'¸1.ĞKÔ&]ĞnKF¶³1T/¹‹Ğ¥÷ïÑ£¹Š¾Yä>ffx¤“äm y¦	±ªã}Œ(ˆï,æïgÜ^lƒÀxø–mÕÆf&§-kj³«ÃY[CBË<&oìjâ¦{#ÜµO¼)?›U3Ü²õyğ€œ÷Œ>˜~óMèÍÌË~Fyúş3JïYè1ÅËw£tq °³£ˆ·˜‡fc.73Cé(é+æ¾¬“’%IèÎè«ËŠ±¶)6ûXÚÑme	/$£¡•Eğ¦¾ß!Àp­‹{öóĞæp ˆZyYR –Õ8ó¯ÎüùEÉboİöàS*rw‹,)Ü©LqÏ<¯	oØûBe<.È¶ ¥ ıt9MJ;1Hù01°mòRuŞìØG\7c{’Yª>ÜiÙG¶ØV~§c±óóÁ‡ª·ÑPà;¨tBâ›»P2êş8ÙU"YÑ ºrõ`B
+!UT±17TPpòL®Å~¾’¼
+¼)7Ş’w|¾u$t²Øk¾·O„H\@'UØ¦Â[®¢ñ0¡.œ™ ŞtÔ§yœ¶±qèp·+"\'\QVºIt”K ¾×ë#\hdÿ"ù"U(B[JâšzŞ}n=7œD÷XŠÚë>Ôn³Iğÿ<ñŞKo’íé€ú ±Ke+Á&…çwn¥Ä"İ·î,™¨(m!ËjËĞ-I\x 9Õ3²Ñ$PE+œfÀ¥íîÀnÉ/|:cæ°âIe “6§R],¨`(*Ae$-³”/Ì•Oó\CÂÔ¡’•z9Ç/*I8Ï+FZ- åë ¤ø¸³Í“¤ô$¨Šû¤Åt™ÓíjÁmòÎ°)Á`.—<¢’Ç«×mÕläÓù•Û6y¶ğ	ÈVGv½¶s>ÜÇ`¯ÖÇ'HŒ®ÿØò‹¥dÂÃB=ĞdpƒakÍ2®ìÄrÑ†Q)ä›‡³*®ºR!Gˆí‘¨;»İ•i#bP9ŒF“œûõL™œäİ@œ©ŒK„'âËæ¹Ø¨gÃd·°§Îì~è‚Ù9Aü€ú|'Ú^xmM‰Ø UsL<éº%'ĞªR¬NQOäÈ°œHYÌÂ$ÑétOÑ¸ÄFÙ„+ÎÆÌ1Ï5 3“·1U·ô’ÁÓ¨¾ä{4;ƒ “2e$« ıPKK8˜ç´"[Ï+ôÏ˜(}å½2ˆjIDëÃD÷$ÄğßRµçõ@u(ã¥¿ãóMp"WzÖ¾…ÇÁª'ª”Ö;Désƒ±z6?¢øl>3×W/Ïx`£˜Ÿz4ñú	¨¼âá…"ëïøÊë>@nØ3Q	Ï»_ê›[å6áqÛ¼pöİïr£Ã¼©g82%æ–E£c3BÇAÆ
+ÿà®\0ù~¢:éÆš’wNØKGe§5å×iàš<o¬°œ% hvÙ—µÄÔ+æk§Nâ`;°=?xr¯I×ív=õ
+X&yä±¤TDÀ]º—´œi²…Ë&Œš >È*{P­
+áŠŠ–ïäMaé ÷ï¡,ù\oÏ8©—S'Ajªå&¶…H¸r<²íº°ÚÓÍKá`Ë­PjİCú³ğ=äbúì]ÚóG÷G´3@
+Ÿøúï¤ÀwÉlnböxŸbq‚u„t\I HÎSKsOq¨ƒp5@~¹ú!…õ7N¼jPË¨\K'®ñ%¥7|ä<­…ë•mu^Şù)Çí ^{š¥Wjg·më°²”®¦WnÇÀÔÀÆ^J§÷'åmÔw»^–³NWÛènt‰l¯8â}Ñ£]Iå:ªIì­'ÀQ«f‰|'%x¯‚Öt¢Ñ|x…7ö<CÄœa„j£½äò »¡;Fzï„œ@- +RÈÒÆx``±İZñ'´SA\@)cçã:×?=
+Dää‚ƒ_½_,•dàÿÃ‰XbñÜl-çAC	/eˆÁ#œ<xœæ„íÇ‹ö-ÌWR¤Eày“|Óx(óë{şWl9Íš\‹»¶øp{ä *yX-c:P¼nñW`OÊ’ƒÂ;MÄ ĞU§†,F$Aÿ&?ÿlkQ*,¯*‹	XïkZ5”é1O~ÜŒï¹
+,'·ªÀQ{ÿ%Ö]ÓDì>Ğ¥Èùæ~Ë·³ÏĞıq<•[u}6ê.
+Ö<®ü!,
+AOxÏ'#èé•Ht·Ê4®#íOj”"ªêY@·ĞšQÔŒºÜÊ°@ÄC„"ì‹¸gÕ¸n UÅD(3rK¶ài6!€§u;™¢ü1LÌ–ê8ZÎ…®!R•JaX©H»„S%=àÖâjcÚP\ãÛ	Ú¬¸¶J˜¤¤£LÔe½LeÏâ×Û¶×ÊÈ-vç?B/OQM°”^ÚŠÛœÚ@ù²º`„qZN#=ã:±.mJ›Ov–XâDrÊDf%˜6iÛJÈş¬ˆª:å6:sàTÑœæ¬ŠÑÖV¾ÚóP¢ÜÔ<(µá&ÆÃo÷Î?Uq@Y¤vaÁMÊª)	Q&¦’Ò…³ Şãq¿ˆõõûºX/™Àæ ˆ0êÖFçVSqW®vrŒP‹à†EL$"qÈ?dg+÷é¯œ£…Ş¢Ûl>
+;‘˜‚<aeõÂôkXjjïğâ¹âÊ  €Îqx\gßÿÅ°‹(`µ•u©Œá;ô‚ÑBèÄš]Dbõ¢í¥%¡0ùöR.2ı‰Ç’9—ûuÒ†(•ÀôdÑfMœqâ†6É_‹–Z&ìRjŠ*.õx:V†İ¹Ñ@D`ÛR$ÀÔ— Æc]°=±Ùüm;§Ì^ë`ôÒj–…œ	&r#˜¨y:Ïëà:M4ËLA–SyÎ|3oÉtù„Gîše•ü/Ãu¬ñ&íÓ–B‹fÜ‰ºfØƒŒÍé•C“è+¨k0ÛpVå²{v2nM†ŒŸ©¼~T2ÿÈİ1>1÷¨Îyx©²Ï·UØ9Ã‡¾¹åÂçĞ5TvÊÿèÃÃÇÛÑÓLÏ!l—à‡¬b¬£êº¶q€¬S=È¯š1ó)ÿeŸ\q²ÂÛ‡mÉmÇ`)Ø²Ã9ODÌqT`ûVàÊVÄÃ©àîò¡[÷qÕÓº¿[n  ×>İã’#(®ºşuOğik‘”,Š[ï<(uPï#¥3Èòê(½…è†¹Ï tº=+µr™pÚÜ%t6v…¯# !™õ»)âÙå¦dËvPõ¢Ğ“İ óáüüöQjŞm ÊD;4$Âo¿Cï(8ú]0ïDZút:znğ&	]VpE­´?D…_oÏ8í(¶gÇN2¥àÏ{°Ä:UĞ¶Wœ'²2^@/­qgjØw¼áÒ=Ì.#ƒ®MÂ'Qû&«¨äû¯yÇ3Yñ„{jâ	wû<!.îÆuqı<ƒä‚Ù}À9TXpÒ…y–÷>ŠrcÆ¼G‰:ÇŞø0~‚‡¸}lï3v6ˆÉ7K˜ëÿ,œäú3Nò&:üõgb `R+y†C·¹Ï:ÀÙû%9ƒ_úˆœêp£ùy7áÜK 0ˆO“J S¨ òí© ~bãF&)ßR4rerb„ú¾’_ävˆ‚Á-Pz1¸¶§šàÇ)¸ÇüªHbü-B”
+Ofé6˜ÎÊôÊQ2‰5ˆ•b¸¦Zö½3ß9VXÀ&ç2VY¿ã¹yÑ€døpÈFR©çvHø88Kp!2	 ÷M£:ŞQŒ©Ê[©Y%à)óó1‰gÙnÏ(ÉáÆô‹vğñVƒáH©{õhxç:cƒã¥zË“®Qõ¹g!¨tğ(ZÕ¾äb¼+j@²Ê¥|¦*XõYDGùñäé|Êã<R*şÜBå6m
+õ½¢2øt
+Mp¦Tm-ŞÆr¾_é†àG?Ê>ÕFĞñ:1õïÆ£°\íà©˜$`H¸›RºOÿpJÄŸ¬4$…@I4h° wJİÉ£
+R"%‹z¶Ù—6ï“ÅÁ‚;†ˆe-xir¡§D`Ø\\µ®§ÊTM}ªópô”O]Ù'dWXøäpŞBnDª_£0¾)C„ÎàÓíOV=?;¼%sW§ ‰º˜%T±ĞĞP'…—÷iË·¿º7OEFUù áÀJ!²«üÊX‰*|Yz_êLƒWö\?yÇ("Ëè
+¥2!¾İ€=ü6*MT]'„ä.ÃFâ‹^‰™¢ŒRÅxğnó—,—ª¸<7ÁaQ7ÀÏy–ÈcªTGq«VµU‹á:÷Ä‹F+Uæ¨„)œIŞƒÃºUU ?ù®A	óøXºšMÙƒõ¥&Ï«µ”?ô*ß(%£Ç+}U”NÌ‘=­èÁ% MEO/Æ¹ÉG:pGWú(~ï@KFiiäş¹åûšôÕ¢Gç|>6i«à7DO»çàôô8&ÚN¯ğ3Š‚à¦E,*Å|ØİÉÙ0Là°têcÂ44… Rßİ¥éä¨ïS>˜<Iú))]Ò½Ä¨õ"HÒ¼Ç³^B¤ôÂàŠ½ÍÌ.Q¼¢	äá’m'_èDRnrÂ„½÷.]U¹Ï[!D”éœsd`›ùæØÔ_ª[Eá
+Mè8¡/5
+D¦¨¶;
+(têCäÿ¢ 'BŸDEEÏû‡Ö±%Ò¾aUÃIFÒi'·=}»+{âÕøD.ó Kzer0ZzqGXí¤“–ø¹İ {o§“@fªoî;ê‹5;MúÖ‡äcc÷Ãb¼şYSÍæM*ÃB(%¿’ÎˆÚr¯Øã
+aÒ–£Ë7ïÍ™dí"ªPşsCÕÑİ<ë}æ0"ÕÈ½æVÏ:ÈålYÈ‹†õ$¶·ë'Ò¨ˆ4jŠœHçuÏ·xÊhŞÂ‰	òhêã-°«
+e]#çP"µÁ3¶º…§ĞatéP ˆ3úsš(Å)jÁ÷P59Û–<¶Mä`Š%!‹b;­œ»3:AÅöxÛÓ%¸´àÎ¾ËÉû…Ø£Tüø&ğjl‘S´„8‰Iúê#@®À•Ì’ìT£®lˆ `;œ­Ö˜ªÈûZª†ğÇÙô³„µÜªn”ÅÎÙ÷±`ßÕMgç€‚Ã®£–škƒfàÕU‡‰Ëp!<]ÙT2^Ş¡¢’ËˆWJŸü«ô‹»i:ÃK-Nğ÷äcİ'{»%Úqƒ~†óøÙš`Ñ:„ã Ÿ&ä=ÇÔºK´ ßCx¡¶\)êÒä‰Ë+¾§EÇ­œÛ$Š„î¾ãÈ‰>Ur¿Á‚"çİÏÄRI$3Â6:ÅTZàÌ(V	ù‘àä%PH¡–¯±"PmÌìBa1;Ş~fkÂ‘b_úåÑ|î‡5Lğy_¯ös¿×ÈÜ÷Gl€ÀÇë—õ~ÆïÅ2+è¢à¤8^æu¹ÅYq°‡)¨Ò:¡GŞ¨voµ×ôÊ5:åË÷§×lkaœUTfU)1‹_û7ÁvÕÙwá;é<¡8=AÇÔÇ)él[«]] #Ñâèºåvz0şğ9Ì#bÜpŒÅ`/+3[>,o¦8¦Òs¬?6qÆ{Ûë,‚‹)JOÌDz‹wÚª¡?Cª|Ò8¾Íã™ ·Ìç³ß6½$év\™f	?I7\ÜÎğ¬2r ’{Á0™ÂHƒ¿4(^¯ßÔòØ^NDÏèĞŠ“TfÌXø5_[M{Ó#;¹;^ÎñŞ©bsÓÒJï¿~üzovxx³ñœ@éëŒ…ãø„Û°ô](‡‚UÆGD˜×ãyÜ1(‘FyËC3}}PØGæP—®%ÉvœCrùæsa¡cÏeÎ)ñNÙÙH¯}œ¦Àú<-NM8>®”Ô&‹ù`çn¹IªA­5¿yWeà¢IéÚs
+Q«Nƒq%|ÇŠ:Êt(¬ˆëkUêÿ Z@8÷ê<NŒ0Ÿ°`Äq;•áù³ˆ\¤:ôÃ6ZíM.Çå|½qÒvŞĞĞ?o´íKë`ßŞ†æ7±l	F”Ä
+7tHô)ËObVtZ?/+àD…KÂœdd í¹·ğœÈâ«,3x¤2::QQíUØÎC<8gÏàÁµzø—dÎY0jPÔâ}oø±—Ü'×€0úæ3†9P¡©âqß>gÙ~5EÑø3¨xW!Øû1ã>;Áïüó`Æíg˜qÎyşjĞX Š¶N ØïO‡Ÿñùtµø1hô¶<uf(ÎR?‡IŠ¬@»³TÎÉ
+<nr“Æş!	¦TŸæ œÃ=ºŠÂú¸Jç£{p›"ÀòókT, §s¨Ø)yNY™|„TñÖ%—ôã½'İtvLTÑàvÕ¬£*ËVW°±ïÎæ“§‘à½…à#Ç§uËU“Œ‰o?Uµ‡bwªB½nO GçÔÁ§”§TÎÕrÄ™¼şl|õ¤™|=²Œ;;‘]%ô9²§ŸÊ&Mç[JÂî6)<Ïçã$*Ñ†Æä¡œ‰ušoßîŸO‡“¼èÕéÒì4ñxı„KqÅ”İ?jèkå¨,ökšUº‚”YÇ/WÁØŞ*.#=æ¬QH–*Â)‹2Š^ªnÕi6¾ :ºÊQ£I-ÿ|ëóñÖg€çP£œgÿ8!¤”b‰^Ü¢}F“—£>Ï-%é¨åÏiR%KÖ;(‹2$mu£R“;”ĞRÏ<\ù>ú(2ùòß=×°“˜åË÷€6E×¨†—cü`ÀIw^O¼†W»uj_ïÌŠ{½:Z’Šı'´İlêø-
+XP³vEJú†È“GSô¦OGš×5zkß86ìˆªq–½À¹’IUøZp•ÑÄ.-ÎÿƒwN}²S.,ğ\
+¡øÕËì´–ü*DaÉqèN¿Ğ9”ì69!Phô×ÄÁB[òÓãp¡*qÏ¼ï…Ğ4=QñÖ#’ä2
+"“W:Aó4ÂÒEñ‹ønÛò“È «O?ÙEG@(òc¿£ôæŸÁ•ëElq‡¯É5ˆPé›Y_I9mßO‹“Ş—î:ÜÉ#êcŸ:ëOØl*ö¨‰šVê+¤t%^O›ó£$5:üäJîAb±>^ı|y\múÙİ¦H”Ó)RAi	ÊÔ+5³*ÔtÂp~Ü×¥M¦êµ­"=SÌyˆ4+¡à'XÊ©šk"—O±â„NëX5*üGsl¥v„•øÜ~.ÿ]ü®L©Æ%¿œ“Š+¿`Ğ™ı-ó£´øÙ»±¬=ûHŸ'Ïú»gGØaû<&kUŸ§z‰—ê™?Á²BÅÃî®©Óâ„û3?~Tñ„3qXò°ã‚¢£0Vëi©„øãiCöËSSm¶Î® ]u7ü4¡%·ám¡"TY!ïÌ%VĞà Ó»ŠÜÕÿ9Îbı–|s
+¯ŸõOeŒ>$û8!*é”$ŸS?+6îC}2ïJÀøù<¾™D;X9œğH&²šıD‹ÕïJ V¬j;¼å±2­òÕ<‹Ş›œÿõ2Î¨?vsÀ»£/JX#£œ+­-/tı¥“Çp¾ã¬vH§ítÆéµôÊµ¡ò`lRÔs¿
+¸ê`şÀ³*×!Î8õı)éé”:œ0–ÜâÕ»¯«ª×+~ÙC¬N:Å_˜*vÆ?=/»ËõÊF¥Ù&G;iÉ#×”'Ì×Ÿ|ØKp=‘ØYİ#(›‡„:NïÏÃ!wbæ–1F=VFëŞ©}z&u¾"Ê½¥W+ş°â~ÿ¶;YW'üyÊ„]éÅü ‰U.ÓÍ6ğ²¥Nà¨¨WÍdÖè;+æCáø5/æ¾iÊ:Ø†Íì&Ï+MT“ÿÛ—~XìMç‰8’õu3hƒˆö€
+ñó¾ûr[4“¨À¸J¾ğIõ#şäˆsüˆ#DB">ÊzäİiĞ»	´ÌIÁ:=SÚB‡ûÜµù®áœ áõÓªòQ°t‡ÚƒsSê^ÇqŠ¶‡Ó«,³w®áÏS,ésRt§D…"¤ÃTqî©nˆ„ş€Š£Eâxuùìï§Yª2^’šÔãÃ»Æì‘À´¹J´“8{) SE[PİºKœü†ÈKIàƒÅéQµÊ8Xâ¯½\=ıÚ¿t4ëŸúKG#şú÷_ôÿÿøÒ÷oŞÊUÿşVÿÿÃ—+R§äh—ÿæ/÷úÓS)oOJÅ—Jûríİ.ıë»ÊøéŸ¹Ê%A ½Ğî¿f~ÊUûŸü#[¿yåV³1ß[?ÿƒ[¹à_u`yÿµËUÆŸN¹'áË$ıËS¿­gÒÿô—ÁV«tp2¨¶¯Ä±%Œuêï®Qé9DŠì¥ğˆ.Õp,h´Õ¿6 óò#lê®Ü
+4sÎDOª¼.‹+Çä&V< u-qƒ¿ò'øëmä™Á&Á6ÏOş	ü¦‚ß\¿ÿÿş€øöwÿuwÈ9
+endstream
+endobj
+23 0 obj
+<</Title<FEFF0046006F0072006D006F0073006100200042006F0075006C006500760061007200640020201300200045006E007400720061006E0063006500200031>/Creator(VectorCraft)/Producer(VectorCraft)/ModDate(D:20261122233426Z)/CreationDate(D:20261122231258Z)>>
+endobj
+24 0 obj
+<</Length 1082/Type/Metadata/Subtype/XML>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><dc:title><rdf:Alt><rdf:li xml:lang="x-default">Formosa Boulevard â€“ Entrance 1</rdf:li></rdf:Alt></dc:title><xmp:CreatorTool>VectorCraft</xmp:CreatorTool><pdf:Producer>VectorCraft</pdf:Producer><xmp:ModifyDate>2026-11-22T23:34:26+00:00</xmp:ModifyDate><xmp:CreateDate>2026-11-22T23:12:58+00:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>5sFnYeft2vE3/PazznbH0w==</xmpMM:InstanceID><xmpMM:DocumentID>5sFnYeft2vE3/PazznbH0w==</xmpMM:DocumentID><xmpMM:RenditionClass>default</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+endstream
+endobj
+25 0 obj
+<</ViewerPreferences<</DisplayDocTitle true>>/Type/Catalog/Pages 1 0 R/Metadata 24 0 R>>
+endobj
+xref
+0 26
+0000000000 65535 f
+0000000016 00000 n
+0000000068 00000 n
+0000000157 00000 n
+0000000290 00000 n
+0000000797 00000 n
+0000001043 00000 n
+0000001180 00000 n
+0000001389 00000 n
+0000001596 00000 n
+0000001746 00000 n
+0000001937 00000 n
+0000002146 00000 n
+0000002290 00000 n
+0000002370 00000 n
+0000002917 00000 n
+0000015931 00000 n
+0000016007 00000 n
+0000016465 00000 n
+0000018944 00000 n
+0000019020 00000 n
+0000019465 00000 n
+0000020384 00000 n
+0000031731 00000 n
+0000031986 00000 n
+0000033145 00000 n
+trailer
+<</Size 26/Root 25 0 R/Info 23 0 R/ID[(5sFnYeft2vE3/PazznbH0w==)(5sFnYeft2vE3/PazznbH0w==)]>>
+startxref
+33250
+%%EOF

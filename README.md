@@ -10,6 +10,7 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 | <a href="stations/ueno/"><img src="stations/ueno/ueno.png" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
 | <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.png" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
 | <a href="stations/akihabara/"><img src="stations/akihabara/akihabara.png" alt="Akihabara, station name sign" width="240"></a> | [Akihabara](stations/akihabara/) | Tokyo, Japan | Sep 2026 |
+| <a href="stations/formosa-boulevard/"><img src="stations/formosa-boulevard/formosa-boulevard.png" alt="Formosa Boulevard, Entrance 1 sign" width="240"></a> | [Formosa Boulevard](stations/formosa-boulevard/) | Kaohsiung, Taiwan | Oct 2026 |
 
 ## Requirements
 
@@ -18,7 +19,8 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
   sampling)
 - Whatever fonts a sign's design spec calls for. The Bangkok BTS signs use Thonburi and Helvetica
   Neue, which come with macOS. The JR East signs use Hiragino Sans, Helvetica Neue and Apple SD Gothic
-  Neo (also built in), plus Hind (`brew install --cask font-hind`).
+   Neo (also built in), plus Hind (`brew install --cask font-hind`). The Kaohsiung Metro sign uses
+   Songti TC, Hiragino Sans GB, and Arial.
 
 ## Working on a sign
 
