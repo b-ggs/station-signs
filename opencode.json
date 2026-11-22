@@ -1,0 +1,16 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "servers": {
+      "vectorcraft": {
+        "type": "local",
+        "command": [
+          "vectorcraft-cli",
+          "mcp",
+          "--connect",
+          "127.0.0.1:7979"
+        ]
+      }
+    }
+  }
+}
