@@ -17,7 +17,8 @@
 - Left out: the watermark, the stone walls, the advertising, the glass mullions and the
   horizontal transoms that cross the letters, and the building's shadow on the left of the
   band.
-- The background is plain glass color `#2a383f`, so the white lettering has something to sit on.
+- The user chose background variant 2, a subtle top-to-bottom smoked-glass gradient,
+  over the original flat blue-gray, four other flat colors, and a diagonal gradient.
 - The left part of the band is in shadow in the photo, so the band blue was sampled from its
   sunlit right part.
 - The real lettering is a heavy geometric sans with a single-story "a", set so tightly that
@@ -57,7 +58,8 @@
 From the photo at 0.5 pt per pixel, with the photo's pixel (180, 452) at the origin.
 Coordinates are in pt.
 
-- **Artboard:** 880 × 170, glass `#2a383f`.
+- **Artboard:** 880 × 170. The smoked-glass background fades vertically from `#46545d`
+  at y 0 to `#2b3439` at y 130 and stays at that color to the bottom edge.
 - **Lettering:** "Roma" and "Termini" as two text objects, Futura Bold 118, tracking −14, a
   2.5 pt character stroke in the fill color, widened to 104%, in `#ebecee`. The ink runs from
   x 27.5 to 853.5 (17.5 in from each end of the band), with 10 pt between "a" and "T". Cap
