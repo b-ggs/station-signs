@@ -2,9 +2,10 @@
 
 - **City, country:** Tokyo, Japan
 - **Visited:** September 2026
-- **Rail system and spec:** JR East. It uses the root `AGENTS.md` spec "JR East: station name
-  sign (駅名標)" (fonts, sizes, badge, band), with the Chūō–Sōbu Line's yellow as the
-  line color. This file covers only what's specific to Akihabara.
+- **Rail system and spec:** JR East. It uses the spec "Design spec: JR East: station name sign
+  (駅名標)" in [Ueno's `AGENTS.md`](../ueno/AGENTS.md) (fonts, sizes, badge, band), with the
+  Chūō–Sōbu Line's yellow as the line color. Read it before working on this sign, and record
+  decisions that apply to both signs there. This file covers only what's specific to Akihabara.
 
 ## Station facts
 
@@ -46,4 +47,4 @@ These came as chat attachments and aren't stored in the repo.
   `#ffd400`.
 - Badges: "JB" and the number now split the white square 40/60 (both Hind SemiBold, 7 pt
   margins). It was decided here after comparing 45/55 and roomier margins, and applied to Ueno
-  too. Details are in the root spec.
+  too. Details are in the JR East spec in Ueno's `AGENTS.md`.
