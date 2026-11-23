@@ -220,6 +220,7 @@ system, record it in that spec.
 | Hong Kong MTR | [`stations/prince-edward/AGENTS.md`](stations/prince-edward/AGENTS.md) |
 | Roma Termini (Grandi Stazioni) | [`stations/roma-termini/AGENTS.md`](stations/roma-termini/AGENTS.md) |
 | Singapore MRT | [`stations/rochor/AGENTS.md`](stations/rochor/AGENTS.md) |
+| New York City Subway (NYCTA) | [`stations/prospect-av/AGENTS.md`](stations/prospect-av/AGENTS.md) |
 
 When starting a station on a new system, write its spec in that station's `AGENTS.md`, built
 from straight-on reference photos, the way the BTS spec was. Ask the user for photos if there

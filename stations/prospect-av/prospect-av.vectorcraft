@@ -1,0 +1,1940 @@
+{
+  "format": "vectorcraft",
+  "version": 4,
+  "generator": "VectorCraft 0.24.1",
+  "pdfCompatible": true,
+  "pdf": {
+    "mime": "application/pdf",
+    "blob": [
+      0,
+      10751
+    ]
+  },
+  "document": {
+    "version": 3,
+    "title": "Prospect Av ‚Äì Manhattan & Queens entrance sign",
+    "units": "Points",
+    "rulers": "artboard",
+    "color_mode": "Rgb",
+    "artboards": [
+      {
+        "id": 1,
+        "name": "Prospect Av ‚Äì Manhattan & Queens entrance sign",
+        "rect": {
+          "x0": 0.0,
+          "y0": 0.0,
+          "x1": 1000.0,
+          "y1": 497.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      }
+    ],
+    "layers": [
+      {
+        "id": 1,
+        "name": "Black sign face and white rule",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 0
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 2,
+              "name": "Black enamel sign face",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1000.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            1000.0,
+                            497.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            497.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 1000.0,
+                  "h": 497.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Inset white top rule",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            24.0,
+                            25.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            976.0,
+                            25.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            976.0,
+                            29.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            24.0,
+                            29.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 952.0,
+                  "h": 4.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    24.0,
+                    25.0
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "Station name",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 1
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 5,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  17.0,
+                  111.0
+                ],
+                "runs": [
+                  {
+                    "text": "Prospect Av Station",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Medium",
+                      "size": 96.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "R route bullet",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 2
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 7,
+              "name": "Broadway yellow disc",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.9882353,
+                        "g": 0.8,
+                        "b": 0.039215688
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            24.0,
+                            211.0
+                          ],
+                          "in": [
+                            24.0,
+                            252.4213562373095
+                          ],
+                          "out": [
+                            24.0,
+                            169.5786437626905
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            99.0,
+                            136.0
+                          ],
+                          "in": [
+                            57.57864376269048,
+                            136.0
+                          ],
+                          "out": [
+                            140.4213562373095,
+                            136.0
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            174.0,
+                            211.0
+                          ],
+                          "in": [
+                            174.0,
+                            169.5786437626905
+                          ],
+                          "out": [
+                            174.0,
+                            252.4213562373095
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            99.0,
+                            286.0
+                          ],
+                          "in": [
+                            140.4213562373095,
+                            286.0
+                          ],
+                          "out": [
+                            57.57864376269048,
+                            286.0
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 150.0,
+                  "h": 150.0,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    24.0,
+                    136.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 8,
+              "name": "MTA R route glyph",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            83.13125,
+                            208.09375
+                          ]
+                        },
+                        {
+                          "p": [
+                            100.5625,
+                            208.09375
+                          ],
+                          "out": [
+                            103.95624999999998,
+                            208.09375
+                          ]
+                        },
+                        {
+                          "p": [
+                            108.34375,
+                            206.79999999999998
+                          ],
+                          "in": [
+                            106.57499999999999,
+                            207.65625
+                          ],
+                          "out": [
+                            111.64375000000001,
+                            205.21875
+                          ]
+                        },
+                        {
+                          "p": [
+                            113.30625,
+                            197.56874999999997
+                          ],
+                          "in": [
+                            113.30625,
+                            202.11249999999998
+                          ],
+                          "out": [
+                            113.30625,
+                            192.73749999999998
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            108.53125,
+                            187.68124999999998
+                          ],
+                          "in": [
+                            111.69999999999999,
+                            189.4125
+                          ],
+                          "out": [
+                            106.78125,
+                            186.73125
+                          ]
+                        },
+                        {
+                          "p": [
+                            100.96875,
+                            186.26874999999998
+                          ],
+                          "in": [
+                            104.31875,
+                            186.26874999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            83.13749999999999,
+                            186.26874999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            83.13749999999999,
+                            208.09374999999997
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            112.66874999999999,
+                            245.73749999999998
+                          ],
+                          "out": [
+                            112.40459039185063,
+                            244.79275484393952
+                          ]
+                        },
+                        {
+                          "p": [
+                            111.96249999999998,
+                            242.88124999999997
+                          ],
+                          "in": [
+                            112.16906604266038,
+                            243.8402360157984
+                          ],
+                          "out": [
+                            111.59185929208456,
+                            240.91030448880576
+                          ]
+                        },
+                        {
+                          "p": [
+                            111.35624999999999,
+                            236.90624999999997
+                          ],
+                          "in": [
+                            111.38904912782277,
+                            238.91147441628723
+                          ]
+                        },
+                        {
+                          "p": [
+                            111.25625,
+                            230.21875
+                          ],
+                          "out": [
+                            111.19375,
+                            225.25
+                          ]
+                        },
+                        {
+                          "p": [
+                            108.51875000000001,
+                            220.18124999999998
+                          ],
+                          "in": [
+                            110.30000000000001,
+                            221.96249999999998
+                          ],
+                          "out": [
+                            106.73124999999999,
+                            218.38124999999997
+                          ]
+                        },
+                        {
+                          "p": [
+                            99.0625,
+                            217.51874999999998
+                          ],
+                          "in": [
+                            103.63749999999999,
+                            217.51874999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            83.125,
+                            217.51874999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            83.125,
+                            245.73749999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            70.93125,
+                            245.73749999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            70.93125,
+                            176.25625
+                          ]
+                        },
+                        {
+                          "p": [
+                            104.10624999999999,
+                            176.25625
+                          ],
+                          "out": [
+                            108.81875,
+                            176.35625
+                          ]
+                        },
+                        {
+                          "p": [
+                            114.98124999999999,
+                            178.01875
+                          ],
+                          "in": [
+                            112.48124999999999,
+                            176.94375
+                          ],
+                          "out": [
+                            117.43125,
+                            179.075
+                          ]
+                        },
+                        {
+                          "p": [
+                            121.24375,
+                            182.7
+                          ],
+                          "in": [
+                            119.5375,
+                            180.64375
+                          ],
+                          "out": [
+                            122.67500000000001,
+                            184.41875
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.66875000000002,
+                            188.41875
+                          ],
+                          "in": [
+                            123.83125000000001,
+                            186.34375
+                          ],
+                          "out": [
+                            125.48124999999999,
+                            190.48125
+                          ]
+                        },
+                        {
+                          "p": [
+                            125.91250000000002,
+                            195.51874999999998
+                          ],
+                          "in": [
+                            125.91250000000002,
+                            192.86874999999998
+                          ],
+                          "out": [
+                            125.88191286155691,
+                            198.8424660778997
+                          ]
+                        },
+                        {
+                          "p": [
+                            123.45625000000001,
+                            205.03124999999997
+                          ],
+                          "in": [
+                            125.03865004500284,
+                            202.1082319984984
+                          ],
+                          "out": [
+                            121.89375000000001,
+                            208.01874999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            115.61875,
+                            211.42499999999998
+                          ],
+                          "in": [
+                            119.25625000000002,
+                            210.175
+                          ]
+                        },
+                        {
+                          "p": [
+                            112.44375000000002,
+                            212.5125
+                          ]
+                        },
+                        {
+                          "p": [
+                            115.55625,
+                            213.7625
+                          ],
+                          "out": [
+                            118.59375,
+                            214.99374999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            121.99375,
+                            218.90625
+                          ],
+                          "in": [
+                            120.75625000000002,
+                            216.71875
+                          ],
+                          "out": [
+                            123.26249999999999,
+                            221.16875
+                          ]
+                        },
+                        {
+                          "p": [
+                            123.90625,
+                            229.55624999999998
+                          ],
+                          "in": [
+                            123.90625,
+                            224.74374999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            123.90625,
+                            234.3875
+                          ],
+                          "out": [
+                            123.90625,
+                            237.79375
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.33125000000001,
+                            241.34375
+                          ],
+                          "in": [
+                            124.04374999999999,
+                            240.06875
+                          ],
+                          "out": [
+                            124.73125000000002,
+                            243.21249999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            126.94375000000002,
+                            245.73749999999998
+                          ],
+                          "in": [
+                            125.60625000000002,
+                            244.68124999999998
+                          ]
+                        },
+                        {
+                          "p": [
+                            112.6625,
+                            245.73749999999998
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "name": "Direction",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 3
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 10,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  19.0,
+                  469.0
+                ],
+                "runs": [
+                  {
+                    "text": "Manhattan & Queens",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Medium",
+                      "size": 65.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "swatches": [
+      {
+        "name": "[None]",
+        "paint": {
+          "type": "none"
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Black",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.10980392,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.94509804,
+            "g": 0.3529412,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.96862745,
+            "g": 0.5764706,
+            "b": 0.11764706
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Amber",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9843137,
+            "g": 0.6901961,
+            "b": 0.23137255
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9882353,
+            "g": 0.93333334,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.8509804,
+            "g": 0.8784314,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Lime",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.7764706,
+            "b": 0.24705882
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.22352941,
+            "g": 0.70980394,
+            "b": 0.2901961
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Emerald",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.57254905,
+            "b": 0.27058825
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Teal",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.40784314,
+            "b": 0.21568628
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Aqua",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.13333334,
+            "g": 0.70980394,
+            "b": 0.4509804
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.6627451,
+            "b": 0.6156863
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.16078432,
+            "g": 0.67058825,
+            "b": 0.8862745
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Azure",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.44313726,
+            "b": 0.7372549
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Blue",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.18039216,
+            "g": 0.19215687,
+            "b": 0.57254905
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Indigo",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.105882354,
+            "g": 0.078431375,
+            "b": 0.39215687
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Violet",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4,
+            "g": 0.1764706,
+            "b": 0.5686275
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Purple",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.5764706,
+            "g": 0.15294118,
+            "b": 0.56078434
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Magenta",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.61960787,
+            "g": 0.0,
+            "b": 0.3647059
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rose",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.83137256,
+            "g": 0.078431375,
+            "b": 0.3529412
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Pink",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.11764706,
+            "b": 0.4745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Brown",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.78039217,
+            "g": 0.69803923,
+            "b": 0.6
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Tan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6,
+            "g": 0.5254902,
+            "b": 0.45882353
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Coffee",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4509804,
+            "g": 0.3882353,
+            "b": 0.34117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Chocolate",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3254902,
+            "g": 0.2784314,
+            "b": 0.25490198
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sand",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.7764706,
+            "g": 0.6117647,
+            "b": 0.42745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Copper",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6509804,
+            "g": 0.4862745,
+            "b": 0.32156864
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rust",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.38431373,
+            "b": 0.22352941
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Walnut",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.45882353,
+            "g": 0.29803923,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Espresso",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3764706,
+            "g": 0.21960784,
+            "b": 0.07450981
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Radial White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Radial",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sunset",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.83137256,
+                  "g": 0.078431375,
+                  "b": 0.3529412
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Ocean",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.16078432,
+                  "g": 0.67058825,
+                  "b": 0.8862745
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.18039216,
+                  "g": 0.19215687,
+                  "b": 0.57254905
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      }
+    ],
+    "swatch_groups": [
+      {
+        "name": "Grays",
+        "swatches": [
+          {
+            "name": "K=90",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.9
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=80",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.8
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=70",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.7
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=60",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.6
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=50",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.5
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=40",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.4
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=30",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.3
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=20",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.2
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=10",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.1
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      },
+      {
+        "name": "Brights",
+        "swatches": [
+          {
+            "name": "Bright Red",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.11372549,
+                "b": 0.14509805
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Yellow",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.9019608,
+                "b": 0.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Green",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.0,
+                "g": 0.9019608,
+                "b": 0.4627451
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Blue",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.16078432,
+                "g": 0.4745098,
+                "b": 1.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Violet",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.8352941,
+                "g": 0.0,
+                "b": 0.9764706
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      }
+    ],
+    "graphic_styles": [
+      {
+        "name": "Default Graphic Style",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 1,
+        "unit_box": true
+      },
+      {
+        "name": "Black Outline",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "none"
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 2,
+        "unit_box": true
+      },
+      {
+        "name": "Heavy Ink",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.105882354,
+                  "g": 0.078431375,
+                  "b": 0.39215687
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 4.0
+            }
+          ]
+        },
+        "id": 3,
+        "unit_box": true
+      },
+      {
+        "name": "Sunshine",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.94509804,
+                  "g": 0.3529412,
+                  "b": 0.14117648
+                }
+              },
+              "width": 2.0
+            }
+          ]
+        },
+        "id": 4,
+        "unit_box": true
+      }
+    ],
+    "symbols": [],
+    "guides": [],
+    "grid": {
+      "spacing": 72.0,
+      "subdivisions": 8
+    },
+    "raster_effects_ppi": 72.0,
+    "images": {},
+    "next_id": 29,
+    "metadata": {
+      "author": "",
+      "authorTitle": "",
+      "description": "",
+      "keywords": [],
+      "rating": 0,
+      "copyrightStatus": "unknown",
+      "copyrightNotice": "",
+      "copyrightUrl": "",
+      "created": 1795473432,
+      "modified": 1795473755
+    },
+    "last_view": {
+      "name": "",
+      "center": {
+        "x": 500.0,
+        "y": 248.5
+      },
+      "zoom": 1.427,
+      "rotation": 0.0
+    },
+    "layers_open": [
+      1
+    ]
+  },
+  "images": {}
+}
+ VCBLOBS %PDF-1.7
+%ÄÄÄÄ
+
+1 0 obj
+<</Type/Pages/Count 1/Kids[6 0 R]>>
+endobj
+2 0 obj
+<</ProcSet[/PDF/Text/ImageC/ImageB]/Font<</f0 3 0 R>>>>
+endobj
+3 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/BWZHPX+HelveticaNeue-Medium/Encoding/Identity-H/DescendantFonts[4 0 R]/ToUnicode 8 0 R>>
+endobj
+4 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/BWZHPX+HelveticaNeue-Medium/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 5 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 600 1 1 667 2 2 352 3 3 593 4 4 519 5 5 611 6 7 556 8 8 333 9 9 278 10 10 667 11 11 519 12 12 648 13 13 556 14 14 241 15 15 574 16 16 889 17 17 574 18 18 648 19 19 760 20 20 574]>>
+endobj
+5 0 obj
+<</Type/FontDescriptor/FontName/BWZHPX+HelveticaNeue-Medium/Flags 131076/FontBBox[-7 -191 815 731]/ItalicAngle 0/Ascent 975/Descent -217/CapHeight 714/StemV 119.8/CIDSet 7 0 R/FontFile2 9 0 R>>
+endobj
+6 0 obj
+<</Type/Page/Resources 2 0 R/MediaBox[0 0 1000 497]/BleedBox[0 0 1000 497]/TrimBox[0 0 1000 497]/Parent 1 0 R/Contents 10 0 R>>
+endobj
+7 0 obj
+<</Length 11/Filter/FlateDecode>>
+stream
+xú˚ˇˇ ˆ˜
+endstream
+endobj
+8 0 obj
+<</Length 439/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmíMo‚0ÜÔ˘≥KÙ¿∆	Ñ∂!µÅH9ÙC•⁄={`-€rúˇ~eèC´’zfﬁ˘Ù∞Ôá˘ì4Gú/~r¯¿¡åN‡º~Èl∆ÿŒà±GÌ_% …;¨¡:#ÙP∑ªV+ü1÷jq%NöˇIûÒ¨Ùó ‘ÄzºÈ3∆>ïø‡fdÄÿ¥µW˛
+¸.cÏ∫AΩÜ"clØem˙–‹êÂ©‰ÔŒàz8)-]™«P7+JêJ¯DÒ+˙Œ∆‡√uÿ∑˙d`A*9⁄§ »?¨ÔÆ0ãç›ÅƒyﬁúDßÙfS≥ﬂúá—⁄Ü&ÅG+jˇÛ0¸k◊#‰i‡õ5M	≈óÈÛj1%»ø9AA-
+#q∞ù@◊È3fŒ9ﬂ¬¶iöf*˛„/9ÖO‚OÁ¢ºÿ¬ÜÛäo#ïëÓK¢E§UC¥$ﬂÇ®"Jq+RVD˜DI˘@ %—c§2≈=EZDœ§\’‘Y ≤£úIπ'z$jàˆëä∞ Œó;"öoı@DÛïT°†˘* Y§˘™∏∏¥°∞¬p)∑7£s®}<î¯@·5î∆€≈YcCT¸≈SùÆ>–[Û‚˝À
+endstream
+endobj
+9 0 obj
+<</Length 6168/Filter/FlateDecode>>
+stream
+xú≠Z	p\Wï=ˇ˝^§n©ı¶÷“Í÷ou∑‘≠^‘⁄-Kjoí∑XÒíHéùxëd;vbGŸêÿC&„Å@QS3a2)∂¢
+î(æÏ‡8≈ 5àµä‡Üa†ÄÇ ©¿¿[S˜ΩÂ∂„0§
+π\}˛}Ôøˇ˛ΩÁ›{ﬂ} 7Œ@GÒCƒèeO¿s ÊÁOπﬁs–íÄ¯ˆëèÃü˙ïc†ø§8:wp÷˘`˛ª@ˆÄ˛£GÁ÷.8õÅÏ' $èﬁÛ¿[∫ˇUø»~¿Ó'‹wËËªÅ\@ÓûÉo9%FjÇ@nÄ¯ΩÔô?˘ó_r' mˆ‘…˚{≈ø ›À ∂ùZò;ıéO˜/˘@‘±'PAfÒW¯ ÊÒ>å`#Ë¬ﬂ‡Q| Sÿ+•Äï¸Z-”ja<'ÄK¬–0ú¿∆0ÖG©ÛJaáG\Ç0Å‹VµS”œj⁄ì3¶∂Ú.ZóP˝Æ;ªMhπx|„±ã⁄Ån"gBÎJtõ–sÒMãz«¶ù”∆L¸l¸ÏÊŸ≥ÒMÒ£gmÚwÁ¥1wv¶_ƒÆÈcÒEÏûN,éœ4Ø¬πôô·n6«&«9;ﬂø€·n9¬Ÿô¬ïnˆ‹÷¯¢ûööæuzÒÃÜÊ≈Ò3ÕâD|„‚≈©È≈ãö33›&´3ç«7>z¨—ö≥3g¬—’m¢Fç≤kzÒLÛ‚¯ÃŸ≥Í H,^<{∂˘¨1√◊¶Ü„ñ¿Ñ@Ôÿhjg¶d”#—L#a$fö3∫M‘Ê∂Óöﬁ∏°9ë†âπ˛∏Ü›’ÆÀôpK◊ˇô4Ï˘S4Ï˝ì4ÏªπÜ˝9>“p√™Ü«õQ≠·37(vï™T =ÄËó†√â˝&\Y5(ò®Òôp,õpñ†#Û™	¯ñ`GÊUò06Nõ∞öó`Cit∆ÿI`Gvtf	@«´&læ%hËxµXÍ'¸ö?·∏:´˝€UÙàcW˛N|Jø∏ÅmÄx´∏öÒ∑&ZÁ—7 [÷D+Õ‰≤âfüâ:öëo	!∏_´ÿ±!‹çƒ˛äµ!ä:¬BÿåÏ˚i˘“‰@ì4[)®'A=B´7	‹à“ÙΩ–^So‹Ìµb)êËââP–#≤öﬂî{FE_o^dµm⁄ömzÅﬁ€.<˙ËÁCπéH∞=]órÎnI$∂ØÀ^}Y{K]swªëov–0h«E a<w⁄Í[j>¡e¡¬9Ë–Ù7Utÿ‡Ç∂ø¢„Y‘)	nx≠÷’∑®!AMï¿z≠kÇ	BÙ‚Ù§j¸Cdoı÷;f‡≈1xïVk‡E#º»¿ãAx1	/Ï˚ã•@9T’À=·H(ØÌ—™#«ÖΩµ≥ß)Ë≠©ã÷µñS·aüeA°›+ÙH˜∫Ïo%Ôí+Øàº Ä¥ñ4ë)òË,ò»¯LÿóâH7=m∞£ ;∆`«ÿa'x—©4qZù>ﬁÀKà2)¢∏Q&ET˛ÎDCàb3¢∞Ô7a˜-¡†˛n8` )ËáÅM0ËAvÏÅÅ9´⁄vëÍ\U∫¥‘"ŒI{n8DA§ƒ Çò@PwÇòGÇVöo	1÷v«cm«–à2àa1L"&µmoœãæﬁQQ∂hò∂HäcBÎ=∏ﬁ0÷Âﬂ‘`“ÔO¶¨_OÁ‰Ï»öŸ…ŒŒ…Ÿ5#≥ìù{„Ωïˆƒ∫r<^^óhØÙ∆âõÒïW¥üã ≈æÛH¬?lYµ[$¢daP¢<ËUmYi∞A,∞ßE˜±Ñ¿À‹ÁÉ˜1(ï©˝
+£AÅµpü 7Y â(O£Y=‚%iaIèúT‡mHÛ”Û
+,3(Pì∑¿≤IΩ©N1òb`†»œ‰iX† ≥*L$
+W±™LÇ2±Í<-v§•á(˚L‡≤|¶•fù Mgóíÿq  %cÇö¡˝Cì•Ï#_ÆΩV—Ò8ªì,„m˙, >&¬>-Ù‡G•ˆH∞Ñ65Œ#¨æ,5éÁ¶EIπ`ã•ÅòF.4ØßÛ:≥:b(7Bléƒt"π—ûÈ˜€◊Â}ù…ààF⁄‚k
+-ùc€çÃÊ5i˚√5kRuâ÷`ka$ﬁ6RhÌZø3S⁄µ÷–>ﬁì±{ös-˛:ß3ÿﬁóÓ2<˛‘⁄lgãÕÚáöîº7ïœ4Ñª◊S¬Å±ïä4¢K;a"W8}’;Á|&‹§Ç)∏•
+tüâ–29SÖ#À&"nüÂáÍoÍzfÖ√∫=±uˇÕπÉé*AÑDV>¯à&íBNÃqÕ≥êWyDyñ˙õzñiƒ‡ÿOQ¿Åòä7ª`S∂:ƒ`Br`üo	)∏N§A
+i§0Ä&ê¬ÌH¡AúG
+!±ˇ¬!Âo*ñ*:6à[xoëCÀH¢±gìF7¸Ü&ΩõÉË@\;!oÎY{«H¨y`˜P¥'üÆ⁄ì…~crs ’g§˚Ø∞oÍNg∑Œı⁄⁄]l]Ω™Ω`¨+∑ÕÓJØ/∂ƒÀ+ØàFÄÌªÁ·Ü1È—2ñµœ#7 ∑ù·%6~”%vå÷Å9ˆ]mí r±+¶∏}&\À“yXØ=Œ ŒÆkú`pö¨©∂¿ÌH3%†“ÅcËPSGF5ü!püúqßêQÕqnÜÏÉ‚íQ≈∂(	¢ πdûBÎ¿ê9†\˘˚–@«†‡eG#•à∞cvLrƒ>Œ 9é5„3p·}p…Xıã≠ÿÈC>§·√ |òÄècßÛ≠ˆ®9ºó5yò¡¢≈íñ◊…õ8˙ ùò≈ﬁ∆©˝ì$
+≠±í“¸ÌΩ…ûµﬁµπ—Ì]kÔ¨$å æ·µ«[ùZ±πß#ÍËi›Ïäf≥]Î∫#ô…ŸëÅ√[sÂ›˜Cì|rã m˜y‘P)9d¨≤…7|UlRVµ±5òCõNJuÃs÷wX±…é}‡<™ﬂ“Åwp|å3g0è?JÜE;ºà¢MÂEtÉ¡,±¿∏ ∑bQ FàUq"HÇ†Jôc2—ØSàÜjAXôåéF⁄9@« tLBóâW–GY∑eÌzDPè4Í1ÄzL†û≠]èy‘CHCÆÜeG≠⁄éÌÔùc≈pOWã7—€—S©Y=2ªvˇx">~◊x˜≠cõ6],y;7Øâè˜¥çŒÔú844<ø5…o* |ºfÂ⁄ÄxÕ¯‰yÿHﬂíÈ6ü	Á≤ À£‰©≈zjk#tM‡'ÅøjkQ≠8⁄9‰ˆ‚Õ©Ç\ªâ¶eÕÀî~˜ïCÂê·∑ÙRzI˚çö€é—›·@]c] Ëhsk∑	˚SOÌπ˙ÛÜ¶ÜZMü6¢'Æï»ã≠¸ó‡Ñ[ˇÊy8¨ºÓ<‹–o?…º}ë›·GeJQ—Ò-ä;$ŸM`°¢„G,1eH™Ë‚¶≥,˘wwqÁm‹' í0¯(ﬂı*KÒ]‡¶/±G˛8É>‘,πD pô¡/‹AÄ:+`«'‡Ä	áZ6aŒ^ˇó¡Ì‘k[íC,˘-/Á4jzò%√,˘ Kn'@w}áõ‹‘«‡®U C@M√í¨a7ΩÖ%üg–«MvñD•üy√-≤ Å®‚±ïì»†PKE—cêïvô∆#}Â¿ú(¿Ö1∏∞.Ë‘‚U]ÏËÜke®Ë¯vx!J+ÒæbIìÿb›^Ê·œ¥28… »Ã‹√ Ã‹X%íã%cJDô$˚|å”ï~™…a~ﬂ(€¸0õh7;v2⁄FvÏ)n≥q71hÊ¶ôkF±ÃtÇ%Y;m ^’zzô€HÀ÷í≤¿<¥≤f§N#P÷Õ˝.-¯˙´?\ˇ?~È∏..]Èˇ¬¥≠µÄvUÿ·‘Ï◊ÍÁaß»ØÃúa3§)‚ﬂ˜Ê|‚5ÍTt$§!T‚	ôíôÁÿ`õ¸3ÉUcle†ÊP—±ìóÓ&ﬂa[i6ÿÔ8Ÿ¬‡%wJ@∫ΩUŒ.P¶∫Q˚ˆwä«Z:#ÏWÔ◊ﬁsÂ3+øGƒ˜0&^P{‚1©+ ˝‚ı¡◊jVR˙[aäzÏaûbs.ÚÚÿÓÊÂÒ+n¶úIªØ‚D.å√Ö)^W>Ó≤"ìjôlÖX©¿aﬁ˝F+ôT⁄ÒK¥amÍq;hwG‡kN^ìƒ˘Ü8VW7úTR∫”«iØ@`ÖÛÕ√(+óPD∆—á)ÚÃÍ•˙‘‘≈`ë¡)q4åè%s`mé£∆‘‹<Cc2hˆ˘LT.ìãcÆ6õ™‹‹0	ÜïWÛ@C^ôã)(ÅÊúó£ÿ%˘`«Ñ p)L”∆«Æ¥A∞"òGÕÏC‰¶œ±‰~	L4…ÇîïG8&ÎN2è2–ÑÅIÆN=Ö<>â<˜!.:|ï¡∏T—$ÅZa…H˜$∞bˇÄµ√ÍÎM•ÛZ’é<¥∫#Gbzıû¸ÈñûJ™s8ÈÎßÊ∂‰◊&Ω›[Ó,ﬁö{‘æªŒß¢Öîm`C≈cÙ˛“‘|ﬂ⁄SEÌÂŒ· ñv¶k<—`]∫ÿﬂ“ø£7⁄:ºgp„Pm(Ÿú ∫5oÉﬂÊNï[FˆÙGc£◊QdèØº"í"Ä>LjÀÁ1
+7W◊YøD]p#KÜs ÇeQ†T•¿çJ)_GøTvøœD˚≤âˆÇåHY.OîπõE∂”U¿´ ÂÎ£ò√Ë*µ∂Hjãäƒ¢bï«{]Å9@ÇÄ‚Ÿ4¥ D≥ûh¢9vrW´tL»úY“ãz ¨©@z>‘Cßª'·√iπ3í∂∂÷~Ä+_'y•øOEﬂïcœ“8Ü4Û,çF§ëAÉHcíH.˚õË∫,‘Ö”Ë¢ﬁv‘°-ÍÇÙ÷sÉBËÂy)^	L|KX/kÎ¡pπß‹3¢-Z*}-¡’Uç”·4®‘!ßGszt.
+Ùiøp˚ÏNg≠#:çº≥˝pﬁ/µC…∂¡l4‘ñÚGmzWeg6µeMr°i[™°Ω…nÎrÈ¶˚Cbá∞€Dãëà:ÜR≈ëvØÕaØãF√-^{¶´g]∆ÁKuæ’ÔtÍÓ@[8–‰u∏;ö≠öÄg≠ÛìßØEÕÍt‰3◊Ä*¬¡g¬∂L.≈˝ﬁ(Zæ.ª.|Æ\ãû±|..ÀrÀ
+«ñô„ !#Tˆc‚“âäd÷yÑÚ<‚ïÍ∏Ôíïë7xóìó˘•ﬁ‡Ù‚$ß"q'≠™àÀg¢quÌ¸ˇ≈/´ÚzÉSÚ√ÒÊO1"T{
+á¸Üﬂrw~c‰Ñh⁄]ﬁshAÀ≠˘x√Ç∞oŸ“ÙÙ’‘6ÆuÙ¥\˝ÈéŒ¬‚º∂˛Íùìt|!u˜-Rπ·)@±C£»•¸∂ìõe≤JÈˇñÃ2P’[Ò,ã„$Ëgúëg={	–Äì,…08¿ië¨≈8 Êô‡,bR¶ﬂø‰àıKR,%}7'®E·õ1ˆçLË!ÅGr⁄._ÓAê*:æ©ızR¸2a,AÄ
+xîû9hFøÊ‰]„ú˝˚úLØ(P/j–ÜPÉ1‘¿vW_H7wq>∆7>∆‡nZQïr™m®CuCùÍ..ñü&@c~ü+Îè1∏Eˆ°LÈ°F«áÜ)h8 M’»ñŸ /0¯µvº>L™ ÈqÛgÙ2Qv_cå∏!ø\eÃu¸ >~
+6<õΩõ˚=≠Äˇ^VÕNJs±6‹õä¨_„˛+0ï^a∞õ¡Í6Ê€RæÃ‡«òâ∑3dJN3Ë‰ZÎã∂pΩÏ%∏Ò3∏’[›¡ÕØIÄJ-ûÅ¿".B`∂˝\M ∞»Ã˙!Éóô´L9…‡37êé:[ñ'öXù-äVjì·7¸ÜnËÜﬂÿ≤¯%qÒ”ã/˘≤xX\∫ÚuQ∏“/“WæKˇ´˝ı%ÑµÿüÏØïõÆv‹q®Ú‡˙≤	ΩG¸∂î∏´<æFî\Ω°_x3û¸Õ˙oµÅÙ™XsÄ8.˘v˘&æ}AÑv]Á€/]˝£p£o◊eŒ˘Ò=d1ÑÕ⁄oŒ£öÈ∫nLH¥n4HîÇ◊e¢ÁëÄ9≤âÌ }m°¯hUÈ–Roó˚#Ù¡ÅZ∫Vïø]'⁄—âtb:’‚ÎAóÍrr
+lÁÏˇ4JËpªÑ0JH°Ñ~î∞	%>‹.aé|™‚©ïù›√`ª¥ù¿›ò‡”Ù	D1ÅNL`ÿL; ≤}G·˙C™kˆÔ"AWïπuË*ŒA√:E⁄:*Ö“ìÎ¯≈gÏD;sµΩ˙ÖÈmâ‹ü ù{A/“Ë≈ z1Å^Œù{1è^ô;G|¥—≥Ë5åcfz£√»`É∆$Üez–QïåVmåÇ·ååjTåvFç“0Â£∫:∞äP‚ö“^Ã+ÌI¥‰◊¥yöÇuÕ≈Òd{•Ö¶ìé:€¨ΩπÒØﬂ}ı∑æT"RÈiÀµÖjÓåÁÍó/÷Ë…Lï∫[˚wÙ§FÀ_ÉëÍä§GªCŸÒlºø;Èy‹ü3
+{S◊∂∏Ç±Æ¯®ø±≈≠˝,õlhkm©wGö€CFÅr‘‘ Û‚‚{à¢§˝ﬁDOÅŒóMÙ»c)Zé◊jGtF‡íE&…ä#Ï´éfıü.„Û¯F˜ î_ùR/Û·ò)ÂqñX=◊"ﬂm£≠®⁄Ÿ[¿F~¿˘qñÏP´ÇäÜMXã&à˝tm}Ó—ÜªUÂÇJ'mËDÜ–ÜÕÙ	â™>Xıà√Ú0Z}Å—I#PQŒ˙†dÉ√jKhG/∫±›ÍçIÓ%
+{´Hn}˘§≤ÛêuJÓı-—GälICí…ñD#í» âA$1â‰Í')y&s‰ëF»cy&sÛ¥Èßì©uÀçœ(;ÿq'öpØ‘êº(·^π»;úU´Uß"£Zıw$tî ^\{4s[◊‘ÈÈBa˙Ù˝÷5¶ö:r{{K¥w◊––Æﬁ(˝;˙Ü;"¡5ÛOlﬂˆƒ¸»»¸€:∂NV¢;7nÎ<⁄_>¥=üﬂ~®Lø5µVÏZyEaGËÀ≤U¢ﬂªTı•¢„‚µMáùOr]TEUuö.c—Iv£¨Fß’RÂÎæ·±‚œÕ>Íy]*´¢S±î0˙“g™œ_ˆ´≈ﬂÁ/qJÑveÁÔXË-$ã±˙Ö…tan^õº˙≈É·éﬁòF˛é÷‰∫_OΩ∞Ô.Ô»o’B™yÓªˇMÁ ¯—œÏ?πrÒÍú_¥=†B~≈A∫É˛µï4ZkûΩrq•€˘E9Rı_HL£G<Öm⁄åà[ëNƒ≈aåâ˙ØmGçƒS+øN‘ä'ê9ƒÒkåâQåËè`˝ä'øCä0Ä8ßçà˝q€[Ìvº√)ú¢÷Q˚!˜Ó∫gÍE˝3ﬁó|O˙_	Œ…Öv8Òê‹ÿ–_ê^◊ßê,?√˝%T6e\Í<∆ÊÄ†dZb'|I\[%wC à∏ƒup°Wbüƒ£”6¡%è5[m∞S‚@’8¡*Lß.LKLgNí∏U OÆQÛ|+·:⁄ä∏òƒt~‡¬∑t?˝ul«fq‚L‚ N‡Ê1á ∂b˜„8é·‚8Ó«Éÿéìxs∏wıŒì≈ÔøR¸HÒ√≈ˇ|—ˇ)€W?ãÌ¯©j±%l„∂>[Øm≠m–6d›1á∑tøm≥c££À1È(;VG:»|Y˘úÃ6^ˇP∆ÏƒmÿÖIl¬Ì†¬Õ˙±€p+äÿäZÙÇñJV;“®Àjœ#ç“hCX÷Ø≤œ#ÉiL` iÑ-I'6¢]à≠J∫êªÓ.<è$F≠N<Pˆ‹0P
+ÂÎo;G9¸ÙÇ˙∞÷H™Q¥¢yR¡]dµp£Ñåå>‘d/†˚∞k–Ö®ºÆ«;qª1Ç§ºˆ ÉZ–@˘]ˆº»!âQ'Ø}ËêﬂŒ¯·í◊~lƒh·‰uF—É4Z·ó◊Ù£¢¥˘Ã^êüR$S„„¥n(£	4¬#Ø)mBø,»—µÌÜ	SÌ9Wı «/‡ºa¬57L®ˆ∫	]ÄÎ:·Bp¬ô5•i ˇ*d√V
+endstream
+endobj
+10 0 obj
+<</Length 810/Filter/FlateDecode>>
+stream
+xú}U±é9Ì˝*ì‚^Hä¢®ˆÄkÆ‡Óˆö3∞I1êE˛ë{xã59O"%=>â?*T˛òFG/ók|Sy˚ÊZòh:[:sŒVÓñ v˙~z=}=˝|íä„ÔÌ[-“ µån”Ÿ“eãë›∂g…∏óÍvÃv˙Û\®úﬂæºRVŒØ«ï©úØˇ|z!¢"^V>≥ÔX]VómÀ⁄≤=ÏÒ˚+~‹£π◊√Ã∑ÉOlèkqˇ¸Ô˘Ô”_Áwh"w©≠Ç’!‹Ã}ßéπ\ß√6–∫õñ÷”—¬’ a.Öï†2˝¯Ô«ê˘53]“k≤œº≈àG™i.áÊ∑#÷ñ.T˛&"Ø‡ “äêÉFÌSLÑf‡‘W≈¯e2¥>ëã1&G’9&dyfÿBÑ}∆qE•Ã%‡π˛‚——Ã{v@=÷dF/Ïq‰hqˆsùqdËû®°Á8)j.Ô±à0Ïª$)ÿv√éî<!o;}/Ãã0—ñõæ®§mQE“-0∂AΩàV∏“‘3F0£wñ§Å—G°	É©r`’©©é¡¨=¡,R5å`.√e°¥J∞ ±iëÜ(°ëµÅ`6Êä¯»lö568•aëà˚
+Yﬂí¥>@…†x⁄J'å˙∆›‚ zTpJ„uxπ€¢"®O1t√–‘+∆¬¥v»‹°k•
+µ¥‘-≥0$=Ù&ãoÖÊ‚R·Kï∂.ã.Y∞˚ö7c€æπAª'#!Åõœw‚µ°tÁ¡Öá√U¶§Å™€∫Z‰Rc7∫ÆÓùyf4√≥˛SæÎbé])L‡@,U¿]zh^i¥ôn ©°≠–änt¥\c>jÖ–◊DC_|qå¶™n∫ï
+ââ¬‡§NÍQtÕÑwlƒB®w¥*Í“¸ÏË˘àâÇÚ4J†xy&Vóy’o¶‘]˚Z!{©,™ÆÁá%Uv–prf9Ô¶Î'≈≥;ü¸˜¨µ¨Ã&∑7?‚lù$Ÿvè-Òÿ$˜yŸDI‰·kµLŸ€ÛﬁJó›◊ Ωµ‘ˇ+…L
+endstream
+endobj
+11 0 obj
+<</Title<FEFF00500072006F00730070006500630074002000410076002020130020004D0061006E00680061007400740061006E0020002600200051007500650065006E007300200065006E007400720061006E006300650020007300690067006E>/Creator(VectorCraft)/Producer(VectorCraft)/ModDate(D:20261123224235Z)/CreationDate(D:20261123223712Z)>>
+endobj
+12 0 obj
+<</Length 1102/Type/Metadata/Subtype/XML>>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><dc:title><rdf:Alt><rdf:li xml:lang="x-default">Prospect Av ‚Äì Manhattan &amp; Queens entrance sign</rdf:li></rdf:Alt></dc:title><xmp:CreatorTool>VectorCraft</xmp:CreatorTool><pdf:Producer>VectorCraft</pdf:Producer><xmp:ModifyDate>2026-11-23T22:42:35+00:00</xmp:ModifyDate><xmp:CreateDate>2026-11-23T22:37:12+00:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>tw5jB5lexCU+CF6lnjr9Dg==</xmpMM:InstanceID><xmpMM:DocumentID>tw5jB5lexCU+CF6lnjr9Dg==</xmpMM:DocumentID><xmpMM:RenditionClass>default</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+endstream
+endobj
+13 0 obj
+<</ViewerPreferences<</DisplayDocTitle true>>/Type/Catalog/Pages 1 0 R/Metadata 12 0 R>>
+endobj
+xref
+0 14
+0000000000 65535 f
+0000000016 00000 n
+0000000067 00000 n
+0000000138 00000 n
+0000000278 00000 n
+0000000664 00000 n
+0000000873 00000 n
+0000001016 00000 n
+0000001094 00000 n
+0000001619 00000 n
+0000007856 00000 n
+0000008735 00000 n
+0000009054 00000 n
+0000010233 00000 n
+trailer
+<</Size 14/Root 13 0 R/Info 11 0 R/ID[(tw5jB5lexCU+CF6lnjr9Dg==)(tw5jB5lexCU+CF6lnjr9Dg==)]>>
+startxref
+10338
+%%EOF
