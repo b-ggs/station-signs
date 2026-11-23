@@ -215,6 +215,7 @@ system, record it in that spec.
 | Paris RATP | [`stations/gare-de-lyon/AGENTS.md`](stations/gare-de-lyon/AGENTS.md) |
 | Nice Lignes d’Azur | [`stations/garibaldi/AGENTS.md`](stations/garibaldi/AGENTS.md) |
 | Amsterdam GVB | [`stations/artis/AGENTS.md`](stations/artis/AGENTS.md) |
+| Lithuanian Railways (LTG) | [`stations/vilnius/AGENTS.md`](stations/vilnius/AGENTS.md) |
 | Brussels STIB/MIVB | [`stations/anneessens-fontainas/AGENTS.md`](stations/anneessens-fontainas/AGENTS.md) |
 | Hong Kong MTR | [`stations/prince-edward/AGENTS.md`](stations/prince-edward/AGENTS.md) |
 | Roma Termini (Grandi Stazioni) | [`stations/roma-termini/AGENTS.md`](stations/roma-termini/AGENTS.md) |
