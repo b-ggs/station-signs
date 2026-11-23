@@ -15,14 +15,3 @@ Entrance 10 photo supplied the lettering measurements and the sampled blue; the 
 uses a light neutral gray chosen separately. The Entrance 1 photo supplied the numeral. The source is
 [`formosa-boulevard.vectorcraft`](formosa-boulevard.vectorcraft);
 see [`AGENTS.md`](AGENTS.md) for design notes.
-
-## Export
-
-Run from this folder:
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert formosa-boulevard.vectorcraft exports/formosa-boulevard.pdf
-```
-
-For a PNG, use `exports/formosa-boulevard.png --ppi 300` instead.

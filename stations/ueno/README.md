@@ -12,15 +12,6 @@ Built in VectorCraft by **Claude Opus 5.5**.
 The sign is the station name sign for trains toward Uguisudani, in
 [`ueno.vectorcraft`](ueno.vectorcraft).
 
-## Export
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert ueno.vectorcraft exports/ueno.pdf
-```
-
-Run this from this folder. For a PNG, use `exports/ueno.png --ppi 300`.
-
 ## Design notes
 
 - Japanese is Hiragino Sans W7 (W5 for the neighbor names), English is Helvetica Neue (Bold for Ueno, Regular for the

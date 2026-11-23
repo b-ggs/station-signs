@@ -12,15 +12,6 @@ Built in VectorCraft by **Claude Opus 5.5**.
 The sign is the station name sign for trains toward Ochanomizu, in
 [`akihabara.vectorcraft`](akihabara.vectorcraft).
 
-## Export
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert akihabara.vectorcraft exports/akihabara.pdf
-```
-
-Run this from this folder. For a PNG, use `exports/akihabara.png --ppi 300`.
-
 ## Design notes
 
 - It follows the same JR East design as [Ueno](../ueno/): Hiragino Sans for Japanese,

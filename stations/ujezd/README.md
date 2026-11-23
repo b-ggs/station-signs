@@ -14,12 +14,3 @@ This is the tram direction sign marked **809 / 2-p**. Routes **12, 15, and 20** 
 and the marks of **DPP** (Prague Public Transit Company) and **PID** (Prague Integrated Transport).
 
 The editable source is [`ujezd.vectorcraft`](ujezd.vectorcraft).
-
-## Export
-
-Run from this folder:
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert ujezd.vectorcraft exports/ujezd.pdf
-```

@@ -14,12 +14,3 @@ and Tamil, and the Downtown Line's blue bar along the bottom. English and the co
 [IdentityFont](https://github.com/jglim/IdentityFont), an open reconstruction of LTA's
 LTAIdentity. The source is [`rochor.vectorcraft`](rochor.vectorcraft); see
 [`AGENTS.md`](AGENTS.md) for design notes.
-
-## Export
-
-Run from this folder:
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert rochor.vectorcraft exports/rochor.pdf
-```

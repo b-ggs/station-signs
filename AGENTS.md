@@ -174,8 +174,8 @@ vectorcraft-cli info FILE
   - `README.md`: a short overview for people, with the station name in English and the local
     script, the city and country, line, code and neighbors, when the user visited and who with
     (one line, for example "Visited in March 2026 with Clark and Paul."; ask, don't guess), which
-    sign it is (for example "Platform 2"), an export command and brief design notes. Keep it
-    simple, with no signs table. The full decision log goes in `AGENTS.md`, not here.
+    sign it is (for example "Platform 2") and brief design notes. Keep it simple, with no signs
+    table. The full decision log goes in `AGENTS.md`, not here.
   - `AGENTS.md`: station-specific facts (names, codes, neighbors, platforms, the reference
     photos used, decisions and open questions) and, for the first station on a rail system,
     that system's design spec. Plus a `CLAUDE.md` containing `@AGENTS.md`

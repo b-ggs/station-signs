@@ -44,16 +44,6 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
    agent draws in your VectorCraft window, so you can watch and edit alongside it. For
    subjective tweaks it lays out numbered variants on extra artboards for you to choose from.
 
-## Exporting
-
-```sh
-mkdir -p stations/phrom-phong/exports
-vectorcraft-cli convert stations/phrom-phong/phrom-phong.vectorcraft stations/phrom-phong/exports/phrom-phong.pdf
-```
-
-The output format follows the file extension (`.svg`, `.pdf`, `.png`, and so on). For PNGs, add
-`--ppi 300`.
-
 ## Notes
 
 These are personal, fan-made recreations, not official artwork from any rail operator. Where an

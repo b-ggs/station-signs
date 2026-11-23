@@ -11,12 +11,3 @@ Visited in August 2026 with David.
 Built in VectorCraft by **GPT-6.2 Sol**.
 
 The editable source is [`garibaldi.vectorcraft`](garibaldi.vectorcraft).
-
-## Export
-
-Run from this folder:
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert garibaldi.vectorcraft exports/garibaldi.pdf
-```

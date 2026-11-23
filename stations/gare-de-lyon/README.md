@@ -16,12 +16,3 @@ but uses a rectangular face instead of the curved housing. The editable source i
 
 The station name uses Parisine Bold. If it is not installed, see [`AGENTS.md`](AGENTS.md)
 for the manual Source Sans 3 Bold substitute.
-
-## Export
-
-Run from this folder:
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert gare-de-lyon.vectorcraft exports/gare-de-lyon.pdf
-```

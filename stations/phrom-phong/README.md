@@ -12,15 +12,6 @@ Built in VectorCraft by **Claude Opus 5.5**.
 The sign is the Platform 2 sign (heading toward Asok), in
 [`phrom-phong.vectorcraft`](phrom-phong.vectorcraft).
 
-## Export
-
-```sh
-mkdir -p exports
-vectorcraft-cli convert phrom-phong.vectorcraft exports/phrom-phong.pdf
-```
-
-Run this from this folder. For a PNG, use `exports/phrom-phong.png --ppi 300`.
-
 ## Design notes
 
 - Thai text is Thonburi Regular with a 1 pt outline. Latin text is Helvetica Neue Bold.
