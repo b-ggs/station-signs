@@ -7,6 +7,7 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 
 | Sign | Station | City, Country | Visited |
 |---|---|---|---|
+| <a href="stations/sutthisan/"><img src="stations/sutthisan/sutthisan-compact.svg" alt="Sutthisan, compact Exit 4 sign" width="240"></a> | [Sutthisan](stations/sutthisan/) | Bangkok, Thailand | Mar 2024 |
 | <a href="stations/roma-termini/"><img src="stations/roma-termini/roma-termini.svg" alt="Roma Termini entrance sign" width="240"></a> | [Roma Termini](stations/roma-termini/) | Rome, Italy | Sep 2024 |
 | <a href="stations/prince-edward/"><img src="stations/prince-edward/prince-edward.svg" alt="Prince Edward station name wall" width="240"></a> | [Prince Edward](stations/prince-edward/) | Hong Kong | Feb 2025 |
 | <a href="stations/artis/"><img src="stations/artis/artis-compact.svg" alt="Artis/Nationaal Holocaustmuseum compact stop sign" width="240"></a> | [Artis](stations/artis/) | Amsterdam, Netherlands | Aug 2025 |
@@ -26,7 +27,8 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 - [uv](https://docs.astral.sh/uv/) for the occasional Python helper (image measuring and color
   sampling)
 - Whatever fonts a sign's design spec calls for. The Bangkok BTS signs use Thonburi and Helvetica
-  Neue, which come with macOS. The JR East signs use Hiragino Sans, Helvetica Neue and Apple SD Gothic
+  Neue, which come with macOS. The Bangkok MRT sign uses Thonburi, Arial, and Avenir Next.
+  The JR East signs use Hiragino Sans, Helvetica Neue and Apple SD Gothic
    Neo (also built in), plus Hind (`brew install --cask font-hind`). The Kaohsiung Metro sign uses
     Songti TC, Hiragino Sans GB, and Arial. The Prague tram and Paris RATP signs use
     Source Sans 3; the RATP sign also uses Parisine. The Amsterdam GVB sign uses Helvetica

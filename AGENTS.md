@@ -208,6 +208,7 @@ system, record it in that spec.
 | System | Spec |
 |---|---|
 | Bangkok BTS Skytrain | [`stations/phrom-phong/AGENTS.md`](stations/phrom-phong/AGENTS.md) |
+| Bangkok MRT | [`stations/sutthisan/AGENTS.md`](stations/sutthisan/AGENTS.md) |
 | JR East | [`stations/ueno/AGENTS.md`](stations/ueno/AGENTS.md) |
 | Kaohsiung Metro | [`stations/formosa-boulevard/AGENTS.md`](stations/formosa-boulevard/AGENTS.md) |
 | Prague tram (DPP / PID) | [`stations/ujezd/AGENTS.md`](stations/ujezd/AGENTS.md) |
