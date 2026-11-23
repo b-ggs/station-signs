@@ -165,10 +165,11 @@ vectorcraft-cli info FILE
   - `<station-slug>.vectorcraft`: the source file. It holds **exactly one sign** on one artboard.
     Extra artboards only exist temporarily while comparing variants, and get deleted once the
     user picks one.
-  - `<station-slug>.png`: a small preview, exported with
-    `vectorcraft-cli convert <slug>.vectorcraft <slug>.png --scale 0.5`, which gives an
-    810 × 210 px image for a BTS sign. The station README shows it full size, and the root
-    README's table shows it as a 240 px thumbnail.
+  - `<station-slug>.png`: a preview, exported at 1× with
+    `vectorcraft-cli convert <slug>.vectorcraft <slug>.png --scale 1`, which gives a
+    1620 × 420 px image for a BTS sign. The user chose 1× over 0.5× because the smaller image
+    looked fuzzy on Retina screens, especially fine Tamil and Chinese text. The station README
+    shows it full width, and the root README's table shows it as a 240 px thumbnail.
     **Re-export it whenever the sign changes.**
   - `README.md`: a short overview for people, with the station name in English and the local
     script, the city and country, line, code and neighbors, when the user visited, which sign it
