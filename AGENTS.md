@@ -457,3 +457,19 @@ current wayfinding template. Measurements are in pt.
   side, measured from the left edge of the symbol and right edge of the wordmark.
 
 The colors are first-pass estimates from the reference, not official paint values.
+
+### Nice Lignes d’Azur: bus shelter header
+
+First pass for the Garibaldi panel. Use the sharper, rectified photo for geometry and the
+brighter photo for the palette; the bright photo is too soft to determine exact inks.
+Coordinates are in pt.
+
+- **Face:** white `#ffffff`, 1600 × 500, with a full-width sky-blue `#a0d0f8` strip from
+  y 0 to 62. Leave the large blank area to the right of the title and route tiles.
+- **Text:** NICE is dark gray `#56565f`, Helvetica Neue Regular 47 at 116% horizontal
+  scale, x 19, baseline 48. The stop name is navy `#263c61`, Helvetica Neue Medium 178
+  at 92.75%, x 26, baseline 225. Both styles stand in for the photographed lettering.
+- **Route tiles:** plain filled rectangles in one row at y 272, 88 high, with centered
+  white Arial Rounded MT Bold labels. Use the station's notes for tile colors and widths.
+- **Logo:** orange and yellow two-line Lignes d’Azur wordmark at the upper right,
+  crossing the strip and white face. The photo does not show a contrasting logo panel.
