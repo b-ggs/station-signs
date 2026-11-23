@@ -27,6 +27,15 @@
   photo sample `#2454ae`, OSM's `#0354a6` and `#005ec4`.
 - Open: the panel charcoal (photo sample, not reviewed) and the frame.
 
+## Compact version
+
+`rochor-compact.vectorcraft` (1079 × 376) is a copy of the full sign with the side margins
+cut from about 360 pt to 100 pt. The badge and names move left 259 pt as one block (the ink
+now runs from x 100 to 979), and the panel and blue bar are narrowed to the new width. The
+height and the bar are unchanged. The user chose 100 pt over 59 pt (matching the top margin)
+and 150 pt. Everything else is identical to the full sign, so carry over any changes made
+there.
+
 ## Design spec: Singapore MRT: station name sign
 
 First pass from an oblique photo of the Rochor (DT13) platform sign. It was rectified with the
