@@ -7,6 +7,10 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 
 | Sign | Station | City, Country | Visited |
 |---|---|---|---|
+| <a href="stations/roma-termini/"><img src="stations/roma-termini/roma-termini.svg" alt="Roma Termini entrance sign" width="240"></a> | [Roma Termini](stations/roma-termini/) | Rome, Italy | Sep 2024 |
+| <a href="stations/prince-edward/"><img src="stations/prince-edward/prince-edward.svg" alt="Prince Edward station name wall" width="240"></a> | [Prince Edward](stations/prince-edward/) | Hong Kong | Feb 2025 |
+| <a href="stations/artis/"><img src="stations/artis/artis-compact.svg" alt="Artis/Nationaal Holocaustmuseum compact stop sign" width="240"></a> | [Artis](stations/artis/) | Amsterdam, Netherlands | Aug 2025 |
+| <a href="stations/anneessens-fontainas/"><img src="stations/anneessens-fontainas/anneessens-fontainas.svg" alt="Anneessens-Fontainas station name sign" width="240"></a> | [Anneessens-Fontainas](stations/anneessens-fontainas/) | Brussels, Belgium | Sep 2025 |
 | <a href="stations/ueno/"><img src="stations/ueno/ueno.svg" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
 | <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.svg" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
 | <a href="stations/rochor/"><img src="stations/rochor/rochor.svg" alt="Rochor, station name sign" width="240"></a> | [Rochor](stations/rochor/) | Singapore | Jun 2026 |
@@ -25,8 +29,11 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
   Neue, which come with macOS. The JR East signs use Hiragino Sans, Helvetica Neue and Apple SD Gothic
    Neo (also built in), plus Hind (`brew install --cask font-hind`). The Kaohsiung Metro sign uses
     Songti TC, Hiragino Sans GB, and Arial. The Prague tram and Paris RATP signs use
-    Source Sans 3; the RATP sign also uses Parisine. The Nice bus sign uses Helvetica Neue
-    and Arial Rounded MT Bold. The Singapore MRT sign uses LTAIdentity (the
+    Source Sans 3; the RATP sign also uses Parisine. The Amsterdam GVB sign uses Helvetica
+    Neue, and the Brussels STIB sign uses Parisine. The Nice bus sign uses Helvetica Neue
+    and Arial Rounded MT Bold. The Hong Kong MTR wall uses Songti TC and Helvetica Neue. The
+    Roma Termini sign uses Futura and Avenir Next. The
+    Singapore MRT sign uses LTAIdentity (the
     [IdentityFont](https://github.com/jglim/IdentityFont) reconstruction, installed from its
     TTF), Hiragino Sans GB and InaiMathi.
 

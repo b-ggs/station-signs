@@ -1,0 +1,4055 @@
+{
+  "format": "vectorcraft",
+  "version": 4,
+  "generator": "VectorCraft 0.24.1",
+  "pdfCompatible": true,
+  "pdf": {
+    "mime": "application/pdf",
+    "blob": [
+      0,
+      16490
+    ]
+  },
+  "document": {
+    "version": 3,
+    "title": "Artis ‚Äì compact stop sign",
+    "units": "Points",
+    "rulers": "artboard",
+    "color_mode": "Rgb",
+    "artboards": [
+      {
+        "id": 1,
+        "name": "Artis ‚Äì compact stop sign",
+        "rect": {
+          "x0": 0.0,
+          "y0": 0.0,
+          "x1": 400.0,
+          "y1": 334.0
+        },
+        "show_center_mark": false,
+        "show_cross_hairs": false
+      }
+    ],
+    "layers": [
+      {
+        "id": 1,
+        "name": "Layer 1",
+        "kind": {
+          "type": "layer",
+          "color": {
+            "Preset": 0
+          },
+          "template": false,
+          "printable": true,
+          "children": [
+            {
+              "id": 2,
+              "name": "Header band",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.32156864,
+                        "g": 0.43137255,
+                        "b": 0.7294118
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            400.0,
+                            0.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            400.0,
+                            122.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            122.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 400.0,
+                  "h": 122.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 3,
+              "name": "Bus pictogram box",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            18.0,
+                            20.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            193.0,
+                            20.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            193.0,
+                            104.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            18.0,
+                            104.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 175.0,
+                  "h": 84.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    18.0,
+                    20.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 4,
+              "name": "Tram pictogram box",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            207.0,
+                            20.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            382.0,
+                            20.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            382.0,
+                            104.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            207.0,
+                            104.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 175.0,
+                  "h": 84.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    207.0,
+                    20.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 5,
+              "name": "Zone box",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 0.8509804,
+                        "b": 0.40784314
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            122.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.0,
+                            122.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.0,
+                            224.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            224.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 124.0,
+                  "h": 102.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    122.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 6,
+              "name": "Blue column",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.32156864,
+                        "g": 0.43137255,
+                        "b": 0.7294118
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            0.0,
+                            223.9999999776
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.0,
+                            223.9999999776
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.0,
+                            333.99999995999997
+                          ]
+                        },
+                        {
+                          "p": [
+                            0.0,
+                            333.99999995999997
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 124.0,
+                  "h": 109.9999999824,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    223.9999999776
+                  ]
+                }
+              }
+            },
+            {
+              "id": 7,
+              "name": "Line panel",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            124.0,
+                            122.000000003
+                          ]
+                        },
+                        {
+                          "p": [
+                            400.0,
+                            122.000000003
+                          ]
+                        },
+                        {
+                          "p": [
+                            400.0,
+                            333.999999995
+                          ]
+                        },
+                        {
+                          "p": [
+                            124.0,
+                            333.999999995
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 276.0,
+                  "h": 211.999999992,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    124.0,
+                    122.000000003
+                  ]
+                }
+              }
+            },
+            {
+              "id": 10,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  62.0,
+                  203.20899999999997
+                ],
+                "runs": [
+                  {
+                    "text": "5700",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Bold",
+                      "size": 41.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.16470589,
+                          "g": 0.16470589,
+                          "b": 0.16470589
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 11,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  130.156,
+                  178.81401148730353
+                ],
+                "runs": [
+                  {
+                    "text": "Artis/Nationaal",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Bold",
+                      "size": 28.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.22745098,
+                          "g": 0.22745098,
+                          "b": 0.22745098
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 12,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  129.12000000000006,
+                  206.02999999999997
+                ],
+                "runs": [
+                  {
+                    "text": "Holocaustmuseum",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Bold",
+                      "size": 28.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.22745098,
+                          "g": 0.22745098,
+                          "b": 0.22745098
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 13,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  134.0,
+                  275.0
+                ],
+                "runs": [
+                  {
+                    "text": "14",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Medium",
+                      "size": 44.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.16470589,
+                          "g": 0.16470589,
+                          "b": 0.16470589
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 16,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  134.0,
+                  293.0
+                ],
+                "runs": [
+                  {
+                    "text": "Centraal Station",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Regular",
+                      "size": 8.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.16470589,
+                          "g": 0.16470589,
+                          "b": 0.16470589
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 17,
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  263.0,
+                  293.0
+                ],
+                "runs": [
+                  {
+                    "text": "Centraal Station",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Regular",
+                      "size": 8.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.16470589,
+                          "g": 0.16470589,
+                          "b": 0.16470589
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 282,
+              "name": "Bus body",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            43.27,
+                            32.4
+                          ]
+                        },
+                        {
+                          "p": [
+                            170.19,
+                            32.02
+                          ],
+                          "out": [
+                            171.96333333333334,
+                            32.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            172.85,
+                            34.3
+                          ],
+                          "in": [
+                            172.85,
+                            32.78
+                          ]
+                        },
+                        {
+                          "p": [
+                            173.99,
+                            76.1
+                          ]
+                        },
+                        {
+                          "p": [
+                            152.33,
+                            82.56
+                          ]
+                        },
+                        {
+                          "p": [
+                            37.57,
+                            82.94
+                          ]
+                        },
+                        {
+                          "p": [
+                            37.57,
+                            59.57
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 283,
+              "name": "Bus windows",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            45.55,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            58.28,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            58.28,
+                            60.14
+                          ]
+                        },
+                        {
+                          "p": [
+                            40.99,
+                            60.14
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            62.84,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            84.31,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            84.31,
+                            58.24
+                          ]
+                        },
+                        {
+                          "p": [
+                            62.84,
+                            58.24
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            86.78,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            108.25,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            108.25,
+                            58.24
+                          ]
+                        },
+                        {
+                          "p": [
+                            86.78,
+                            58.24
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            110.91,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            132.19,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            132.19,
+                            58.24
+                          ]
+                        },
+                        {
+                          "p": [
+                            110.91,
+                            58.24
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            134.85,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            154.61,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            154.61,
+                            58.24
+                          ]
+                        },
+                        {
+                          "p": [
+                            134.85,
+                            58.24
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            156.7,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            169.05,
+                            36.96
+                          ]
+                        },
+                        {
+                          "p": [
+                            169.05,
+                            58.24
+                          ]
+                        },
+                        {
+                          "p": [
+                            156.7,
+                            58.24
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 284,
+              "name": "Bus wheel arch 1",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            55.81,
+                            82.56
+                          ],
+                          "in": [
+                            55.81,
+                            89.69551896781385
+                          ],
+                          "out": [
+                            55.81,
+                            75.42448103218615
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            68.73,
+                            69.64
+                          ],
+                          "in": [
+                            61.59448103218615,
+                            69.64
+                          ],
+                          "out": [
+                            75.86551896781386,
+                            69.64
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            81.65,
+                            82.56
+                          ],
+                          "in": [
+                            81.65,
+                            75.42448103218615
+                          ],
+                          "out": [
+                            81.65,
+                            89.69551896781385
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            68.73,
+                            95.48
+                          ],
+                          "in": [
+                            75.86551896781386,
+                            95.48
+                          ],
+                          "out": [
+                            61.59448103218615,
+                            95.48
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 25.840000000000003,
+                  "h": 25.840000000000003,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    55.81,
+                    69.64
+                  ]
+                }
+              }
+            },
+            {
+              "id": 285,
+              "name": "Bus wheel arch 2",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            126.49,
+                            82.56
+                          ],
+                          "in": [
+                            126.49,
+                            89.69551896781385
+                          ],
+                          "out": [
+                            126.49,
+                            75.42448103218615
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            139.41,
+                            69.64
+                          ],
+                          "in": [
+                            132.27448103218615,
+                            69.64
+                          ],
+                          "out": [
+                            146.54551896781385,
+                            69.64
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            152.32999999999998,
+                            82.56
+                          ],
+                          "in": [
+                            152.32999999999998,
+                            75.42448103218615
+                          ],
+                          "out": [
+                            152.32999999999998,
+                            89.69551896781385
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            139.41,
+                            95.48
+                          ],
+                          "in": [
+                            146.54551896781385,
+                            95.48
+                          ],
+                          "out": [
+                            132.27448103218615,
+                            95.48
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 25.83999999999999,
+                  "h": 25.840000000000003,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    126.49,
+                    69.64
+                  ]
+                }
+              }
+            },
+            {
+              "id": 286,
+              "name": "Bus wheel 1",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            59.23,
+                            82.56
+                          ],
+                          "in": [
+                            59.23,
+                            87.80670512339255
+                          ],
+                          "out": [
+                            59.23,
+                            77.31329487660746
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            68.72999999999999,
+                            73.06
+                          ],
+                          "in": [
+                            63.48329487660746,
+                            73.06
+                          ],
+                          "out": [
+                            73.97670512339253,
+                            73.06
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            78.22999999999999,
+                            82.56
+                          ],
+                          "in": [
+                            78.22999999999999,
+                            77.31329487660746
+                          ],
+                          "out": [
+                            78.22999999999999,
+                            87.80670512339255
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            68.72999999999999,
+                            92.06
+                          ],
+                          "in": [
+                            73.97670512339253,
+                            92.06
+                          ],
+                          "out": [
+                            63.48329487660746,
+                            92.06
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 18.999999999999993,
+                  "h": 19.0,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    59.23,
+                    73.06
+                  ]
+                }
+              }
+            },
+            {
+              "id": 287,
+              "name": "Bus wheel 2",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            129.91,
+                            82.56
+                          ],
+                          "in": [
+                            129.91,
+                            87.80670512339255
+                          ],
+                          "out": [
+                            129.91,
+                            77.31329487660746
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            139.41,
+                            73.06
+                          ],
+                          "in": [
+                            134.16329487660747,
+                            73.06
+                          ],
+                          "out": [
+                            144.65670512339253,
+                            73.06
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            148.91,
+                            82.56
+                          ],
+                          "in": [
+                            148.91,
+                            77.31329487660746
+                          ],
+                          "out": [
+                            148.91,
+                            87.80670512339255
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            139.41,
+                            92.06
+                          ],
+                          "in": [
+                            144.65670512339253,
+                            92.06
+                          ],
+                          "out": [
+                            134.16329487660747,
+                            92.06
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "ellipse",
+                  "w": 19.0,
+                  "h": 19.0,
+                  "pie": [
+                    0.0,
+                    360.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    129.91,
+                    73.06
+                  ]
+                }
+              }
+            },
+            {
+              "id": 288,
+              "name": "Tram body",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            229.25,
+                            55.12
+                          ]
+                        },
+                        {
+                          "p": [
+                            358.83,
+                            55.12
+                          ]
+                        },
+                        {
+                          "p": [
+                            363.58,
+                            72.6
+                          ]
+                        },
+                        {
+                          "p": [
+                            363.58,
+                            90.84
+                          ]
+                        },
+                        {
+                          "p": [
+                            351.99,
+                            90.84
+                          ],
+                          "out": [
+                            351.48333333333335,
+                            88.94
+                          ]
+                        },
+                        {
+                          "p": [
+                            348.57,
+                            87.99
+                          ],
+                          "in": [
+                            350.34333333333336,
+                            87.99
+                          ]
+                        },
+                        {
+                          "p": [
+                            317.79,
+                            87.99
+                          ],
+                          "out": [
+                            316.01666666666665,
+                            87.99
+                          ]
+                        },
+                        {
+                          "p": [
+                            314.37,
+                            90.84
+                          ],
+                          "in": [
+                            314.87666666666667,
+                            88.94
+                          ]
+                        },
+                        {
+                          "p": [
+                            274.09,
+                            90.84
+                          ],
+                          "out": [
+                            273.5833333333333,
+                            88.94
+                          ]
+                        },
+                        {
+                          "p": [
+                            270.67,
+                            87.99
+                          ],
+                          "in": [
+                            272.4433333333333,
+                            87.99
+                          ]
+                        },
+                        {
+                          "p": [
+                            240.65,
+                            87.99
+                          ],
+                          "out": [
+                            238.87666666666667,
+                            87.99
+                          ]
+                        },
+                        {
+                          "p": [
+                            237.23,
+                            90.84
+                          ],
+                          "in": [
+                            237.73666666666668,
+                            88.94
+                          ]
+                        },
+                        {
+                          "p": [
+                            224.5,
+                            90.84
+                          ]
+                        },
+                        {
+                          "p": [
+                            224.5,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 289,
+              "name": "Tram windows",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            230.77,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            240.08,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            240.08,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            226.4,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            241.6,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            261.17,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            261.17,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            241.6,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            262.88,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            282.45,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            282.45,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            262.88,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            283.97,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            303.73,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            303.73,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            283.97,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            305.06,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            324.82,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            324.82,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            305.06,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            325.77,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            345.72,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            345.72,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            325.77,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            347.05,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            357.31,
+                            57.02
+                          ]
+                        },
+                        {
+                          "p": [
+                            361.68,
+                            73.17
+                          ]
+                        },
+                        {
+                          "p": [
+                            347.05,
+                            73.17
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 290,
+              "name": "Tram pantograph",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "none"
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    },
+                    "width": 1.9
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            269.15,
+                            27.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            292.71,
+                            41.06
+                          ]
+                        },
+                        {
+                          "p": [
+                            269.15,
+                            55.12
+                          ]
+                        },
+                        {
+                          "p": [
+                            245.59,
+                            41.06
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 295,
+              "name": "zone",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  21.802500000000002,
+                  161.36501148730352
+                ],
+                "runs": [
+                  {
+                    "text": "zone",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Bold",
+                      "size": 35.0,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 0.16470589,
+                          "g": 0.16470589,
+                          "b": 0.16470589
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Left",
+                  "justify_auto": true,
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 296,
+              "name": "N87 night box",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.11764706,
+                        "g": 0.11764706,
+                        "b": 0.11764706
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            263.0,
+                            236.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            355.0,
+                            236.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            355.0,
+                            276.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            263.0,
+                            276.0
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                },
+                "live": {
+                  "shape": "rectangle",
+                  "w": 92.0,
+                  "h": 40.0,
+                  "radii": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "xf": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    263.0,
+                    236.0
+                  ]
+                }
+              }
+            },
+            {
+              "id": 297,
+              "name": "N87",
+              "kind": {
+                "type": "text",
+                "kind": {
+                  "kind": "point"
+                },
+                "xf": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  309.0,
+                  273.4
+                ],
+                "runs": [
+                  {
+                    "text": "N87",
+                    "style": {
+                      "font_family": "Helvetica Neue",
+                      "font_style": "Bold",
+                      "size": 48.5,
+                      "tracking": 0.0,
+                      "baseline_shift": 0.0,
+                      "h_scale": 100.0,
+                      "v_scale": 100.0,
+                      "rotation": 0.0,
+                      "fill": {
+                        "type": "solid",
+                        "color": {
+                          "model": "rgb",
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0
+                        }
+                      },
+                      "stroke": {
+                        "type": "none"
+                      },
+                      "stroke_width": 0.0,
+                      "underline": false,
+                      "strikethrough": false,
+                      "all_caps": false
+                    }
+                  }
+                ],
+                "para": {
+                  "justify": "Center",
+                  "left_indent": 0.0,
+                  "right_indent": 0.0,
+                  "first_line_indent": 0.0,
+                  "space_before": 0.0,
+                  "space_after": 0.0,
+                  "hyphenate": false,
+                  "mojikumi": "lineEndHalf",
+                  "burasagari": "standard"
+                }
+              }
+            },
+            {
+              "id": 397,
+              "name": "Tram wheel 1",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            241.564,
+                            91.22
+                          ],
+                          "in": [
+                            240.71503392211844,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            251.876,
+                            91.22
+                          ],
+                          "out": [
+                            252.72496607788156,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            250.01390254495493,
+                            97.5391588815725
+                          ],
+                          "in": [
+                            251.96696972164065,
+                            96.07858087724628
+                          ],
+                          "out": [
+                            248.06083536826918,
+                            98.99973688589874
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            243.42609745504507,
+                            97.5391588815725
+                          ],
+                          "in": [
+                            245.37916463173082,
+                            98.99973688589874
+                          ],
+                          "out": [
+                            241.47303027835935,
+                            96.07858087724628
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 398,
+              "name": "Tram wheel 2",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            258.874,
+                            91.22
+                          ],
+                          "in": [
+                            258.0250339221184,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            269.186,
+                            91.22
+                          ],
+                          "out": [
+                            270.03496607788156,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            267.32390254495493,
+                            97.53915888157256
+                          ],
+                          "in": [
+                            269.2769697216407,
+                            96.07858087724631
+                          ],
+                          "out": [
+                            265.3708353682692,
+                            98.99973688589881
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            260.736097455045,
+                            97.53915888157256
+                          ],
+                          "in": [
+                            262.68916463173076,
+                            98.99973688589881
+                          ],
+                          "out": [
+                            258.78303027835926,
+                            96.07858087724631
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 399,
+              "name": "Tram wheel 3",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            319.464,
+                            91.22
+                          ],
+                          "in": [
+                            318.6150339221184,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            329.776,
+                            91.22
+                          ],
+                          "out": [
+                            330.6249660778816,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            327.9139025449549,
+                            97.5391588815725
+                          ],
+                          "in": [
+                            329.86696972164066,
+                            96.07858087724628
+                          ],
+                          "out": [
+                            325.9608353682692,
+                            98.99973688589874
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            321.3260974550451,
+                            97.5391588815725
+                          ],
+                          "in": [
+                            323.2791646317308,
+                            98.99973688589874
+                          ],
+                          "out": [
+                            319.37303027835935,
+                            96.07858087724628
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 400,
+              "name": "Tram wheel 4",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            336.584,
+                            91.22
+                          ],
+                          "in": [
+                            335.7350339221184,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            346.896,
+                            91.22
+                          ],
+                          "out": [
+                            347.7449660778816,
+                            93.50626684837427
+                          ]
+                        },
+                        {
+                          "p": [
+                            345.0339025449549,
+                            97.5391588815725
+                          ],
+                          "in": [
+                            346.98696972164066,
+                            96.07858087724628
+                          ],
+                          "out": [
+                            343.0808353682692,
+                            98.99973688589874
+                          ],
+                          "kind": "Smooth"
+                        },
+                        {
+                          "p": [
+                            338.4460974550451,
+                            97.5391588815725
+                          ],
+                          "in": [
+                            340.3991646317308,
+                            98.99973688589874
+                          ],
+                          "out": [
+                            336.49303027835936,
+                            96.07858087724628
+                          ],
+                          "kind": "Smooth"
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 401,
+              "name": "Tram front bogie bar",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            241.564,
+                            91.22
+                          ]
+                        },
+                        {
+                          "p": [
+                            269.186,
+                            91.22
+                          ]
+                        },
+                        {
+                          "p": [
+                            269.186,
+                            92.52
+                          ]
+                        },
+                        {
+                          "p": [
+                            241.564,
+                            92.52
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 402,
+              "name": "Tram rear bogie bar",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.101960786,
+                        "g": 0.101960786,
+                        "b": 0.101960786
+                      }
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "none"
+                    },
+                    "width": 0.0
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            319.464,
+                            91.22
+                          ]
+                        },
+                        {
+                          "p": [
+                            346.896,
+                            91.22
+                          ]
+                        },
+                        {
+                          "p": [
+                            346.896,
+                            92.52
+                          ]
+                        },
+                        {
+                          "p": [
+                            319.464,
+                            92.52
+                          ]
+                        }
+                      ],
+                      "closed": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": 403,
+              "name": "Line slot rules",
+              "appearance": {
+                "items": [
+                  {
+                    "kind": "fill",
+                    "paint": {
+                      "type": "none"
+                    }
+                  },
+                  {
+                    "kind": "stroke",
+                    "paint": {
+                      "type": "solid",
+                      "color": {
+                        "model": "rgb",
+                        "r": 0.32156864,
+                        "g": 0.43137255,
+                        "b": 0.7294118
+                      }
+                    },
+                    "width": 1.5
+                  }
+                ]
+              },
+              "kind": {
+                "type": "path",
+                "path": {
+                  "subpaths": [
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            130.0,
+                            224.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            247.0,
+                            224.0
+                          ]
+                        }
+                      ],
+                      "closed": false
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            263.0,
+                            224.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            380.0,
+                            224.0
+                          ]
+                        }
+                      ],
+                      "closed": false
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            130.0,
+                            303.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            247.0,
+                            303.0
+                          ]
+                        }
+                      ],
+                      "closed": false
+                    },
+                    {
+                      "anchors": [
+                        {
+                          "p": [
+                            263.0,
+                            303.0
+                          ]
+                        },
+                        {
+                          "p": [
+                            380.0,
+                            303.0
+                          ]
+                        }
+                      ],
+                      "closed": false
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "swatches": [
+      {
+        "name": "[None]",
+        "paint": {
+          "type": "none"
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Black",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.10980392,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange Red",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.94509804,
+            "g": 0.3529412,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Orange",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.96862745,
+            "g": 0.5764706,
+            "b": 0.11764706
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Amber",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9843137,
+            "g": 0.6901961,
+            "b": 0.23137255
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.9882353,
+            "g": 0.93333334,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Yellow Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.8509804,
+            "g": 0.8784314,
+            "b": 0.12941177
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Lime",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.7764706,
+            "b": 0.24705882
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.22352941,
+            "g": 0.70980394,
+            "b": 0.2901961
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Emerald",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.57254905,
+            "b": 0.27058825
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Teal",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.40784314,
+            "b": 0.21568628
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Aqua",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.13333334,
+            "g": 0.70980394,
+            "b": 0.4509804
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan Green",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.6627451,
+            "b": 0.6156863
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Cyan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.16078432,
+            "g": 0.67058825,
+            "b": 0.8862745
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Azure",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.0,
+            "g": 0.44313726,
+            "b": 0.7372549
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Blue",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.18039216,
+            "g": 0.19215687,
+            "b": 0.57254905
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Indigo",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.105882354,
+            "g": 0.078431375,
+            "b": 0.39215687
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Violet",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4,
+            "g": 0.1764706,
+            "b": 0.5686275
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Purple",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.5764706,
+            "g": 0.15294118,
+            "b": 0.56078434
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Magenta",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.61960787,
+            "g": 0.0,
+            "b": 0.3647059
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rose",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.83137256,
+            "g": 0.078431375,
+            "b": 0.3529412
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Pink",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.92941177,
+            "g": 0.11764706,
+            "b": 0.4745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Brown",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.78039217,
+            "g": 0.69803923,
+            "b": 0.6
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Tan",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6,
+            "g": 0.5254902,
+            "b": 0.45882353
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Coffee",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.4509804,
+            "g": 0.3882353,
+            "b": 0.34117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Chocolate",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3254902,
+            "g": 0.2784314,
+            "b": 0.25490198
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sand",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.7764706,
+            "g": 0.6117647,
+            "b": 0.42745098
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Copper",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.6509804,
+            "g": 0.4862745,
+            "b": 0.32156864
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Rust",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.54901963,
+            "g": 0.38431373,
+            "b": 0.22352941
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Walnut",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.45882353,
+            "g": 0.29803923,
+            "b": 0.14117648
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Espresso",
+        "paint": {
+          "type": "solid",
+          "color": {
+            "model": "rgb",
+            "r": 0.3764706,
+            "g": 0.21960784,
+            "b": 0.07450981
+          }
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Radial White, Black",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Radial",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Sunset",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.83137256,
+                  "g": 0.078431375,
+                  "b": 0.3529412
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      },
+      {
+        "name": "Ocean",
+        "paint": {
+          "type": "gradient",
+          "gradient": {
+            "kind": "Linear",
+            "stops": [
+              {
+                "offset": 0.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.16078432,
+                  "g": 0.67058825,
+                  "b": 0.8862745
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              },
+              {
+                "offset": 1.0,
+                "color": {
+                  "model": "rgb",
+                  "r": 0.18039216,
+                  "g": 0.19215687,
+                  "b": 0.57254905
+                },
+                "opacity": 1.0,
+                "midpoint": 0.5
+              }
+            ]
+          },
+          "angle": 0.0
+        },
+        "global": false,
+        "spot": false
+      }
+    ],
+    "swatch_groups": [
+      {
+        "name": "Grays",
+        "swatches": [
+          {
+            "name": "K=90",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.9
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=80",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.8
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=70",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.7
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=60",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.6
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=50",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.5
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=40",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.4
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=30",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.3
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=20",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.2
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "K=10",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "gray",
+                "k": 0.1
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      },
+      {
+        "name": "Brights",
+        "swatches": [
+          {
+            "name": "Bright Red",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.11372549,
+                "b": 0.14509805
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Yellow",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 1.0,
+                "g": 0.9019608,
+                "b": 0.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Green",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.0,
+                "g": 0.9019608,
+                "b": 0.4627451
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Blue",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.16078432,
+                "g": 0.4745098,
+                "b": 1.0
+              }
+            },
+            "global": false,
+            "spot": false
+          },
+          {
+            "name": "Bright Violet",
+            "paint": {
+              "type": "solid",
+              "color": {
+                "model": "rgb",
+                "r": 0.8352941,
+                "g": 0.0,
+                "b": 0.9764706
+              }
+            },
+            "global": false,
+            "spot": false
+          }
+        ]
+      }
+    ],
+    "graphic_styles": [
+      {
+        "name": "Default Graphic Style",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 1,
+        "unit_box": true
+      },
+      {
+        "name": "Black Outline",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "none"
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 1.0
+            }
+          ]
+        },
+        "id": 2,
+        "unit_box": true
+      },
+      {
+        "name": "Heavy Ink",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.105882354,
+                  "g": 0.078431375,
+                  "b": 0.39215687
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0
+                }
+              },
+              "width": 4.0
+            }
+          ]
+        },
+        "id": 3,
+        "unit_box": true
+      },
+      {
+        "name": "Sunshine",
+        "appearance": {
+          "items": [
+            {
+              "kind": "fill",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.9843137,
+                  "g": 0.6901961,
+                  "b": 0.23137255
+                }
+              }
+            },
+            {
+              "kind": "stroke",
+              "paint": {
+                "type": "solid",
+                "color": {
+                  "model": "rgb",
+                  "r": 0.94509804,
+                  "g": 0.3529412,
+                  "b": 0.14117648
+                }
+              },
+              "width": 2.0
+            }
+          ]
+        },
+        "id": 4,
+        "unit_box": true
+      }
+    ],
+    "symbols": [],
+    "guides": [],
+    "grid": {
+      "spacing": 72.0,
+      "subdivisions": 8
+    },
+    "raster_effects_ppi": 72.0,
+    "images": {},
+    "next_id": 404,
+    "metadata": {
+      "author": "",
+      "authorTitle": "",
+      "description": "",
+      "keywords": [],
+      "rating": 0,
+      "copyrightStatus": "unknown",
+      "copyrightNotice": "",
+      "copyrightUrl": "",
+      "created": 1795443693,
+      "modified": 1795445626
+    },
+    "last_view": {
+      "name": "",
+      "center": {
+        "x": 200.0,
+        "y": 192.1704957678347
+      },
+      "zoom": 1.2723076923076924,
+      "rotation": 0.0
+    }
+  },
+  "images": {}
+}
+ VCBLOBS %PDF-1.7
+%ÄÄÄÄ
+
+1 0 obj
+<</Type/Pages/Count 1/Kids[12 0 R]>>
+endobj
+2 0 obj
+<</ProcSet[/PDF/Text/ImageC/ImageB]/Font<</f0 3 0 R/f1 6 0 R/f2 9 0 R>>>>
+endobj
+3 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/SUNWSD+HelveticaNeue-Bold/Encoding/Identity-H/DescendantFonts[4 0 R]/ToUnicode 14 0 R>>
+endobj
+4 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/SUNWSD+HelveticaNeue-Bold/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 5 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 500 1 3 556 4 4 685 5 5 389 6 6 352 7 7 258 8 8 537 9 9 371 10 10 741 11 11 574 12 12 611 13 13 593 14 14 258 15 15 741 16 16 574 17 17 593 18 18 906 19 19 574 20 20 519 21 21 556]>>
+endobj
+5 0 obj
+<</Type/FontDescriptor/FontName/SUNWSD+HelveticaNeue-Bold/Flags 131076/FontBBox[-10 -16 848 731]/ItalicAngle 0/Ascent 975/Descent -217/CapHeight 714/StemV 168.6/CIDSet 13 0 R/FontFile2 15 0 R>>
+endobj
+6 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/AXJYDW+HelveticaNeue-Medium/Encoding/Identity-H/DescendantFonts[7 0 R]/ToUnicode 17 0 R>>
+endobj
+7 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/AXJYDW+HelveticaNeue-Medium/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 8 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 600 1 2 556]>>
+endobj
+8 0 obj
+<</Type/FontDescriptor/FontName/AXJYDW+HelveticaNeue-Medium/Flags 131076/FontBBox[24 0 562 714]/ItalicAngle 0/Ascent 975/Descent -217/CapHeight 714/StemV 119.8/CIDSet 16 0 R/FontFile2 18 0 R>>
+endobj
+9 0 obj
+<</Type/Font/Subtype/Type0/BaseFont/VDYWPH+HelveticaNeue/Encoding/Identity-H/DescendantFonts[10 0 R]/ToUnicode 20 0 R>>
+endobj
+10 0 obj
+<</Type/Font/Subtype/CIDFontType2/BaseFont/VDYWPH+HelveticaNeue/CIDSystemInfo<</Registry(Adobe)/Ordering(Identity)/Supplement 0>>/FontDescriptor 11 0 R/DW 0/CIDToGIDMap/Identity/W[0 0 500 1 1 722 2 2 537 3 3 556 4 4 315 5 5 333 6 6 537 7 7 222 8 8 278 9 9 648 10 10 222 11 11 574]>>
+endobj
+11 0 obj
+<</Type/FontDescriptor/FontName/VDYWPH+HelveticaNeue/Flags 131076/FontBBox[9 -16 682 731]/ItalicAngle 0/Ascent 952/Descent -213/CapHeight 714/StemV 95.4/CIDSet 19 0 R/FontFile2 21 0 R>>
+endobj
+12 0 obj
+<</Type/Page/Resources 2 0 R/MediaBox[0 0 400 334]/BleedBox[0 0 400 334]/TrimBox[0 0 400 334]/Parent 1 0 R/Contents 22 0 R>>
+endobj
+13 0 obj
+<</Length 11/Filter/FlateDecode>>
+stream
+xú˚ˇˇ ˙˚
+endstream
+endobj
+14 0 obj
+<</Length 445/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmìMo£0ÜÔ¸äŸÉ•Ùê≈@
+iEJIê8ÙCMµ{&ˆ$k)ÿ»òC˛˝ '≠V{ ÙÃágﬁÒ¿~ºÊ[ié8/~r¯¿—LV‡º~ÈÜÑ±ùSè⁄Ω"Jî7Ô∏Ç¡1¢É∫›µZπÑ±VãÀ$ÒÛøêg<+˝‡k@=çŒÙ	cü ]p32@Ë	Zâ⁄)w˛ê0ˆÌ®å^Añ0∂◊≤6ΩonL“X“wkƒúîñ6VÇ£Øõd9H%\§}7Ñ‰√utÿ∑˙d††(91  ˝¿≥ùΩ¬,4ˆ O‰y≥≠“gò›ö˝Ê<L√pAﬂ$`E-√7ı‚_ª!çÇÔ÷®≤/”Áu¿x@˙˚≈»d‘¢0«°h;}∆dÕ9ÁX7M”l|≈¸yL;ûƒüŒÜlkŒã«M†ú®"*à8—"–"#zTÂD%—Ç®
+T>-…W= ¢-ùπ'z¶ºX°&äë;¢π'™â:e(Û‡º§zÈ´H_F˙ È+£èÙU["“W,√„º¸@˝ﬁ‹oPL÷¢vam¬u˘ªQÔ˚7ò¡gÖ',ÓÌÙ÷¸BY –
+endstream
+endobj
+15 0 obj
+<</Length 4125/Filter/FlateDecode>>
+stream
+xú≠òl[◊u«?ÔÚá$ä¢≈_íHJ§(ëíHä©mÀ≤≠vÌ≈äUJ™¶≤%Y™eÀµeß^ìÕ€“¶qW°k7∑iÎ∂hã`∫BÇÏÖ⁄†∫∆+Paÿ˙«¢•EÄ`ù;k›kS√Ω|R‰$ËÚGà<º?Œ=Á{æÁú˚PÕ5,dO_Yé<¸Yˇm‡y`«‹Ö3ÁÓæˆ‚∑Ä_Éµ˝Ã‚’πoá>ˆ$ÿBP{`~vzÊÓ∆ﬁoÉwËõüüù∂}÷Ú‡˝2–:n˘£]ØàﬂÅ˜`bqÈÙt«≥mÛ‡´∫ŒMÙÇ±uÅÔ 9?}nˆ˛ÍÔß¡7∂/^X∫¥,jƒ+¥˜]∏8{·ïÔå=¡„¿Î^ŒÒq>ç<LÁ–ÜõpqK∏¡À2gyå˛òõÄ{„}‘.q∑©CU„ﬂ—¥ïIC€¯∏1L¯9™∞<Ù¡¥ÅñäDFÜWµ•D @Îå¶,©»Ë™•mÙËDl2r=r˝‡Ãı»hd~zf’⁄¶æèNƒfØOf"´õXà¨r|"∫:4‹g''i´‘cUzÆOFF#65|Xi∏>ôπõ6∞•EV-ÒÒâ˚'VØWáÜ'É—hddıÖÒâ’ÜÉ—……¥Å}À“Hd‰—Öz”ÊäîÅΩ3mPY÷rlbıZpuhÚ˙uÛóàGW_∏~=x=6YâEs¿@≠±¥ç⁄–∏öäEÉr çE'É—…·¥AUÍ–±âë·`4*-qºRÜ∑AZΩRg †ZAZÛAÍz7ê÷æ+HıwÜ‘ù2–%§uÔiÏ˜ ∫50Ù_+#|Ìˆ‹É∞˜˜#Ï€é∞?e‡Sﬁ#ÑÎﬂ¬Ô
+·∆wF8ò2hîá∂
+Æ≤·koî˜Ú6»∏±hØà"*@ã∫£w‘≠=^˙πVˇ`)#*!º{P¸h‘m¸J4äÁÈ‡Ò"Õ8±$öıΩ6˛'∑q"¶ˆ©¬IN:p2ÄìÉ8ôƒ…NÆ‚‰	ú<âìßqÚN^ƒIÕîArù"nïZ∑^DVn)kzëV*î‹™ißÇVw›@∂[ÎçZÚÉZ>◊$|^óàµƒ±&Kﬁ?(z{∫D¨≈^ëË◊~]∫:rÕóçáS››úem+ZÚ¿Tæ˜Écù·˛ÒûŒ}acóKèÜÉﬁ÷l∞±ª-0êÌ?∂#®µOıuø(ﬁ_Ebê aœ„§πH•iT•éAE¶à¿¢ÑÆlÛEÌ¢"?h∂RãvxÊcŒ/hÕ'ƒæ?|ÏjÈÂõ£_ˇ üﬂ∆∑ê‰üRÉt∆ •‘Ø‘gXﬂƒ¯Å∏ÏE¿(pòÆ ü n Oœ? j¶ˆ⁄¯W‡Uy‘îAZ7hY7p≠´∏π∏çk3n.p—Åã\ƒ≈$.pqO‡‚I\<çãÁpÒ".j¶(‚!¨ºˆËE&$	=€ÌÈ¥ÊsM÷rh∫D¬€$ÚπÕÿ∏ƒ74ª´!∑7÷ThV_&ïÏÚYW:Fßzzß∆::∆¶z{¶F;¥È∫|_ogccgo_æÆÈƒë;éúhZ¯ÙÒ÷÷„ü^ò˚î¸˛îtn„5œà[X®¶k∆¿ñ1® ¡¥]F…ÜUÒ'®Â=-ﬂ‰µﬂMâ˛¶Ù´ØÏ–™˚æQ˙çÊ’Ï•◊¥gÔˆ}ı´‚ñä}h&<¯Ë.‚3…È”ƒöÅ»`†eä∏®T.ΩàóJ\Í$è;ﬂ€3(Ú9†7.ùØàıˆ≠∏¢}âöê√Ì
+ÊR-!lw_ˇœÿÆt£E<f”√ıRÁ⁄7^◊éäØ—¿1ô¬L
+I3˚ZYˆØôÁ{Ãƒî—∞bS≤U7`Õ¿©‘Æ‘JdtÉ¿Z∂€”Û≈|y∑
+N_ØKãµƒ{›˘ﬁ€+'O6¶wF}©:áﬂŸZ?/l_˙“C•'≤çU¬r^à˙VçáÄ*‹+ËªÖV”¬MK´÷ëqŸûﬂ ä∞ÊŒª∏≤"N\æ<~˜uaìæá7ÓhoúìA‘∞$ã4ôÑk“¬∫Aı∫,
+∏Î⁄3æıÚLvÕ õ)Ø‹)ÎK/vµµW/3kML'Z/À·ılwø¨#&W]ñÕÿÂª,2x>oì4iõƒ˛Ê„"πˇd:ub_G®kgsS!“!g|áÂqk«‡ëŒŒÒ°Ñú8|¢.≠ı%ö<›3“YÁÓ…∑vGΩŒ⁄zèÓqX¬Ÿ=qΩ∂m(◊íiˆTËëàß°∂¬·ãJ◊7~ªÒ?⁄âóø»»xgª´¥º¶9K∑?¢ƒKw}‚
+¶_∑®Êê,Óe†-zë
+ìû∫¨[é5GôªÂlëze-≥öÄqòíb±;ØÂ›1wL˘ú–:n~Nî~"n›Ì”^.µà[•®ˆSTMãl‹ı¬Cí!íﬁd∂{ØÖ,ïhS{-Ù€Ü–¶ÿk°èùhSûAã™ÊnØ?Î“íç]¢∑g–û0+z¿e©pYdT|≤ñ‘âdb|_g•„3Võ÷ÚÅl€P6ÿ‹Ωgh0“j¢ûŒ¨µXlnqÎÕó´>‚ÓÏÚ€¥π‹ævwud S∫“ù5±P]º–ûhq;ÏŒÄ?¨µµv.TVŸ≠ã√›Ëı4÷⁄CâvßÚ/æqGÏ<$dÕñúÎ»¥Îﬁ5Ô{Z≥;tÉ¶uGπf;∏çc≥f;h¿Appì8X¿¡U<ÅÉ'q4û√¡ã8 5ªñEÉZïÂ*+◊lÒf;}{Õ~∆Œ∂∂váùŒpwkk6Ï\âèû⁄Ω˚Ùh<>zz˜ÓS£qM4ÔÍ
+áªv57ÔÃÑBôùÕÉ3cÒ¯ÿÃ‡‡ÏX"16ªYKEPxÛEê4¿Øq ˚^≤\™¸[µµ¸ª~›‰©##o
+ˆ≠õÇ;Ó-ÜˆÙÂs~ü åëï∂ßêo_qwHüZdù’jèåÏ*≠kÉŸ#˝Õi˘ÄÜ∂≠ñ∑ÁçÅmÛl2ÂS
++í˜™5‹ìocE™Õ}’zª	Æ,0’¶?≤ÙV z]ŒµÕ‹ìôVæ?8d$‹yw‘-s-Íπ©Eoﬁ,˝TeZOÈG‚VÈøµ:yÆ‰a´–¬GäÑ®V€C∫b^?!‚ÑË#ƒ(!NbéWÒ	B‹ ƒSÑxñ? ¥…ºØBHû–ï Är%∫Â
+ÎŸnm[5î≠#∂ï¨"ü”n| “πˇD◊ûS√±¯t·ÃcÆ'*˙Û—Æ†”ÓjyP;í;ÿ]ﬂyËÃÆ¬ÙhbÒLv†)SÖwv7ó˘±qGÖ≠ÃáÈóC{wÒ≠¯$ÑoÂá]ﬁmïµínÏäQwÃÌµ´€lyyüæï •_Jzh≠•ÔgèÙ7µßîπa“<Z$m∆8≠—©Q≤Æ	õMEvtÀzë6j–Uoí£ôM+]É`F∂ÆrIn7K≤tI -krk%Ì™
+ßL…‰∏ô¶oÀÑÔ“ ¥/¨¯õ£éñX≠X©µ55≈Í¨+°‹hGﬂëÄÔ˛Ó¸ëê∫qh©x¶°*OJ/kë˙L[¿€“’XzI{ 7ñÚˆ¥d„©ˆQYÛ¬&◊*iaOë*º Ï*›@[£Hƒ¨)]÷˚V}—Ãîñ!j0˚´ìÖﬁ_Ì+◊ï{8◊>˚Zu0›“ìˇwÌ≤5¥Á‘æù”£Ò∂·Sª'iz¥b0πkH+‘∆[;>≥Î¸…|Á¡ô¬ÆôâÒ©˙‰`9˝†˝Rÿ®"¡õáÌ…®Ç≥ïåŸÓ~_¥7*/ÌyøˆRÈgZMÈÔŒû=´eŒû≈Çk„éh∑®•õ˝⁄të•*ßHf UﬁÂì#Né>råí„$9Ê»qÖü «r<Eég…Òrõyó„Urà)…® 9≈Ω‹Iﬁì∫//§eΩE
+8ù
+•Ω¿m
+õ⁄4P†É8HÅI
+,P‡*û†¿ìxöœQ‡E
+Í	.™∏æ©wDﬁ∑ˆR–Ï—e ÿ∂R¶Ü^%◊®[r/5 ®6S⁄ﬁád≤&º˛Äœ•m5˝ûx¢wP€ÏIYﬂlYﬂr7%|—é@ÂÆtrËOzÚ{F“á w}È·=˘|}ˇ{ì«˜w~‰@OC2Í©ã&∫¢^≠TﬂZ_„mä∫“ôL°Á>ó®}`ˇ¿—æÜ`ﬂ—˚t	˜}=ç{⁄Î≥J_Ï–õ:SÕnws™Ã7ıˇèÒ≈œ?TªÎ7ZÉÂÁr¯Ÿ˝ˇ{X~øz€ˆÛ7Ï•f€MÎeïBéñ˜X~ºë l[√^zÿvSi⁄˛Á◊~ç[§®)"ÖO¸Ì∆k⁄«È”>Ñ]DaÌ“∆o≈´åàA"‚4qq?}jÆ<¶~[ÆSÉÑE~ë¬•Ó%_‡˚⁄úvC˚g—"∆≈OƒYRñ/[wY?i˝¶ıg∂√∂vø}—˛óﬂ4}ÙsÉ*Œa5=híe¡⁄éEÕ÷Ò≤î¨rVæœî≤Å´í+T™ßY´¿⁄Jù)*≠}JÆF‡∑*Ÿ©∆è+YGPg˝Äí›j¸ºíÎ§~Î%{î¸àíΩJ˛S%˚∏¨üTrßıÜí√oÆ©T6[ø.eßl1ï÷ßîÏP{ø˝»Áø¯/å2Àå˙\fô˝,qÅ´\dÅ3Ã≥LÑvN”AÑnÿA7©-9∑MŒoìà0ÕyfÃësˆ0úgâeÆrÅYs‰ôÊ"Wâ0∆9NqÄK\$¬À\R⁄ÊòcÅEòfYŸ¸v}i0À"ãD8ÕÁ∏†ÏX`ñKtaØ9˚¶R˚E5?ÀEÆ(Õ]8ppúye„åZ+-ôVª•ù≥úW'Ãòñúcö”Ã+{fMç”Ã0Õ)’»%ñòcôáïØrdŒÙÒï¶ÀúV˚œaŸ<˚∏ÈŸú“/≠å(§|^Ÿ,O_fâWY‚≤¬LÆí∏<ºMS˘©Î¢¬K"<GD!∂†¸X‰îö=£>#sQŸtVywiõÁíc€¢ºßÌ∂IÔ.©∏oÆíz‰…ÂòE‘ye¨∂c }íª.õ˛•Ã\‚ãJ√ÊË9µgA1„ﬁïßYdiü2ŒÀäg“≤9Â·Esˆae˝ºBoyb≥|TŸ%Qóæ=¨X#≥§å¿4LªØ(fºàñô˜ˇg·é≠l ªMŒ+=3,ôÿ„*óî≈ÁîMﬁ^‰Ç˙‹Ã•ÌπqÙû‹8˙∂‹ÿ«ãÃ0Œe%ï≥rûiÖ√ò“ziÎ[Óïò-e◊≥odë}Ò˘7ûYˇ—3úT„Â∫s≥ú1—]≤˙≠;¨C÷›÷C÷ÅG>‰ò}¿ﬁmüΩÔûU”ÍyU˝m|ô‹[˙ãŸeÄzÒ– 	ﬁœaNRG7√Â~éêdî	∆9¿AêœÛö|C†„Ojﬂ√MÇf©C>áíﬂ£ém˜åH’€◊=\di#B`kQ-=$Ô—ÈºGÚ∫`%(ØÂwÎ9*ã∂SZe)ﬂ≈Bª∫í÷QM]ÚªXi%L 7Íí|ç<ùD	‡Rù¥To–Í§NV‹Ú•·ÊI$˘?ÃçÖó
+endstream
+endobj
+16 0 obj
+<</Length 9/Filter/FlateDecode>>
+stream
+xú{   · ·
+endstream
+endobj
+17 0 obj
+<</Length 349/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmQ=o√ ›˘◊)R„§SYjùZÚê≈U;;pvëb@Äˇ˚
+l'U’–ª{wÔ›AüŒ’ÍUË+Æ6œ.Ëto9ÆÚCm•{Õ˚ï?"
+s÷m¡XÕz»À}©§'îñäﬂzÅ3Á? ∂R=AÚﬁy›J?§ø·c ¢'(*/˝ lI(˝DÎ§V[H	•ÔJ‰∫ÊI&HŒVÛ
+=4R	;)¡5ËítBr?°xÛÆ6±∏ú«ÆTçÜÕ»Ωôò  …[Èº`ç-A`3fNV†ï™Ö≈lˆW≤Íçπa0	,FQâ¯&a¯c›!$”¿˜Ë4%§è–«`pjê|¥òA:Z‰Z†35G[´…é1∆2ÿEQdAÒO~=V]˛]€»N3ÿ1∂I≥à÷#zâµ+t	À∫€ÊΩµ®|‹UÙIÖ˜•mBU<Ò∑ÊèËT¸ ÌAÃı
+endstream
+endobj
+18 0 obj
+<</Length 1530/Filter/FlateDecode>>
+stream
+xú≠ï_l[’«?Á‹k_ˇI\ﬂ$Ìíπ%◊rBÇˇ'i`]Ov÷*
+d-ïÏjqöPá¶iä`[Y¥ø»htàÒÄˆ04¶niC7mîFB¨B–MÏiR7âIl{Íﬁñd:«vp#4ÒÄ_¸˘}Ô9ﬂÛ;ﬂs}å Ç¨bê~‚ÈÁÏ;ßÓ÷Åππ•3ãl¸‰*à.ê9SzvÓ◊ºvˇ˘ﬁ|qf÷∫xÔG‡}ûü/Œ¯ó-X ]Ûã+œòØr¨. P:˜ƒ/â_Åï|ã3œ,…∏Ø¨˚ Á©ô≈‚Å{∞Ú fóŒ]XŸyü„‡S˝Ù.-óæ˜õ·
+¯>Èo„4%2ƒôÂ«ºÃ?ÂÀ!Œ\‚e¶8≠U∞…ÏÑ∞ÖüÁÑè±.·Ü¥AŸd(±ÃQ¶∏§ÔdI!y\HN∏¯ßÚo
+Òb¡;?t…Z√èÒË#)ëtú‹B∂"Kπ»§ãàGS.F“Ø›„'Ú±ÇSv «gÀŒ∏3?3[1ªı˜â|¨X.Ù9NÊú
+Á£ï±BdãÖ¬)S˘ò⁄ß\p∆ù'kOjár°o+Â‚IN8„Ó©¸7Úï’l§2ñ-D¢Q'WŸú W6≥ëh°êrÒÓvÍ8πKÌµû≠§ã7ûrÒU]NÊ+´ë X°\ÆV±he≥\éîcÖzÌ
+ˆ
+c5¡E›9W¨NÈG´±hD	±h,ZàDŸîã?9q2üÀF¢Q’X‡ˇ'lL∏)È‘	7A	á>O¬˚>W¬·œNÿN∫ÑU¬-ª	èE*4&º∫'Pæ»["WøP… »yãió@¬≈◊ÁBüã/Ï‚ΩÈ‚Ì[√†˜∂·5<Ùﬁ∆%ñÀªò}ë5L˙G5¡£â—¬–}€≈Ø!ËæùÓÔ∂£∂∞£∂d{VºøÕÄ\ÿ˙ô|ekXﬁ@0‚πNÄ◊∞‚√L®^ÉmßZGñ,ˆèÆÇ f"cpb:cêÇÛﬂ≈√e<»ÛÉŒ™jF}‹QÈ˛÷ÅQ92h«ÏÿPWv§«;}Èä<÷t0Èle≈øuNÌ rÉê8{çfÇàÍ¢óU ÏT.#Í–åòviªxn∫à∞ãuS?TGî>Ö‡Ó–_Î™}6ÓUÇ∑∫ÒêÍ 3·
+ª†|;ë’U†|ßÎ∞Zá/c Œ´ìqÒ©I©•´˘Î©πL∞ö⁄-›ôˆ¨¡“˝"c®s´ä„uò´√[
+î√[¯Î®¬üÇZíå≈$R7ªàƒP”'Uü”≠Év¨5∂?6Éˆ‡“áÚ›”•ÌE≤tZ o/ø˛˙yÒÀÌ¨z‘9}ÌG◊Æ¸·—}G˛CáÒâz≈◊?˙¯1ı˝èy>Ÿ⁄‹˛ªı∂˘<‡G*Uø=ÏÙp»˜Ê÷ÊN z[;5~§Ã3 ì©∑ »Úíò”£æÉ≈”Xµ9m™À¡‘µÕü’Lâ©G”ã§	S≥Ö$LX≥øA"i√—‹Ñ$¿aÕaÕ£ömÕ«4∑ ÒrBskÉO[–„Ûö;êÑx\Û!≠/)ˆU˚¸ñ‚&°ıÁ44?ˇ`ÍÁbí"≥,pëEé1Câ«ô£»
++LP‰gY`âŒrÅãLrég)Ú‘ÓÃsÈ[Èw“Ø•ë˛€Ì+Ê{øeíVüòQsÃ2õ_5Ô3ÔØÕ(Rz0ıÌ„ﬁú7Ó=ÊÙéÏ:Õ‘œpÁwÍ˚åè°œ‰KÍ^W1È°)!Æ”C?=trÄ–í∏N/yæŒ=®)˜êcò8wÌ*qíwÃ‚:]å÷’ç∫9µ«ËnÔúvï&v¬%V˝ÉpA©Íì™œ`6“O/ùt∆óÿ†âo2¡Wà”°ÎfæOâá9BóÆCÙÂ -Í˛Ll∞è$]§ç&]áÈÊ.⁄±	Ë⁄&«˝$qh’u£–√!l]∑2LäÏ”u=8t‘¸Ÿ@Ïô $NîvB∫Vó‚8√Ù–ÆksO√FH6,‡›≥kO√æ=˘ÔhhÉ¿qï˝XX	™Iˇ–hN
+endstream
+endobj
+19 0 obj
+<</Length 10/Filter/FlateDecode>>
+stream
+xú˚ˇ 
+endstream
+endobj
+20 0 obj
+<</Length 397/Type/CMap/Filter/FlateDecode/WMode 0>>
+stream
+xúmíMO„0ÜÔ˘≥KÂ–ç”†UU	ër *ä‡ú⁄”b©±-€9ÙﬂØÏq jµá$zfﬁ…º36˚µ€O§9‡t˛õ√;z38Å”˙•≥cOF=Íä(QéYøÎå†nüZ≠B¡X´≈yê8j˛'yƒì“?ÇÿÍ¡”å}®p∆5L( …¥uP·¸¶`ÏùWFØ°*{÷≤6}4Áã2˜ÄrÁåÿcÄ£““ÂNpà}ãjRâê)ΩEﬂŸTºø¯Ä}´èÊ§íÉÕJ ÄÚO wÅI2vèîysù“'òåfˇJÓkœMOQ‘2}À8¸k◊#îy‡k4O	’OË„b1ˇ†¸z1rÑä,
+#—€N†ÎÙ	ãÁúoa”4M≥çˇ…WπÏpﬂùKÚjŒÛm¢Y¢€%—úËôhëËnA¥$ö›í≤"∫#™âÓÕ8—*—2˜{ ÂäËëà¨gèqàxV◊≠â¡9‘!UZQ‹á“x=skl¨JO∫,„ΩãÙ÷¸–:Âã
+endstream
+endobj
+21 0 obj
+<</Length 2938/Filter/FlateDecode>>
+stream
+xú≠ò}l[◊u¿ÔÚC%Q§Ù®/RÙ£©oQ¸Mâ¥,Ej%[äÏƒñ≠Ñt"ª˙ñR…$≈∂Äl3V4´’m(ä’Ä”°(ˆGäC°É˜§hÄMìeÄ0tÿ∞
+≈Ä¡AóıèslçÌ·^>)Lbt˘#DûwÓΩÁûÛ;ÁûK(Â6‚3◊7ç⁄K|¯P;ø∂∞Úﬂ˛+‡Á`o]Xﬁöøπúªˆ°xqnjñ+oáÚwÅÓ≈≈π©¢s.Å€4.ÆlﬁÙiè¡›
+ƒóWg¶**À˛‹Y†~eÍÊöËu¥Å{0ÆM≠Ã˝Á?›Ó?«Ø≠nljÁ¥Y–‡‰⁄˙‹⁄ù
+#	˙ã¿9t∆∏xü§T8(Ô‡5!2fRr>˚M˚”ú©=˛™9D√.%ÿÆ^È4—"Ü1º4¥£}©”DDL¥ˆPßâ-búﬁ±5ùœÜs∆∂±=:ªmú6ßfwÏMÍ}<û€Œ≈å.fóå.eC;9ˇë8óÀùÏ4±K;veg;gú6^≤,º§,lÁb;Më1c«÷|>{!ªsk»ø30îÛáB∆ŒõÁ≥;o˘Cπ\ßâÛ»S√˛Ω•ZÀÁ¢àâ≥Ω”§8oÂbvÁñg ∑Ωm=âÊ–Œõ€€˛Ìp.Ø	áLKa¢ÊÿöÜMm‡ºá¸RÖC9(7‘iRªòÚáB“◊ßê2TÄ¥¥iYƒ§T!-ˇúê∫?“äœÑ‘Ûd§ﬁàâG"≠|2“Ô z§x·[y¬∑û@∏ÍcÑıﬂMÿWH∏:b‚SÑk>'¬µüÖp›g"\ˇd¬˛àIΩ$8"<‡ﬂ°ê≠O ÂsGﬁPÄAM{W¸EÃôË&≈1b&≈Áæâ3∂ã¿ˆ¿œ.v%ï`¢gMÏ1øT∫˙sñ¬!ÏRa˜Ï‚Åâ√#çàÒÑÚÜ™º!Øv˜—ﬂk…‰£Ò⁄√oâª3‚-4: ˛R¸Ç&VˆRä≠√$ËÙ„$H5Aö	“Mê”yé ÛπNêW	rá Ø‰A~JêÚ…AˇHê˚ìÏQáGô¨ÛÏ·$¨dß'û–íQ[¯∏[¯Ù†Hvu˜Ñ›∂Ò®HùË…Æj1tµ¯ƒ3≥ÈÒ?òà¥çørÒˆw‹Wm¡‘hl‡≈ﬁ@†˜ÖÅ±Ìø2œüˆŒﬂ~ÊôØÕfÓ¸Q‰lœ±¯ÖïæÙ‚Ö¯Y$ˇFÿÑÕº∞áŒ1µΩÓŸ√Jˆy‰≥â∂/iõîÌõî≈ÿ£ÇF5°¬≥G=N%◊{ˆ––ï¨yLÂÇI∏ﬂñÏ
+äö∞[ìAÙÑ∫£B¥%ª∫µÔ=˙'Q›ú
+©ñöKóJáª€˚[+5Ì+¬◊Û¬p*7ÿ(éıø–ü›‘NS≠55-›ﬂOvb}«cãŸLÎ»toÔÏHkç–~-º‘0ºáÕä¿ÊŸ√mÂÕÌëœ&æ}_lèj9«[ôëµìÅÌQE±öZÂâ'™ºIoû∑OJ“Á¢pj`¢™9”íHOx€áí)!´5Ü{#µÈ¯£ø–.µwÆåÉF	h‚ª‘H∫ö¨Yå∞*Y˙R¥üÆ90)ﬂœèÎ˚ #IπÏà≤áíÌˆeÀ@‚â™Tÿˆ%ΩzPÙj)U$ﬁdÍﬁD6ÎnàÖ[Ù:∑cA8æ˝Ì±G”©-≥π*+¥¡1Y}†ùU∏iëÃ4ãYﬁóÚòÂGâE•$OEUa™ŸYNıMËëë‰Âcä√{]Á∫ó≈©ßVÎÀ%ºƒ˘Çˆ¢<À?$ççrj;~H;6j®Ì0©Òò8d@±A/N“Tì¶ô4›§9MöÁH3OöÎ§)ñ'Ë´§˘iƒ§I⁄≥ãÅÌ¡Æ¨ﬁ“⁄.qK2IÏõ$b&Ìì°£—$[B≈G=BHÖ»˜•(ñäb©ÿ√Å†…[ô1iÚÏ@<tpõ wÂ√‰†ób‘†ï iå KÄE‹$@Ò§\krÏ@Êzó®¥·•à(5Di!JQŒÂy¢,Â—|¨ØÂé\1πG‹ÚdèƒëO}˚ÒDì3|º9ï?\27=˝∂î*WgQ8Ù|^Ω:Ÿ’”‚v‰JøH	WuK®%<Ÿ~*Í&û
+Öüä|°6Ω{ƒ6!OùãÑá”«ãÙ“ämœâÃ…hÉ◊ﬂ®∑üjÆÂMÌÌMû„=-ët∏“YTT^W8^ÈlÀƒø–VÈ:ñÓ|Ùﬂ¡Ä„≠≤“¢Ω…5T◊Ñ€*Ûı6º&ﬁë…/<£÷	$ñ?u√‚ùá›‚ù¸ö¶«àÒ2¸âÏ¡˘.ÙÏ—f5õ6è|6)=t/Ëºè.3„ßù:t53ÉŒ(:9tñ–ŸBÁ6:w—yù]tﬁFß|“§Î oµ˜@ıË∆Ç›Û§ÌÙÈn°á˘ûà:≠n≠˝«e—vÊJObr4“28>1>ÿbú4Zœf¬ócæ|*1s>iÈ˝ù'ÉO_’˛ßw"]_ó|∂;1ÿVWUŸmjÈj(”€;Øˆkí2©”QøÓ≠oÖcÅ2	Q¿∂àÿß;é›Í.NŸ]jBø&Ou*‹†yìﬁ◊&&ƒÙ‚‚‰√ﬂ
+«·Æ^™h·ÔLZc&m1ìV’•Ltô¥u¢⁄i≥¸ﬁúûÊÅÎ¿´¿‡u‡S8º·æt“ „Åâ+üGÔ„:Ã£ã:\¥·"ÉãQ\‰p±Ñã-\‹∆≈]\ºÅã]\ºçãryøVPw‘A√VÀxUjÇ‚0o-•M]Mø_ÈÖz#uáÔóçÅ+}˝ìÜ10Ÿﬂwe¿–Dl¥´ææk4M‘◊'FcôÈ—∂∂—ÈLff¥Ω}tF’Æ˙ˇ∆VÔ◊ØVú˙çÊµ˝J¶Íﬁø$ﬂ∏ˇæ„Wé>:VÙ{
+(A(µZc3w(˛¡á£èn˝DY*¸+”êˇ@á®£QD–z)—Œ—'ü˘%√Z5àØ—$e—O#0¬=-®Õk¶ˆû¯¿Ê≤πlﬂ±˝Ãæh˘Y∆JXƒnyîÈ∑∑™K*˘•îÏrTÊZ Nny˜£Ÿãî…„àf/{£l J∏ÌCJ.E‡±è+π¨`æGÈßïÏE‡≤Ø+πRÓeE…UjŒ*Y/X[] ◊©Ωæ©‰ÜèÙ≈ g˚w•\&E±˝u%ªÚs^™ªvÁµüÛ,ÎÃ≤ƒ5ﬁcùgXeù¶XÊã¨≤∆Î,±¿"õ¥2C	2§I9íª
+‰dÅú¡`äkÃZöå5zVÌπ &[¨1gi¶Ygäu∂08√
+”å`(üñÿdCYõgû%ñYbäMÊîÌO⁄ÎdÑ9ñY∆`ÜUVXS~,1«Q≠—è‚ì÷◊’¯Î\Wñ£∏pqâEÂ£$µ†<ëÑñïüs\S;ÃZûHz3,*Ê,ãSÃ2≈4ÀJ≥¡*ÛlrC≈*5ÛVåk¨+K/3£÷/`∞iÌ}…äl^Ÿó^äÅîØ)üÂÓõ¨b∞≈*/+frñ‰r£¿R~ik]ÒíÑÁ1±%«2”jtAΩ±Æ|˙≤än£ ækä‰ôÇ,Ê©–7›Ü ˚·,iGÓúœô°ˆÀ≥*d cí´^∂‚ãX9ÿ`çee·Pª¢÷,© ¯¯ÃñY=‚ìÁº©ÍLz6Ø"\∑Fo(ÔΩÕbs‹T~IÍ2∂™j6UıIS¨Y~_WïÒyÕWﬁˇ
+”Gß-Cº@N*;≥¨Zl/≤≈ÜÚxE≈0j’Ì:kÍı,ûçÒèùçÒOù©Y‡eïã¬Ó!,Y£´÷Ë\¸◊ÒÔ«Ô«ˇ=˛·[Ø¸®ˆ›ø.X-s∂n⁄ˆ1˚{ü}Ãûπíæ˝∑œ^tfú-ŒòÛÈ√;‚Òü”ıâ;¡∫‘-<¬ûgÇ!û≈F7g˘\€ìﬂ{©Ó–~åç~zË‡U@†É#x˙„*˘≈√é_~L»ˇv`‚Í0°¯?!/#¥
+endstream
+endobj
+22 0 obj
+<</Length 1548/Filter/FlateDecode>>
+stream
+xú›X;è$πŒÁW(Ù¶˘I•ŒlOÊs‚v/Ë6p˜˜îTU™⁄ùŸŸÛ81hÈì»èQRU˝\®`¡Ú˚lD¥‹Aò™ÖiAP!qÆµ 87%äÚÚπ´<äb∂˜ﬁsπó£≈r˙ÈÈ””_ü~˛ä	ÍøóœÖ¢pRQìÏ‹{áP≥GáﬂI«ËÉOÇ_vMŒΩo2"D≈ÿìÄ*§#ÙÒQàuõ=Ê$∆ΩÌ3oø+«I6⁄Ï•~ÿ⁄>ÛÆLO«≤œ≥7àÍ=Æ/I…@1
+	Ç7aê©cçˆJ˜ÂÛ”üñÁó?|¬¢Tû?≠Nby~¸„w?"‚èà4[û≠lÌˇ|˛À”üû/ŒU+T+P‘÷Ü?ÃÆπnØtœ˛pºÂèŒ∂Œ÷fÎΩ˝WˇˇOˇˇ˜ò!˘™‰ß˛ˇrñŸ[˚zt‹Ä∏;4ˇË»hı…Vƒxˆèiâvèå˘k≥|÷AÊWVNKmﬂ]>TTﬂU>Ø’ÔØY.Ò[Jˆµ“yΩÑ;·ki}}3∞…ˇqtÀ©IHÕ–√^Ìø|.*¿^Ñ°üé@-ˆ√⁄	öâ»!gàö¿c
+RnÖ\†µ‚îäïA§CµºW™'j∫£⁄Úˇæ⁄◊—¨j-b–¨<J‡òË>ë!P⁄QLèv¥Ë›ü~*∆∫ÛÑÇ–Œ3P≤•Êê<£É',ì±ÒnfÉõÓê=£Éâ°mN<
+	˜µÿ®‹îß.d¢}u6≤™`GÄÓ⁄C¯≤j‡ó5¿%∆wÂ.{F;”∑ó∑VöÖÛò»+(´Ü#®M5∏X”b.≥Kπ∞Z∑… ∞∫(<®oj`-Uv›VAcè˛m1;F¶ìõÓÍÛÌ}è⁄ˆ('<<Õµf◊Ù£GB“@ièì‘†ÍË‹mã˛∫˝n;‹¸=ÙG8ì~ãˆ∞>ßß∑ª˙Í˝[ÒæÛ™xsˆ1ë;	∑b¬≠@õ3˙∑lõõ”8È∏ea"á@ÛC≥ÒA;˙∑≈ËôN’’ﬂ?ü^⁄QÚÓA‰f$ÀÂÌ!Œµ⁄@™`ı» iúµﬁ+a¬…°=‚‹
+a¶a7=gß£õÚÍ˜‰Åπı≥≤Ê≥‹£Hô^ƒjg∞5Ã≥¯^§Rı+‘HÎyÂHE·ÙΩµ"˝>Í‡VÑºMx/BHf∂IìB∏Yll§ >ç›
+ª∂Ÿ”≥√6;Éj^°Éç¡€¨ÿè°iõ%∫≠Õ6ãÉK«ÉM<ko∑Õ
+ı0›ëPﬁ´ßtæÔ}0_UºTœ´˛—]√òæ¡Éﬁ@¥™Êç¡J`ïQ ÌTÓ ]ˆå¶ºp77ÖÉAÎA5‡Æ<Ñ/p!ã‹ˆ;ô†‰∂ﬂ»&‹µádÇµ+dn⁄S¯2ÆkÚE+¯B6‡Æ=Ñ/p!SÔWÚFVÛ88»å¿é$M·‹…˛´m˝∑?ÇV~)l®ˆ\¬∆‡Tî2˜mj€ËújÌ:Àﬁ}˘˚ÂIû êk5©ø·%[ÍœÙ¨_æíÚ∑ü∫…”ñΩ“ÕçfRXÚ∞óZ{/œ¨rD,k/gø\64uÀÁ[Cƒ<∞èΩ|˙éFêÛ•ÇÎõ/Ñﬂ}ñ+A5-ç†E·JyÆM|/\úµYiç≠ã4≥2@èÖ+í¥“™4 ;â5 CKh≠πˆäo‰ÎêÄ≤—Yì@]Pä‡TQ7Nûƒµñ˜ò/©»Çé%éÄ¢Õ¨ªµX<5·K*,„∆®K‹∆`—(÷!Ã+„§Z<yMv rÕ°cIV◊? Bt)·æîÖÇÒ))f9¥y*˘ùÁRy6;ÂB8ﬂ,Oe!L ó≤HüƒO©
+0:•‚Ï˘G§Bj,©PÉhK*‘¡ı¥CR§≈9ZÂí
+¿8ÌQiÁTHÄÍ%íˆß"R¡•b]‹8y˛;‰zX\w»ÜÍ∏!¶¸˘ˇAôÍum&ûÏÚW¸áﬁ˛≤›ÔœZ~…∏Û7´œ/‹˝zËc€«Ùîî)óΩ!7∆RÆèÂE˙+MÓ*
+endstream
+endobj
+23 0 obj
+<</Title<FEFF004100720074006900730020201300200063006F006D0070006100630074002000730074006F00700020007300690067006E>/Creator(VectorCraft)/Producer(VectorCraft)/ModDate(D:20261123145346Z)/CreationDate(D:20261123142133Z)>>
+endobj
+24 0 obj
+<</Length 1077/Type/Metadata/Subtype/XML>>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="xmp-writer"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:xmp="http://ns.adobe.com/xap/1.0/"  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"  xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"  xmlns:pdf="http://ns.adobe.com/pdf/1.3/" ><dc:title><rdf:Alt><rdf:li xml:lang="x-default">Artis ‚Äì compact stop sign</rdf:li></rdf:Alt></dc:title><xmp:CreatorTool>VectorCraft</xmp:CreatorTool><pdf:Producer>VectorCraft</pdf:Producer><xmp:ModifyDate>2026-11-23T14:53:46+00:00</xmp:ModifyDate><xmp:CreateDate>2026-11-23T14:21:33+00:00</xmp:CreateDate><xmpTPg:NPages>1</xmpTPg:NPages><dc:format>application/pdf</dc:format><xmpMM:InstanceID>a4tlqrSvwCIvFmP5LRbpLw==</xmpMM:InstanceID><xmpMM:DocumentID>a4tlqrSvwCIvFmP5LRbpLw==</xmpMM:DocumentID><xmpMM:RenditionClass>default</xmpMM:RenditionClass><pdf:PDFVersion>1.7</pdf:PDFVersion></rdf:Description></rdf:RDF></x:xmpmeta><?xpacket end="r"?>
+endstream
+endobj
+25 0 obj
+<</ViewerPreferences<</DisplayDocTitle true>>/Type/Catalog/Pages 1 0 R/Metadata 24 0 R>>
+endobj
+xref
+0 26
+0000000000 65535 f
+0000000016 00000 n
+0000000068 00000 n
+0000000157 00000 n
+0000000296 00000 n
+0000000682 00000 n
+0000000891 00000 n
+0000001032 00000 n
+0000001252 00000 n
+0000001460 00000 n
+0000001595 00000 n
+0000001894 00000 n
+0000002096 00000 n
+0000002237 00000 n
+0000002316 00000 n
+0000002848 00000 n
+0000007043 00000 n
+0000007119 00000 n
+0000007555 00000 n
+0000009155 00000 n
+0000009233 00000 n
+0000009717 00000 n
+0000012725 00000 n
+0000014343 00000 n
+0000014578 00000 n
+0000015732 00000 n
+trailer
+<</Size 26/Root 25 0 R/Info 23 0 R/ID[(a4tlqrSvwCIvFmP5LRbpLw==)(a4tlqrSvwCIvFmP5LRbpLw==)]>>
+startxref
+15837
+%%EOF

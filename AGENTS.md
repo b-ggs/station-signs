@@ -173,10 +173,19 @@ vectorcraft-cli info FILE
     README shows it full width, and the root README's table shows it as a 240 px thumbnail.
     There's no PNG preview: the user chose SVG only, since it stays sharp at any size.
     **Re-export it whenever the sign changes.**
+  - `<station-slug>-compact.vectorcraft` and `<station-slug>-compact.svg` (optional): a compact
+    version for print and stickers. It's the same sign with the empty space removed, made by
+    copying the full sign and trimming it, so keep it in step when the full sign changes. Its
+    title and artboard name are "Station – compact … sign", for example "Artis – compact stop
+    sign". Export its SVG the same way as the main one. When a station has a compact version,
+    the root README's table thumbnail uses the compact SVG. READMEs call it "a compact version"
+    and don't mention print or stickers. The first one is Artis, which keeps only the occupied
+    row of line slots and its rules.
   - `README.md`: a short overview for people, with the station name in English and the local
     script, the city and country, line, code and neighbors, when the user visited and who with
-    (one line, for example "Visited in March 2026 with Clark and Paul."; ask, don't guess), which
-    sign it is (for example "Platform 2") and brief design notes. Keep it simple, with no signs
+    (one line, for example "Visited in March 2026 with Clark and Paul."; ask, don't guess), the
+    AI model that built it on its own line right after that (for example "Built in VectorCraft
+    by **Claude Opus 5.5**."; use your own model name), which sign it is (for example "Platform 2") and brief design notes. Keep it simple, with no signs
     table. The full decision log goes in `AGENTS.md`, not here.
   - `AGENTS.md`: station-specific facts (names, codes, neighbors, platforms, the reference
     photos used, decisions and open questions) and, for the first station on a rail system,
@@ -204,6 +213,10 @@ system, record it in that spec.
 | Prague tram (DPP / PID) | [`stations/ujezd/AGENTS.md`](stations/ujezd/AGENTS.md) |
 | Paris RATP | [`stations/gare-de-lyon/AGENTS.md`](stations/gare-de-lyon/AGENTS.md) |
 | Nice Lignes d’Azur | [`stations/garibaldi/AGENTS.md`](stations/garibaldi/AGENTS.md) |
+| Amsterdam GVB | [`stations/artis/AGENTS.md`](stations/artis/AGENTS.md) |
+| Brussels STIB/MIVB | [`stations/anneessens-fontainas/AGENTS.md`](stations/anneessens-fontainas/AGENTS.md) |
+| Hong Kong MTR | [`stations/prince-edward/AGENTS.md`](stations/prince-edward/AGENTS.md) |
+| Roma Termini (Grandi Stazioni) | [`stations/roma-termini/AGENTS.md`](stations/roma-termini/AGENTS.md) |
 | Singapore MRT | [`stations/rochor/AGENTS.md`](stations/rochor/AGENTS.md) |
 
 When starting a station on a new system, write its spec in that station's `AGENTS.md`, built
