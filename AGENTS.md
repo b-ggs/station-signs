@@ -473,3 +473,53 @@ Coordinates are in pt.
   white Arial Rounded MT Bold labels. Use the station's notes for tile colors and widths.
 - **Logo:** orange and yellow two-line Lignes d’Azur wordmark at the upper right,
   crossing the strip and white face. The photo does not show a contrasting logo panel.
+
+### Singapore MRT: station name sign
+
+First pass from an oblique photo of the Rochor (DT13) platform sign. It was rectified with the
+sign's corners, and its height set so Rochor's “o”s match LTAIdentity's proportions. All values
+are in pt. Check this layout against other lines and stations before assuming it applies
+system-wide.
+
+- **Face:** 1600 × 376, dark charcoal `#353234`, sampled from the middle of the panel (the
+  edges are lighter from glare; not yet reviewed by the user). A full-width line-color bar
+  runs along the bottom, y 324–376. Ignore the red notices mounted below the sign.
+- **Palette:**
+
+  | Role | Color | Source |
+  |---|---|---|
+  | Panel | `#353234` | photo, middle of the panel |
+  | Line color, Downtown Line (bar and badge) | `#0056b8` | LTA's official system map PDF (the DTL route stroke), ≈ Pantone 2935 C |
+  | Text and badge ring | `#ffffff` | |
+
+  The user chose the system map blue over the photo sample `#2454ae` (dimmed by station
+  lighting), OpenStreetMap's `#0354a6` and the commonly cited `#005ec4`. For other lines, take
+  colors from the same map: North South `#e1261c`, East West `#00953b`, North East `#9e28b5`,
+  Circle `#ff9f19`, Thomson–East Coast `#9d5a18`.
+- **Typefaces:**
+  - English and the station code are **LTAIdentity** (the
+    [IdentityFont](https://github.com/jglim/IdentityFont) reconstruction, a single Medium
+    weight that VectorCraft lists as “Regular”). Install `font/LTAIdentity Medium.ttf` into
+    `~/Library/Fonts`, then run `text.rescanFonts`. It has Latin letters only.
+  - Chinese is **Hiragino Sans GB W3**, a stand-in, with a **1 pt white outline** to match the
+    photo's 5 pt stems (W3 alone gives 4 pt).
+  - Tamil is **InaiMathi Regular**, a stand-in, with a **1.5 pt white outline** and **106.5%
+    horizontal scale** to match the photo's width. That gives 6 pt stems, and the user chose it
+    over InaiMathi Bold (7 pt), and over outlines of 2 pt and 1 pt. Tamil Sangam MN is far too
+    narrow.
+- **Code badge:** a white shape at x 359–650.5, y 76.5–251, with elliptical ends (rx 60.5,
+  ry 87.25, so the sides curve over the full height). Inside it is the line-color shape inset
+  10.5 (rx 50, ry 76.75). The code (“DT 13”) is LTAIdentity 94 in white, centered at x 505,
+  baseline 194, with −112 tracking on the space.
+- **Station name:**
+
+  | Element | Font, size | Position (baseline) |
+  |---|---|---|
+  | English (“Rochor”) | LTAIdentity 130 | left ink edge 725, baseline 152.5 |
+  | Chinese (梧, 槽: one object per character) | Hiragino Sans GB W3 68, 1 pt outline | left edges 714.5 and 806, baseline 251.5 |
+  | Tamil | InaiMathi Regular 66, 1.5 pt outline, 106.5% | left ink edge 927, baseline 252.5 |
+
+  The Chinese characters are widely spaced, about 29 apart (ink to ink). The Tamil starts about
+  57 after the last Chinese character.
+
+Still open for Singapore MRT signs: the frame.

@@ -9,6 +9,7 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 |---|---|---|---|
 | <a href="stations/ueno/"><img src="stations/ueno/ueno.png" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
 | <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.png" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
+| <a href="stations/rochor/"><img src="stations/rochor/rochor.png" alt="Rochor, station name sign" width="240"></a> | [Rochor](stations/rochor/) | Singapore | Jun 2026 |
 | <a href="stations/ujezd/"><img src="stations/ujezd/ujezd.png" alt="Újezd tram direction sign" width="240"></a> | [Újezd](stations/ujezd/) | Prague, Czechia | Aug 2026 |
 | <a href="stations/gare-de-lyon/"><img src="stations/gare-de-lyon/gare-de-lyon.png" alt="Gare de Lyon Métro and RER entrance sign" width="240"></a> | [Gare de Lyon](stations/gare-de-lyon/) | Paris, France | Aug 2026 |
 | <a href="stations/garibaldi/"><img src="stations/garibaldi/garibaldi.png" alt="Garibaldi bus stop sign" width="240"></a> | [Garibaldi](stations/garibaldi/) | Nice, France | Aug 2026 |
@@ -25,7 +26,9 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
    Neo (also built in), plus Hind (`brew install --cask font-hind`). The Kaohsiung Metro sign uses
     Songti TC, Hiragino Sans GB, and Arial. The Prague tram and Paris RATP signs use
     Source Sans 3; the RATP sign also uses Parisine. The Nice bus sign uses Helvetica Neue
-    and Arial Rounded MT Bold.
+    and Arial Rounded MT Bold. The Singapore MRT sign uses LTAIdentity (the
+    [IdentityFont](https://github.com/jglim/IdentityFont) reconstruction, installed from its
+    TTF), Hiragino Sans GB and InaiMathi.
 
 ## Working on a sign
 
