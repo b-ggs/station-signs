@@ -10,8 +10,8 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 | <a href="stations/sutthisan/"><img src="stations/sutthisan/sutthisan-compact.svg" alt="Sutthisan, compact Exit 4 sign" width="240"></a> | [Sutthisan](stations/sutthisan/) | Bangkok, Thailand | Mar 2024 |
 | <a href="stations/roma-termini/"><img src="stations/roma-termini/roma-termini.svg" alt="Roma Termini entrance sign" width="240"></a> | [Roma Termini](stations/roma-termini/) | Rome, Italy | Sep 2024 |
 | <a href="stations/prince-edward/"><img src="stations/prince-edward/prince-edward.svg" alt="Prince Edward station name wall" width="240"></a> | [Prince Edward](stations/prince-edward/) | Hong Kong | Feb 2025 |
-| <a href="stations/artis/"><img src="stations/artis/artis-compact.svg" alt="Artis/Nationaal Holocaustmuseum compact stop sign" width="240"></a> | [Artis](stations/artis/) | Amsterdam, Netherlands | Aug 2025 |
 | <a href="stations/vilnius/"><img src="stations/vilnius/vilnius-compact.svg" alt="LTG ribbon from Vilnius railway station" width="240"></a> | [Vilnius](stations/vilnius/) | Vilnius, Lithuania | Aug 2025 |
+| <a href="stations/artis/"><img src="stations/artis/artis-compact.svg" alt="Artis/Nationaal Holocaustmuseum compact stop sign" width="240"></a> | [Artis](stations/artis/) | Amsterdam, Netherlands | Aug 2025 |
 | <a href="stations/anneessens-fontainas/"><img src="stations/anneessens-fontainas/anneessens-fontainas.svg" alt="Anneessens-Fontainas station name sign" width="240"></a> | [Anneessens-Fontainas](stations/anneessens-fontainas/) | Brussels, Belgium | Sep 2025 |
 | <a href="stations/ueno/"><img src="stations/ueno/ueno.svg" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
 | <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.svg" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
