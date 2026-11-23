@@ -1,6 +1,6 @@
 # Újezd
 
-![Újezd tram direction sign](ujezd.png)
+![Újezd tram direction sign](ujezd.svg)
 
 Prague, Czechia. A DPP tram stop in the PID network, near the Petřín funicular. Neighboring
 stops include Švandovo divadlo, Tyršův dům, and Národní divadlo, depending on the route.

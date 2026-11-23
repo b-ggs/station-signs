@@ -1,6 +1,6 @@
 # Garibaldi
 
-![Garibaldi bus stop sign](garibaldi.png)
+![Garibaldi bus stop sign](garibaldi.svg)
 
 Nice, France. This Lignes d’Azur bus shelter sign displays routes **15, 33, 57, and 33s**.
 On line 15 toward Lycée Masséna, it sits between Port Lympia / Arson and Lycée Masséna.

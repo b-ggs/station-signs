@@ -1,6 +1,6 @@
 # Gare de Lyon
 
-![Gare de Lyon Métro and RER entrance sign](gare-de-lyon.png)
+![Gare de Lyon Métro and RER entrance sign](gare-de-lyon.svg)
 
 Paris, France. This RATP entrance sign shows **RER A and D** and **Métro 1 and 14**. On
 Métro 1, Gare de Lyon is between Bastille and Reuilly–Diderot. On Métro 14, it is between

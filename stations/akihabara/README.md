@@ -1,6 +1,6 @@
 # Akihabara · 秋葉原
 
-![Akihabara station name sign](akihabara.png)
+![Akihabara station name sign](akihabara.svg)
 
 Tokyo, Japan. Station **JB19** (AKB) on the JR Chūō–Sōbu Line (local), between Asakusabashi
 (JB20) and Ochanomizu (JB18).

@@ -151,8 +151,8 @@ vectorcraft-cli info FILE
 
 - `README.md`: a short overview for people. When you add a station, add a row to its table, which
   has four columns: `Sign | Station | City, Country | Visited`.
-  - **Sign:** a thumbnail of the station's preview PNG, linked to its folder:
-    `<a href="stations/<slug>/"><img src="stations/<slug>/<slug>.png" alt="…" width="240"></a>`
+  - **Sign:** a thumbnail of the station's SVG, linked to its folder:
+    `<a href="stations/<slug>/"><img src="stations/<slug>/<slug>.svg" alt="…" width="240"></a>`
   - **Station:** the station name, linked to its folder.
   - **Visited:** a short month and year, for example "Apr 2026". Ask the user when they visited;
     don't guess.
@@ -164,12 +164,14 @@ vectorcraft-cli info FILE
   holds:
   - `<station-slug>.vectorcraft`: the source file. It holds **exactly one sign** on one artboard.
     Extra artboards only exist temporarily while comparing variants, and get deleted once the
-    user picks one.
-  - `<station-slug>.png`: a preview, exported at 1× with
-    `vectorcraft-cli convert <slug>.vectorcraft <slug>.png --scale 1`, which gives a
-    1620 × 420 px image for a BTS sign. The user chose 1× over 0.5× because the smaller image
-    looked fuzzy on Retina screens, especially fine Tamil and Chinese text. The station README
-    shows it full width, and the root README's table shows it as a 240 px thumbnail.
+    user picks one. Its File Info title (`file.info {title}`) and its artboard name are both
+    "Station – sign", with an en dash and no line code, for example "Rochor – station name sign"
+    or "Phrom Phong – Platform 2 sign". The title becomes the SVG's `<title>`.
+  - `<station-slug>.svg`: the preview, exported with
+    `vectorcraft-cli convert <slug>.vectorcraft <slug>.svg --outline-text`. The text is converted
+    to outlines so it looks right without the sign's fonts, including on GitHub. The station
+    README shows it full width, and the root README's table shows it as a 240 px thumbnail.
+    There's no PNG preview: the user chose SVG only, since it stays sharp at any size.
     **Re-export it whenever the sign changes.**
   - `README.md`: a short overview for people, with the station name in English and the local
     script, the city and country, line, code and neighbors, when the user visited and who with

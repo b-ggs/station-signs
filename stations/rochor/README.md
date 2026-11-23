@@ -1,6 +1,6 @@
 # Rochor · 梧槽 · ரோச்சோர்
 
-![Rochor station name sign](rochor.png)
+![Rochor station name sign](rochor.svg)
 
 Singapore. Station **DT13** on the MRT Downtown Line, between Little India (DT12) and
 Bugis (DT14).

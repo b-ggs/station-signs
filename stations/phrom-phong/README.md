@@ -1,6 +1,6 @@
 # Phrom Phong · พร้อมพงษ์
 
-![Phrom Phong, Platform 2 sign](phrom-phong.png)
+![Phrom Phong, Platform 2 sign](phrom-phong.svg)
 
 Bangkok, Thailand. Station **E5** on the BTS Skytrain Sukhumvit Line, between Thong Lo (E6) and
 Asok (E4).

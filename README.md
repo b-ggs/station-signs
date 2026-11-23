@@ -7,14 +7,14 @@ the world. They're built in **VectorCraft**, with an AI agent drawing live in th
 
 | Sign | Station | City, Country | Visited |
 |---|---|---|---|
-| <a href="stations/ueno/"><img src="stations/ueno/ueno.png" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
-| <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.png" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
-| <a href="stations/rochor/"><img src="stations/rochor/rochor.png" alt="Rochor, station name sign" width="240"></a> | [Rochor](stations/rochor/) | Singapore | Jun 2026 |
-| <a href="stations/ujezd/"><img src="stations/ujezd/ujezd.png" alt="Újezd tram direction sign" width="240"></a> | [Újezd](stations/ujezd/) | Prague, Czechia | Aug 2026 |
-| <a href="stations/gare-de-lyon/"><img src="stations/gare-de-lyon/gare-de-lyon.png" alt="Gare de Lyon Métro and RER entrance sign" width="240"></a> | [Gare de Lyon](stations/gare-de-lyon/) | Paris, France | Aug 2026 |
-| <a href="stations/garibaldi/"><img src="stations/garibaldi/garibaldi.png" alt="Garibaldi bus stop sign" width="240"></a> | [Garibaldi](stations/garibaldi/) | Nice, France | Aug 2026 |
-| <a href="stations/akihabara/"><img src="stations/akihabara/akihabara.png" alt="Akihabara, station name sign" width="240"></a> | [Akihabara](stations/akihabara/) | Tokyo, Japan | Sep 2026 |
-| <a href="stations/formosa-boulevard/"><img src="stations/formosa-boulevard/formosa-boulevard.png" alt="Formosa Boulevard, Entrance 1 sign" width="240"></a> | [Formosa Boulevard](stations/formosa-boulevard/) | Kaohsiung, Taiwan | Oct 2026 |
+| <a href="stations/ueno/"><img src="stations/ueno/ueno.svg" alt="Ueno, station name sign" width="240"></a> | [Ueno](stations/ueno/) | Tokyo, Japan | Mar 2026 |
+| <a href="stations/phrom-phong/"><img src="stations/phrom-phong/phrom-phong.svg" alt="Phrom Phong, Platform 2 sign" width="240"></a> | [Phrom Phong](stations/phrom-phong/) | Bangkok, Thailand | Apr 2026 |
+| <a href="stations/rochor/"><img src="stations/rochor/rochor.svg" alt="Rochor, station name sign" width="240"></a> | [Rochor](stations/rochor/) | Singapore | Jun 2026 |
+| <a href="stations/ujezd/"><img src="stations/ujezd/ujezd.svg" alt="Újezd tram direction sign" width="240"></a> | [Újezd](stations/ujezd/) | Prague, Czechia | Aug 2026 |
+| <a href="stations/gare-de-lyon/"><img src="stations/gare-de-lyon/gare-de-lyon.svg" alt="Gare de Lyon Métro and RER entrance sign" width="240"></a> | [Gare de Lyon](stations/gare-de-lyon/) | Paris, France | Aug 2026 |
+| <a href="stations/garibaldi/"><img src="stations/garibaldi/garibaldi.svg" alt="Garibaldi bus stop sign" width="240"></a> | [Garibaldi](stations/garibaldi/) | Nice, France | Aug 2026 |
+| <a href="stations/akihabara/"><img src="stations/akihabara/akihabara.svg" alt="Akihabara, station name sign" width="240"></a> | [Akihabara](stations/akihabara/) | Tokyo, Japan | Sep 2026 |
+| <a href="stations/formosa-boulevard/"><img src="stations/formosa-boulevard/formosa-boulevard.svg" alt="Formosa Boulevard, Entrance 1 sign" width="240"></a> | [Formosa Boulevard](stations/formosa-boulevard/) | Kaohsiung, Taiwan | Oct 2026 |
 
 ## Requirements
 

@@ -1,6 +1,6 @@
 # Ueno · 上野
 
-![Ueno station name sign](ueno.png)
+![Ueno station name sign](ueno.svg)
 
 Tokyo, Japan. Station **JY05** (UEN) on the JR Yamanote Line, between Okachimachi (JY04) and
 Uguisudani (JY06).

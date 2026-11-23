@@ -1,6 +1,6 @@
 # Formosa Boulevard · 美麗島站
 
-![Formosa Boulevard Station, Entrance 1 sign](formosa-boulevard.png)
+![Formosa Boulevard Station, Entrance 1 sign](formosa-boulevard.svg)
 
 Kaohsiung, Taiwan. Station **R10/O5** on the Kaohsiung Metro. On the Red Line it sits between
 Central Park (R9) and Kaohsiung Main Station (R11); on the Orange Line it sits between Cianjin
