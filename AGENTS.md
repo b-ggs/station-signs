@@ -433,3 +433,27 @@ describe this style of printed panel, not newer PID stop signs. Coordinates are 
   share a second. The cropped plates run from y 720 to the bottom edge. The contact plate
   has two 5 pt top corners; the logo plate only retains its 5 pt upper-left corner.
   Match the specific photo rather than replacing the historical contact details or branding.
+
+### Paris RATP: Métro and RER entrance sign
+
+First pass from the rectified Gare de Lyon photo. Use the photographed legacy sign, not a
+current wayfinding template. Measurements are in pt.
+
+- **Face:** plain 1546.37 × 213 rectangle. The white `#ffffff` route badge panel is 364 wide;
+  the rest is navy `#11172c`. No metal frame or reflections.
+- **Name:** white Parisine Bold 139 at natural width, x 410 and baseline 158. If Parisine
+  is unavailable, manually use Source Sans 3 Bold 148 at 95.5% horizontal scale.
+- **Route badges:** two rows centered at y 57 and 156, with column centers x 84, 182,
+  and 280. The visible margins are 40.25 pt on both sides and 13.25 pt above and below.
+  Circles are 82 across before the 5.5 pt stroke on outlined badges. The photographed
+  arrangement is RER, A, D above M, 1, 14. Use Parisine Regular 39.5 for RER (83% horizontal
+  scale) and Parisine Regular 60 for A, D, and M, all with a 1.5 pt same-color outline
+  with round joins. Use Parisine Bold 65 for the numbers. Both
+  numerals are at natural width; “14” uses −124 tracking for a visible gap just under
+  4 pt.
+- **RATP plaque:** teal `#006b5b`, flush right, from x 1320 to 1546.37 and y 43 to 175.
+  The white legacy lockup follows the symbol and wordmark proportions in the photo.
+  The wordmark has sharp corners and no stroke. The lockup has 25.67 pt of teal on each
+  side, measured from the left edge of the symbol and right edge of the wordmark.
+
+The colors are first-pass estimates from the reference, not official paint values.
