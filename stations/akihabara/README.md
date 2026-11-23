@@ -7,6 +7,8 @@ Tokyo, Japan. Station **JB19** (AKB) on the JR Chūō–Sōbu Line (local), betw
 
 Visited in September 2026.
 
+Built in VectorCraft by **Claude Opus 5.5**.
+
 The sign is the station name sign for trains toward Ochanomizu, in
 [`akihabara.vectorcraft`](akihabara.vectorcraft).
 

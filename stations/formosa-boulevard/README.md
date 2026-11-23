@@ -8,6 +8,8 @@ Central Park (R9) and Kaohsiung Main Station (R11); on the Orange Line it sits b
 
 Visited in October 2026.
 
+Built in VectorCraft by **GPT-6.2 Sol**.
+
 This recreation shows **Entrance 1**, with its yellow numeral spanning both bands. The clearer
 Entrance 10 photo supplied the lettering measurements and the sampled blue; the upper face
 uses a light neutral gray chosen separately. The Entrance 1 photo supplied the numeral. The source is

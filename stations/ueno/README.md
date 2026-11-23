@@ -7,6 +7,8 @@ Uguisudani (JY06).
 
 Visited in March 2026.
 
+Built in VectorCraft by **Claude Opus 5.5**.
+
 The sign is the station name sign for trains toward Uguisudani, in
 [`ueno.vectorcraft`](ueno.vectorcraft).
 

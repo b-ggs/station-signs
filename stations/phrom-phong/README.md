@@ -7,6 +7,8 @@ Asok (E4).
 
 Visited in April 2026.
 
+Built in VectorCraft by **Claude Opus 5.5**.
+
 The sign is the Platform 2 sign (heading toward Asok), in
 [`phrom-phong.vectorcraft`](phrom-phong.vectorcraft).
 

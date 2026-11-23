@@ -8,6 +8,8 @@ Châtelet and Bercy.
 
 Visited in August 2026.
 
+Built in VectorCraft by **GPT-6.2 Sol**.
+
 The recreation keeps the two rows of badges and the teal RATP plaque from the reference,
 but uses a rectangular face instead of the curved housing. The editable source is
 [`gare-de-lyon.vectorcraft`](gare-de-lyon.vectorcraft).
