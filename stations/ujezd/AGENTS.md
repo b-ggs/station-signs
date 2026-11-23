@@ -28,6 +28,14 @@
   corner. Both logos were lowered to align their visible bottoms with `www.dpp.cz`.
 - Source Sans 3 is a stand-in. The exact backing gray is estimated.
 
+## Compact version
+
+`ujezd-compact.vectorcraft` (594 × 634) is a copy of the full sign without the fifth grid row
+(the empty cells at y 613). The footer (stop code, contact plate and logo plate) moves up
+108 pt, one row pitch, so it starts at y 612, and the gray backing is shortened to match.
+Everything above the footer is identical to the full sign, so carry over any changes made
+there.
+
 ## Design spec: Prague tram (DPP / PID): direction sign
 
 First pass from the rectified photo of the Újezd tram direction panel. These measurements

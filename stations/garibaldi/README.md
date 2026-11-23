@@ -8,6 +8,12 @@ The artwork shows the routes printed on the sign, not a live timetable.
 
 Visited in August 2026 with David.
 
-Built in VectorCraft by **GPT-6.2 Sol**.
+Built in VectorCraft by **GPT-6.2 Sol**. Compact version by **Claude Opus 5.5**.
 
-The editable source is [`garibaldi.vectorcraft`](garibaldi.vectorcraft).
+There's also a compact version, with the logo pulled in next to the name and the empty space
+at the bottom removed:
+
+![Garibaldi compact bus shelter sign](garibaldi-compact.svg)
+
+The editable sources are [`garibaldi.vectorcraft`](garibaldi.vectorcraft) and
+[`garibaldi-compact.vectorcraft`](garibaldi-compact.vectorcraft).

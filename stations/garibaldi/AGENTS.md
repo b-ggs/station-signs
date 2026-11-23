@@ -24,6 +24,15 @@
   [Lignes dAzur logo 2010.svg](https://fr.wikipedia.org/wiki/Fichier:Lignes_dAzur_logo_2010.svg).
 - Only the printed sign face is modeled; no shelter, metal frame, glare, or weathering.
 
+## Compact version
+
+`garibaldi-compact.vectorcraft` (1161 × 390) is a copy of the full sign with the blank areas
+trimmed. The Lignes d’Azur logo moves left to x 958, 60 pt past the end of GARIBALDI (about
+x 898), keeping its 18 pt right margin. The user chose 60 pt over 30 and 100. The bottom is
+cut 30 pt below the route tiles, matching their 30 pt left margin. The white face and sky-blue
+strip are resized to the new width and height. Everything else is identical to the full sign,
+so carry over any changes made there.
+
 ## Design spec: Nice Lignes d’Azur: bus shelter header
 
 First pass for the Garibaldi panel. Use the sharper, rectified photo for geometry and the
