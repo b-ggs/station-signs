@@ -172,9 +172,10 @@ vectorcraft-cli info FILE
     shows it full width, and the root README's table shows it as a 240 px thumbnail.
     **Re-export it whenever the sign changes.**
   - `README.md`: a short overview for people, with the station name in English and the local
-    script, the city and country, line, code and neighbors, when the user visited, which sign it
-    is (for example "Platform 2"), an export command and brief design notes. Keep it simple, with
-    no signs table. The full decision log goes in `AGENTS.md`, not here.
+    script, the city and country, line, code and neighbors, when the user visited and who with
+    (one line, for example "Visited in March 2026 with Clark and Paul."; ask, don't guess), which
+    sign it is (for example "Platform 2"), an export command and brief design notes. Keep it
+    simple, with no signs table. The full decision log goes in `AGENTS.md`, not here.
   - `AGENTS.md`: station-specific facts (names, codes, neighbors, platforms, the reference
     photos used, decisions and open questions), plus a `CLAUDE.md` containing `@AGENTS.md`
   - `exports/`: rendered SVG, PDF and PNG files (create when needed)

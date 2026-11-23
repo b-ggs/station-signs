@@ -5,7 +5,7 @@
 Bangkok, Thailand. Station **E5** on the BTS Skytrain Sukhumvit Line, between Thong Lo (E6) and
 Asok (E4).
 
-Visited in April 2026.
+Visited in April 2026 with Rodj and Kurt.
 
 Built in VectorCraft by **Claude Opus 5.5**.
 

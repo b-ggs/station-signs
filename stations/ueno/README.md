@@ -5,7 +5,7 @@
 Tokyo, Japan. Station **JY05** (UEN) on the JR Yamanote Line, between Okachimachi (JY04) and
 Uguisudani (JY06).
 
-Visited in March 2026.
+Visited in March 2026 with Clark and Paul.
 
 Built in VectorCraft by **Claude Opus 5.5**.
 

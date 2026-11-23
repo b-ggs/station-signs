@@ -6,7 +6,7 @@ Kaohsiung, Taiwan. Station **R10/O5** on the Kaohsiung Metro. On the Red Line it
 Central Park (R9) and Kaohsiung Main Station (R11); on the Orange Line it sits between Cianjin
 (O4) and Sinyi Elementary School (O6).
 
-Visited in October 2026.
+Visited in October 2026 with Ann and Mark.
 
 Built in VectorCraft by **GPT-6.2 Sol**.
 

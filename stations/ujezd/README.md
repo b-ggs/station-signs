@@ -5,7 +5,7 @@
 Prague, Czechia. A DPP tram stop in the PID network, near the Petřín funicular. Neighboring
 stops include Švandovo divadlo, Tyršův dům, and Národní divadlo, depending on the route.
 
-Visited in August 2026.
+Visited in August 2026 with David.
 
 Built in VectorCraft by **GPT-6.2 Sol**.
 

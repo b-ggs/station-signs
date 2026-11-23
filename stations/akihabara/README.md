@@ -5,7 +5,7 @@
 Tokyo, Japan. Station **JB19** (AKB) on the JR Chūō–Sōbu Line (local), between Asakusabashi
 (JB20) and Ochanomizu (JB18).
 
-Visited in September 2026.
+Visited in September 2026 with Clark, Paul, Ann, and Mark.
 
 Built in VectorCraft by **Claude Opus 5.5**.
 

@@ -5,7 +5,7 @@
 Singapore. Station **DT13** on the MRT Downtown Line, between Little India (DT12) and
 Bugis (DT14).
 
-Visited in June 2026.
+Visited in June 2026 with David and Arjan.
 
 Built in VectorCraft by **Claude Opus 5.5**.
 

@@ -6,7 +6,7 @@ Paris, France. This RATP entrance sign shows **RER A and D** and **Métro 1 and 
 Métro 1, Gare de Lyon is between Bastille and Reuilly–Diderot. On Métro 14, it is between
 Châtelet and Bercy.
 
-Visited in August 2026.
+Visited in August 2026 with David.
 
 Built in VectorCraft by **GPT-6.2 Sol**.
 
